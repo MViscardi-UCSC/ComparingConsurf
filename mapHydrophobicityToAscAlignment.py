@@ -186,11 +186,12 @@ def output_attribute_files(df_dict: DF_DICT, suffix: str = '',
         # print(name, attribute_lines, sep='\n')
         all_lines = header_lines + attribute_lines
         all_lines = [f'{l}\n' for l in all_lines]
-        open(output_file, 'w').writelines(all_lines)
+        with open(output_file, 'w') as f:
+            f.writelines(all_lines)
 
 
 if __name__ == '__main__':
-    file = r"Realigned_Sequences_w3letter.asc"
+    file = r"C:\Users\Marcus Viscardi\PycharmProjects\ComparingConsurf\200522_Match2HWXand2HWY.asc"
     dataframe_dict = parse_three_letter_asc(file, 118)
     scale = 'kd'
     diff_df_dict = add_hydrophobicity(dataframe_dict, scale=scale)

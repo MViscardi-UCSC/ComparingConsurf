@@ -61,6 +61,70 @@ def add_hydrophobicity(df_dict: DF_DICT, scale: str = "kd"):
         Lys	-3.9	-0.99	2.71	5.39	-3.46
         Arg	-4.5	-0.81	2.58	3.71	-2.57
     """
+    scales = {'kd': {'ile': 4.5,
+                     'val': 4.2,
+                     'leu': 3.8,
+                     'phe': 2.8,
+                     'cys': 2.5,
+                     'met': 1.9,
+                     'ala': 1.8,
+                     'gly': -0.4,
+                     'thr': -0.7,
+                     'ser': -0.8,
+                     'trp': -0.9,
+                     'tyr': -1.3,
+                     'pro': -1.6,
+                     'his': -3.2,
+                     'glu': -3.5,
+                     'gln': -3.5,
+                     'asp': -3.5,
+                     'asn': -3.5,
+                     'lys': -3.9,
+                     'arg': -4.5,
+                     },
+              'ww': {'ile': 0.31,
+                     'val': -0.07,
+                     'leu': 0.56,
+                     'phe': 1.13,
+                     'cys': 0.24,
+                     'met': 0.23,
+                     'ala': -0.17,
+                     'gly': -0.01,
+                     'thr': -0.14,
+                     'ser': -0.13,
+                     'trp': 1.85,
+                     'tyr': 0.94,
+                     'pro': -0.45,
+                     'his': -0.96,
+                     'glu': -2.02,
+                     'gln': -0.58,
+                     'asp': -1.23,
+                     'asn': -0.42,
+                     'lys': -0.99,
+                     'arg': -0.81,
+                     },
+              'hh': {'ile': -0.60,
+                     'val': -0.31,
+                     'leu': -0.55,
+                     'phe': -0.32,
+                     'cys': -0.13,
+                     'met': -0.10,
+                     'ala': 0.11,
+                     'gly': 0.74,
+                     'thr': 0.52,
+                     'ser': 0.84,
+                     'trp': 0.30,
+                     'tyr': 0.68,
+                     'pro': 2.23,
+                     'his': 2.06,
+                     'glu': 2.68,
+                     'gln': 2.36,
+                     'asp': 3.49,
+                     'asn': 2.05,
+                     'lys': 2.71,
+                     'arg': 2.58,
+                     },
+              }
     if scale.lower() == "kd":  # TODO: This would be better to have each be a key to a nested dict
         scale = {'ile': 4.5,
                  'val': 4.2,
@@ -98,7 +162,7 @@ def add_hydrophobicity(df_dict: DF_DICT, scale: str = "kd"):
     print(merge_df[['POS', f'ID_{hwx}', f'ID_{hwy}', 'HYDRO_DIFF']])
     output_df_dict = {}
     for name in key_list:
-        output_df_dict[name] = merge_df[[f'ID_{name}', 'HYDRO_DIFF']]
+        output_df_dict[name] = merge_df[[f'ID_{name}', f'HYDRO_{name}', 'HYDRO_DIFF']]
         print(output_df_dict[name].head(10))
     return output_df_dict
 
@@ -128,5 +192,6 @@ def output_attribute_files(df_dict: DF_DICT, suffix: str = '',
 if __name__ == '__main__':
     file = r"Realigned_Sequences_w3letter.asc"
     dataframe_dict = parse_three_letter_asc(file, 118)
-    diff_df_dict = add_hydrophobicity(dataframe_dict, scale='kd')
-    output_attribute_files(diff_df_dict, scale='kd')
+    scale = 'kd'
+    diff_df_dict = add_hydrophobicity(dataframe_dict, scale=scale)
+    output_attribute_files(diff_df_dict, scale=scale)

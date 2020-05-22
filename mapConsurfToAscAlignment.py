@@ -6,7 +6,7 @@ Taking parsing scripts from parseASC.py and parseConSurfGrades.py
 
 Using these to map the consurf data onto the alignments
 """
-from time import sleep
+
 from typing import Dict, List
 
 import pandas as pd
@@ -70,7 +70,7 @@ def map_together(alignment_dict: DF_DICT, grades_dict: DF_DICT):
         except KeyError as ke:
             print(f"ERROR: Mismatch in dataframe dictionary keys. {ke} "
                   f"not found in keys of alignment dictionary: {list(alignment_dict.keys())}")
-            sleep(0.2)
+            # sleep(0.2)
             raise ke
     key_list = [k for k in grades_dict.keys()]
     HWX, HWY = key_list

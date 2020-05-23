@@ -135,7 +135,9 @@ def main(grades_dict: STR_DICT, asc_path_and_breakline: List[str and int], suffi
 if __name__ == '__main__':
     used_grades_dict = {"2HWX": r"T:\Chrome Downloads\SMG5and6\SMG6_(2HWX)\All_Consurf_Outputs\consurf.grades",
                         "2HWY": r"T:\Chrome Downloads\SMG5and6\SMG5_(2HWY)\All_Consurf_Outputs\consurf.grades", }
-    asc_path = [r"T:\Chrome Downloads\SMG5and6\2HWY&2HWX\Realigned Sequences.asc", 167]
-    asc_path_no_realign = [r"T:\Chrome Downloads\SMG5and6\2HWY&2HWX\2HWXand2HWY_notRealigned.asc", 118]
-    main(used_grades_dict, asc_path, suffix='_realigned')
-    main(used_grades_dict, asc_path_no_realign, suffix='_noRealign')
+    # asc_path = [r"T:\Chrome Downloads\SMG5and6\2HWY&2HWX\Realigned Sequences.asc", 167]
+    # asc_path_no_realign = [r"T:\Chrome Downloads\SMG5and6\2HWY&2HWX\2HWXand2HWY_notRealigned.asc", 118]
+    # main(used_grades_dict, asc_path, suffix='_realigned')
+    # main(used_grades_dict, asc_path_no_realign, suffix='_noRealign')
+    asc_path = [r"C:\Users\Marcus Viscardi\PycharmProjects\ComparingConsurf\200522_Match2HWXand2HWY.asc", 118]
+    main(used_grades_dict, asc_path, suffix='_200522')

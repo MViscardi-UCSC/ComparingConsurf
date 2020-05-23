@@ -36,17 +36,17 @@ def parse_three_letter_asc(file: str, split_line_num: int) -> DF_DICT:
     return df_dict
 
 
-def add_hydrophobicity(df_dict: DF_DICT, scale: str = "kd"):
+def add_hydrophobicity(df_dict: DF_DICT, scale: str = "kd") -> DF_DICT:
     """
     Hydrophobicity scales: (https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/midas/hydrophob.html)
-        RES KD  WW      HH      MF      TT
-        Ile	4.5	0.31	-0.60	-1.56	1.97
-        Val	4.2	-0.07	-0.31	-0.78	1.46
-        Leu	3.8	0.56	-0.55	-1.81	1.82
-        Phe	2.8	1.13	-0.32	-2.20	1.98
-        Cys	2.5	0.24	-0.13	0.49	-0.30
-        Met	1.9	0.23	-0.10	-0.76	1.40
-        Ala	1.8	-0.17	0.11	0.0	0.38
+        RES KD      WW      HH      MF      TT
+        Ile	4.5		0.31	-0.60	-1.56	1.97
+        Val	4.2		-0.07	-0.31	-0.78	1.46
+        Leu	3.8		0.56	-0.55	-1.81	1.82
+        Phe	2.8		1.13	-0.32	-2.20	1.98
+        Cys	2.5		0.24	-0.13	0.49	-0.30
+        Met	1.9		0.23	-0.10	-0.76	1.40
+        Ala	1.8		-0.17	0.11	0.0		0.38
         Gly	-0.4	-0.01	0.74	1.72	-0.19
         Thr	-0.7	-0.14	0.52	1.78	-0.32
         Ser	-0.8	-0.13	0.84	1.83	-0.53
@@ -124,36 +124,61 @@ def add_hydrophobicity(df_dict: DF_DICT, scale: str = "kd"):
                      'lys': 2.71,
                      'arg': 2.58,
                      },
+              'mf': {'ile': -1.56,
+                     'val': -0.78,
+                     'leu': -1.81,
+                     'phe': -2.20,
+                     'cys': 0.49,
+                     'met': -0.76,
+                     'ala': 0.0,
+                     'gly': 1.72,
+                     'thr': 1.78,
+                     'ser': 1.83,
+                     'trp': -0.38,
+                     'tyr': -1.09,
+                     'pro': -1.52,
+                     'his': 4.76,
+                     'glu': 1.64,
+                     'gln': 3.01,
+                     'asp': 2.95,
+                     'asn': 3.47,
+                     'lys': 5.39,
+                     'arg': 3.71,
+                     },
+              'tt': {'ile': 1.97,
+                     'val': 1.46,
+                     'leu': 1.82,
+                     'phe': 1.98,
+                     'cys': -0.30,
+                     'met': 1.40,
+                     'ala': 0.38,
+                     'gly': -0.19,
+                     'thr': -0.32,
+                     'ser': -0.53,
+                     'trp': 1.53,
+                     'tyr': 0.49,
+                     'pro': -1.44,
+                     'his': -1.44,
+                     'glu': -2.90,
+                     'gln': -1.84,
+                     'asp': -3.27,
+                     'asn': -1.62,
+                     'lys': -3.46,
+                     'arg': -2.57,
+                     },
               }
-    if scale.lower() == "kd":  # TODO: This would be better to have each be a key to a nested dict
-        scale = {'ile': 4.5,
-                 'val': 4.2,
-                 'leu': 3.8,
-                 'phe': 2.8,
-                 'cys': 2.5,
-                 'met': 1.9,
-                 'ala': 1.8,
-                 'gly': -0.4,
-                 'thr': -0.7,
-                 'ser': -0.8,
-                 'trp': -0.9,
-                 'tyr': -1.3,
-                 'pro': -1.6,
-                 'his': -3.2,
-                 'glu': -3.5,
-                 'gln': -3.5,
-                 'asp': -3.5,
-                 'asn': -3.5,
-                 'lys': -3.9,
-                 'arg': -4.5,
-                 }
-    else:  # Then could catch this as an IndexError
-        print(f"Scale: '{scale}' not currently accepted, sorry")
+    if scale.lower() in scales.keys():
+        scale = scales[scale]
+    else:
+        print(f"Scale: '{scale}' not accepted, sorry?")
         sys.exit()
-    # First add the hydrophobicity scores on from the scale dictionary:
+    # Add the hydrophobicity scores on from the scale dictionary:
     for name, df in df_dict.items():
         df['HYDRO'] = pd.Series(df['RES'].str.lower()).map(scale)
-    # Then merge the two dicts together based on the alignment POS
+    return df_dict
+
+
+def merge_df_dict(df_dict: DF_DICT) -> DF_DICT:
     key_list = [k for k in df_dict.keys()]
     hwy, hwx = key_list
     print(f"\nKeys:\n\tHWX: '{hwx}'\n\tHWY: '{hwy}'")
@@ -190,9 +215,16 @@ def output_attribute_files(df_dict: DF_DICT, suffix: str = '',
             f.writelines(all_lines)
 
 
+def main_attribute_generation(asc_file: str, split_line: int, scale: str) -> None:
+    dataframe_dict = parse_three_letter_asc(asc_file, split_line)
+    hydro_df_dict = add_hydrophobicity(dataframe_dict, scale=scale)
+    diff_df_dict = merge_df_dict(hydro_df_dict)
+    output_attribute_files(diff_df_dict, scale=scale)
+
+
 if __name__ == '__main__':
     file = r"C:\Users\Marcus Viscardi\PycharmProjects\ComparingConsurf\200522_Match2HWXand2HWY.asc"
     dataframe_dict = parse_three_letter_asc(file, 118)
-    scale = 'kd'
+    scale = 'ww'
     diff_df_dict = add_hydrophobicity(dataframe_dict, scale=scale)
     output_attribute_files(diff_df_dict, scale=scale)

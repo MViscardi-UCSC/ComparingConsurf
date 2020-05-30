@@ -1,0 +1,2380 @@
+>Input_pdb_SEQRES_A
+MELEIRP--LFLVPDTNGFIDHL-ASLARLLE-S------------RK-YILVVPLIVIN
+CLDGLA--K-G-Q-ETD---------------------HRAG---GYARVVQEKARKSIE
+FLEQRFE------S-R---------D-----SCLRALTSR---------GNELE---SI-
+----AFRSEDIT----------------------GQ--LG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------ASK-----------E---EPI-
+------------RL-L--REVVLLTDDRNLRVKALTRNVPVRDIPAFLTWAQVG
+>UniRef90_A0A0Q3PYT1_461_641 | PINc domain-containing protein n=1 Tax=Amazona aestiva TaxID=12930 RepID=A0A0Q3PYT1_AMAAE | E_val=8.7e-96
+MELEIRP--VFLVPDTNGFIDHL-SSLITLLD-C------------RK-FILVVPLIVIN
+ELDGLA--K-G-P-EME---------------------HRAA---GYARQVQERARKSIE
+FLEERFE------S-R---------D-----NCLRALTSR---------GNELE---SI-
+----SFRSEDTT----------------------GQ--QG-NNDDLILSCCLHYCNDKA-
+K-----D---F-----------------M-P-------SNK-----------D---DPI-
+------------RL-L--REVVLLTXDRNLRVKALTRNVPVRDIPTFLKWAQEG
+>UniRef90_UPI001186EB68_328_508 | telomerase-binding protein EST1A n=1 Tax=Microcaecilia unicolor TaxID=1415580 RepID=UPI001186 | E_val=1.4e-93
+IELEISP--LFLVPDTNGFIDHL-PSLLRLLD-S------------RH-YILVVPLIVIN
+ELDGLA--K-G-Q-ESD---------------------CRAG---GHSRLVQEKAKSAVE
+FLEQRFE------S-R---------D-----IFLRALTSR---------GNELE---SI-
+----AFRSEDTT----------------------GQ--KG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------STK-----------D---EPI-
+------------RL-R--REVVLLTDDRNLRVKALTHHVPVRDIAAFLKWAKVG
+>UniRef90_H3A210_286_465 | PINc domain-containing protein n=1 Tax=Latimeria chalumnae TaxID=7897 RepID=H3A210_LATCH | E_val=5.7e-93
+-EIEIAP--LFLVPDTNGFIDHL-PSLCKLLQ-C------------KQ-YILVVPLIVIN
+ELDGLA--K-G-Q-EGE---------------------HSSG---SHSRLVQEKARKSID
+FLEQKFE------S-R---------D-----PCLRALTSR---------GNELE---SI-
+----AFRSEDTT----------------------GQ--QG-NNDDLILSCCLHYCKDKA-
+R-----D---F-----------------M-P-------TRR-----------D---DPI-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDISAFLKWAKVG
+>UniRef90_A0A402EME7_1159_1339 | PINc domain-containing protein n=3 Tax=Gekkoninae TaxID=385256 RepID=A0A402EME7_9SAUR | E_val=3.3e-91
+MELEIRP--VFLVPDTNGFIDHL-DSLTKLLD-C------------RQ-FIIVVPLIVIN
+ELDGLA--K-G-P-ESE---------------------NRAG---GYGRLLQERARKAVE
+FLETRFE------Q-R---------D-----NYMRALTSR---------GNELE---SI-
+----SFRSEDIS----------------------RQ--QG-NNDDLILSCCLHYCNDKA-
+K-----D---F-----------------M-P-------ASK-----------D---DPI-
+------------RL-L--REVVLLTDDRNLRVKALTRNVPVKDIPTFLRWAQEG
+>UniRef90_V9KTI8_230_409 | Telomerase-binding protein EST1A (Fragment) n=1 Tax=Callorhinchus milii TaxID=7868 RepID=V9KTI8_CALM | E_val=5e-91
+-EIEITP--VFLVPDTNGFIDHL-PGLVKLLD-T------------RL-YIIVVPLIVIN
+ELDGLA--K-G-Q-DPD---------------------YCGG---NHAKVVQEKAKKAID
+FLEQKFE------T-R---------D-----SCLRALTSR---------GNELE---SI-
+----AFRSEDTT----------------------GQ--QG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------MRK-----------D---EPI-
+------------RL-R--RDVVLLTDDRNMRVKALTRNVPVRAIPSFLKWAKVG
+>UniRef90_UPI0007DB7D95_363_545 | telomerase-binding protein EST1A-like n=2 Tax=Anolis carolinensis TaxID=28377 RepID=UPI0007DB | E_val=3.2e-89
+MELEIRP--VFLVPDTNGFIDHL-GSLLQLLE-C------------RQ-FILVVPLIVIN
+ELDGLA--K-G-PSEGE---------------------PRAG---GYGRLLQDRARKAVD
+FLESRFE------R-R---------D-----SYLRALTSR---------GNELE---SI-
+----AFRSEDLSQ---------------------QQ--QG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------VNK-----------D---DPI-
+------------RL-L--REVVLLTDDRNLRVKALTRNVPVRDIPTFLRWAQEG
+>UniRef90_UPI00109F6EDC_1291_1471 | telomerase-binding protein EST1A n=1 Tax=Erpetoichthys calabaricus TaxID=27687 RepID=UPI00109 | E_val=2.8e-88
+LEIEITP--VFLVPDTNGFIDHL-SGLATLLS-C------------GH-YILVVPLVVIT
+ELDGLV--K-G-Q-ETE---------------------YRTG---SHARQVQERARKAVH
+FLESKFE------A-R---------E-----PCLRALTSR---------GNELE---SI-
+----SFRSEDTS----------------------GQ--QG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------TQK-----------D---EPI-
+------------RL-H--REVVLLTDDRNLRVKALTRNVPVRDIPAFLKWAKVG
+>UniRef90_UPI000854766B_1206_1386 | telomerase-binding protein EST1A isoform X3 n=4 Tax=Nanorana parkeri TaxID=125878 RepID=UPI00 | E_val=4.9e-86
+LELEIRP--LFLIPDTNGFINHL-PGLEQLLS-S------------QI-YILVIPLIVIH
+ELDGLA--K-G-Q-EFD---------------------QRSA---GHTRSLQEKAKKAIH
+FLEQRFE------A-R---------D-----PNLRALTSR---------GNQLE---SI-
+----AFRSEDIS----------------------GQ--KG-NNDDLILSCCLQYCKDNA-
+K-----E---F-----------------M-P-------SNK-----------D---DPI-
+------------RL-R--REVVLLTDDRNLRVKALTRHVPVRDIPAFLKWAKVG
+>UniRef90_W5MHE2_1187_1367 | SMG6 nonsense mediated mRNA decay factor n=2 Tax=Lepisosteus oculatus TaxID=7918 RepID=W5MHE2_LEPOC | E_val=8.3e-84
+LEIEITP--LFLVPDTNGFIDHL-DGLACLMA-C------------GS-YILVVPLIVIT
+ELDGLA--R-G-Q-DTE---------------------RRSG---SHARQVQERARAAIS
+FLERAFV------A-R---------E-----PCLRALTSR---------GNELE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------TQK-----------D---GPV-
+------------CL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLKWAKVG
+>UniRef90_UPI000CD5F8B5_157_341 | telomerase-binding protein EST1A-like n=1 Tax=Paramormyrops kingsleyae TaxID=1676925 RepID=UP | E_val=3.3e-83
+LELEIRP--LFLVPDTNGFIDHL-AGLQSLLA-C------------GL-YILVVPLIVIT
+ELDGLA--R-G-Q-EHR---GGGR--------------AVPG---EHARALQERAKAAVS
+FLERGFE------A-R---------E-----PCLRAMTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------TQR-----------D---EPV-
+------------RL-H--REVVLLTDDRNLRVKALTRNVPVRDIPAFLRWAKVG
+>UniRef90_K9J894_1174_1354 | Mitochondrial genome maintenance exonuclease 1 n=5 Tax=Xenopus tropicalis TaxID=8364 RepID=K9J894_XE | E_val=3.7e-83
+LQLEICP--LFLVPDTNGFINHL-PGLEHLLS-C------------QI-YILVIPLIVIH
+ELDGLA--K-G-Q-EFD---------------------QRNA---DHARALQEKARKAIQ
+FLEQGFE------A-R---------D-----PYLRALTSR---------GNELD---SI-
+----AFRSEDIS----------------------GQ--KG-NNDDLILCCCLHYCKDKA-
+K-----E---F-----------------M-H-------SRK-----------D---EPI-
+------------RL-R--REVVLLTDDRNLRVKALTRHVPVRDIPAFLKWAKVG
+>UniRef90_A0A3B4H819_1294_1471 | SMG6 nonsense mediated mRNA decay factor n=1 Tax=Pundamilia nyererei TaxID=303518 RepID=A0A3B4H8 | E_val=2e-80
+LELEVRP--LFLVPDTNGFIDHL-TGLKKLLQ-C------------GT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DSF---GGG------------------------VEAVQEKARMAVA
+FLEKGFE------A-R---------E-----QCLRALTSR---------GNQLE---SI-
+----AFRSEDMS----------------------GQ--QG-NNDDIILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------HQR-----------N---GTV-
+------------RL-Q--REVVLLTDDRNLRVKALTRNVPVRDIPSFLSWAKVG
+>UniRef90_UPI0011F20C38_1088_1274 | telomerase-binding protein EST1A n=1 Tax=Chanos chanos TaxID=29144 RepID=UPI0011F20C38 | E_val=7.9e-79
+LELEIRP--FYLVPDTNGFIDHL-DGLKKLMA-C------------GS-YTLVVPLIVIT
+ELDGLA--K-G-L-ENR---EGGDSG------------GVGG---AHARLVQERAKAAVT
+FLERSFE------T-R---------E-----PCLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDKA-
+R-----D---F-----------------M-P-------AQP-----------D---GPI-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLSWAKVG
+>UniRef90_A0A5A9N381_1039_1221 | Telomerase-binding protein EST1A n=1 Tax=Triplophysa tibetana TaxID=1572043 RepID=A0A5A9N381_9TE | E_val=1.9e-78
+LEIEIRP--FYLVPDTNGFIDHL-GGMRKLLA-C------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-DSR---EG----------------NAND---VHVKQVQERARAAVM
+FLEKAFE------S-K---------N-----PCIRALTSR---------GNTLE---SI-
+----AFRSEDTS----------------------GQ--KG-NNDDVILSCCLHYCQDKA-
+K-----D---F-----------------M-P-------AER-----------E---GPV-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPVFLSWAKVG
+>UniRef90_UPI00099F828A_1078_1268 | LOW QUALITY PROTEIN: telomerase-binding protein EST1A n=1 Tax=Oncorhynchus kisutch TaxID=8019 | E_val=7.4e-76
+LELEVRP--LFLVPDTNGFIDHL-TGLKTLLQ-S------------GT-YILVVPLI---
+ELDGLA--K-G-Q-ESC---GGSGVVM----AAVVP-WYPGA---THARAVQEKAKXCVA
+FLERGFE------A-R---------D-----XCLRALTRR---------GSQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------AKR-----------D---GPL-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLTWAKVG
+>UniRef90_A0A2D0SP55_1422_1606 | telomerase-binding protein EST1A isoform X1 n=3 Tax=Ictalurus punctatus TaxID=7998 RepID=A0A2D0S | E_val=1.1e-75
+LELEIRP--FYLVPDTNCFIDHL-EGLKKLLT-C------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-ECR---DVDS--------------IGLA---PHARMVQESAKAAVA
+FLENGFE------A-R---------E-----PGLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GH--KG-NNDDVILSCCLHYCQDKA-
+K-----D---F-----------------M-P-------AQR-----------D---GPV-
+------------RL-H--REVVLLTDDRNLRVKALTRNVPVRDVPAFLSWAKVG
+>UniRef90_UPI0010A35F59_1447_1633 | telomerase-binding protein EST1A isoform X1 n=3 Tax=Denticeps clupeoides TaxID=299321 RepID=U | E_val=1.8e-75
+LELEVLP--VFLVPDTNCFIDHL-EGLRKLIA-C------------GF-YIIVVPLIVIT
+ELDGLA--K-G-Q-ESR---EGGVAG------------IGGA---AHSRLVQERAKAAVV
+FLEQGFE------A-K---------K-----PCLRALTSR---------GNQLD---SI-
+----ALRSEDNS----------------------GH--KG-NNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------AQR-----------D---GPI-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLRWAQVG
+>UniRef90_UPI0012AC2E5E_1535_1715 | telomerase-binding protein EST1A n=2 Tax=Clupea harengus TaxID=7950 RepID=UPI0012AC2E5E | E_val=1.9e-75
+LELRIQP--VYLVPDTNGFIDHL-VGLRSLVA-C------------GL-YVVVVPLIVIT
+ELDGLA--K-G-Q-QDA---------------------RDGG---AHARHVQEQAREAVA
+FLEKSFE------A-R---------E-----PCLQALTSR---------GSQLD---SI-
+----AFRSEDIS----------------------GQ--KG-TNDDVILSCCLHYCKDKP-
+K-----D---L-----------------V-P-------AQK-----------D---GKV-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVREIPAFLRWAKVG
+>UniRef90_UPI0010BDC090_1160_1348 | telomerase-binding protein EST1A isoform X1 n=1 Tax=Esox lucius TaxID=8010 RepID=UPI0010BDC09 | E_val=3.1e-75
+VELEVRP--LFLVLDTNGFIDHL-TGLKTLLQ-S------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-ESS---GGGGRG-----GSRGN--LSGA---AHARTVQEKARVAVA
+FLEQGFE------A-K---------E-----PCLRALTSR---------GSELD---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDKA-
+K-----D-------------------------------TQR-----------D---GPV-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLTWAQVG
+>UniRef90_UPI00117608FB_1478_1678 | telomerase-binding protein EST1A isoform X1 n=4 Tax=Myripristis murdjan TaxID=586833 RepID=UP | E_val=3.4e-75
+LELEVRP--LFLVPDTNGFIDHL-DGLKKLLQ-C------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-DTFAGVGGGLQSSVCGSNNRGS-YNISM---AHIRAVQEKARLAVA
+FLEKGFE------D-R---------E-----PCLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------DHR-----------S---GPV-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLSWAKVG
+>UniRef90_H2RL18_1266_1456 | SMG6 nonsense mediated mRNA decay factor n=4 Tax=Takifugu TaxID=31032 RepID=H2RL18_TAKRU | E_val=1.3e-74
+LELEVRP--LFLVPDTNGFIDHL-AGLKKLLQ-C------------GT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DNF---GGRLGPGAPKTG--------TA---AHFQAVQANARLAVS
+FLEKGFE------A-R---------E-----PCLRALTSR---------GSQLE---SI-
+----AFRSEDTS----------------------RQ--QG-NNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------SER-----------S---GTV-
+------------RL-Q--REVVLLTDDRNLRVKALTRNVPVRDIPAFLSWAKVG
+>UniRef90_A0A3B4CGC3_1313_1503 | SMG6 nonsense mediated mRNA decay factor n=2 Tax=Pygocentrus nattereri TaxID=42514 RepID=A0A3B4C | E_val=2.2e-74
+LELEIRP--FYLVPDTNCFIDHL-EGLKTLLA-C------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-ESR---DGDSVG------------GGGA---AHARLVQEQAKAAVT
+FLEKGFE------A-R---------E-----SGLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--KG-NNDDVILSCCLHYCQDKA-
+K-----D---F-----------------M-P-------AQR----------VNIPVQVI-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLSWAKVG
+>UniRef90_A0A3B3Z8L1_1210_1401 | SMG6 nonsense mediated mRNA decay factor n=3 Tax=Oxudercinae TaxID=497678 RepID=A0A3B3Z8L1_9GOBI | E_val=2.2e-74
+LELEVQP--FFLVPDTNAFIDHL-DELKKLLQ-S------------GT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DCV---GAVGSGG------RSN-FNVSA---AHIKAVQEKAKAAVF
+FLEKGFE------S-R---------E-----PCLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCNDKA-
+K-----D---F-----------------M-P-------DKR-----------N---GTV-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPAFLSWAKVG
+>UniRef90_A0A3P9JR72_1444_1640 | SMG6 nonsense mediated mRNA decay factor n=2 Tax=Oryzias latipes TaxID=8090 RepID=A0A3P9JR72_ORY | E_val=3.2e-74
+LELEIRP--LFLVPDTNGFIDHL-EGLKKVLH-C------------GS-YIIVVPLIVIT
+ELDGLA--K-G-Q-DTF---GGGLGSRGRSTGSRGN-YN-SA---AHVRAVQDKARLAVA
+FLEKGFE------A-R---------E-----PCLKTLTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------PQK-----------N---GTV-
+------------RL-Q--REVVLLTDDRNLRVKALTRNVPVRDIPSFLSWAKVG
+>UniRef90_UPI00113164AD_1507_1704 | telomerase-binding protein EST1A-like n=2 Tax=Salmoninae TaxID=504568 RepID=UPI00113164AD | E_val=3.4e-74
+VELEVRP--LFLVPDTNGFIDHL-TGLKTLLQ-S------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-ESC---DGSGSGRG-GSGCRGNTGSGGP---THAQSVQEKAKVAVA
+FLERGFE------A-R---------E-----PCLRALTSR---------GSQME---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDEA-
+K-----S---V-----------------M-P-------AQT-----------D---GPV-
+------------RL-R--REVVLLTDDRNLRVKALTRNVPVRDIPSFLTWAKVG
+>UniRef90_UPI0010568789_1413_1608 | telomerase-binding protein EST1A n=1 Tax=Gouania willdenowi TaxID=441366 RepID=UPI0010568789 | E_val=3.7e-74
+--LEVRP--LFLIPDTNGFIDHL-GGLKKLLQ-C------------AK-YIIVVPLIVIT
+ELDGLA--K-G-Q-ESF---GGAGGYGGRSTGTQGN-YNVSA---AHVRAVQEKARLAVA
+FLERGFE------N-R---------E-----PYLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-TNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------QQR-----------N---GTV-
+------------KL-Q--REVVLLTDDRNLRVKALTRNVPVRDIPAFLSWAKVG
+>UniRef90_UPI00097DAC39_1458_1655 | telomerase-binding protein EST1A n=1 Tax=Paralichthys olivaceus TaxID=8255 RepID=UPI00097DAC3 | E_val=1.3e-73
+LELEVRP--LFLVPDTNGFIDHL-EGLQKLLQ-C------------RT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DNF---GGGVGSGGRNTSSRGN-YNVSA---AHVRSVQEKARLAVA
+FLEKGFE------A-R---------E-----PCLRALTSR---------GSQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------DQR-----------N---GTV-
+------------RL-H--REVVLLTDDRNLRVKALTRNVPVRDISAFLSWAKVG
+>UniRef90_A0A1A8C730_490_687 | Smg-6 homolog, nonsense mediated mRNA decay factor (Fragment) n=3 Tax=Nothobranchius TaxID=28779 | E_val=1.1e-72
+LELEVRP--FFLVPDTNGFIDHL-EDLKKLLQ-C------------GS-YIIVVPLIVIT
+ELDGLA--K-G-Q-DTF---GVGVGSGGRGTSSRGN-FNVSA---PHIRAVQEKARLAVA
+FLEKGFE------A-R---------E-----PCLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDKA-
+K-----E---F-----------------T-P-------SQR-----------N---GTV-
+------------KL-Q--REVVLLTDDRNLRVKALTRNVPVRDIPSFLIWSKVG
+>UniRef90_A0A556VCH4_1365_1549 | Telomerase-binding protein EST1A n=1 Tax=Bagarius yarrelli TaxID=175774 RepID=A0A556VCH4_BAGYA | E_val=1.2e-72
+MELEIRP--FYLVPDTNCFIDHL-EGLKKLLA-C------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-ECR---KMDS--------------TGEA---AHAKLVQECAKAAMA
+FLEKGFE------A-K---------E-----PGLRALTSR---------GNQLD---SI-
+----AFRSEDTS----------------------GH--QG-NNDDVILSCCLHYCQDKT-
+K-----N---F-----------------L-P-------AQK-----------D---GPV-
+------------RL-H--RKVVLLTDDRNLRVKALTRNVPVRDIPAFLNWAKVG
+>UniRef90_A0A3Q2QNM6_1418_1615 | SMG6 nonsense mediated mRNA decay factor n=1 Tax=Fundulus heteroclitus TaxID=8078 RepID=A0A3Q2QN | E_val=1.5e-72
+LELEVRP--LFLVPDTNGFIDHL-DGLKKLLQ-C------------GT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DPF---SGSIGTGGRSTGSRGN-YNVST---AHVRAVQEQARSAVA
+FLERGFE------A-R---------E-----PCLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCQDKA-
+K-----D---F-----------------M-P-------PQR-----------N---GTV-
+------------RL-Q--REVVLLTDDRNLCVKALTRNVPVRDIPSFLSWAKVG
+>UniRef90_UPI00094E019B_1268_1456 | telomerase-binding protein EST1A n=1 Tax=Hippocampus comes TaxID=109280 RepID=UPI00094E019B | E_val=1.9e-72
+LQLEVRP--VFLVPDTNGFIDHL-VALKKLLQ-C------------GS-YIVVVPLIVIT
+ELDGLA--K-G-Q-DAS---GGGGGGG-----------GHAA---AHVRGVQEKARQAVL
+FLERAFE------A-R---------E-----PRLRALTSR---------GTQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCQDKA-
+E-----D---L-----------------M-P-------DQR-----------N--GGTV-
+------------RL-H--REVVLLTDDRNLRVKALTRNVPVREIPAFLSWAKVG
+>UniRef90_UPI0005516026_343_540 | telomerase-binding protein EST1A-like n=1 Tax=Notothenia coriiceps TaxID=8208 RepID=UPI000551 | E_val=5.9e-72
+LELEVRP--RFLVPDTNGFIDHL-GGLKRVLQ-C------------GT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DNF---AGGMGPGGRITGCRGN-YNVNT---AHVRAVQEKARLAVG
+FLEKGFE------A-R---------E-----PCLRALTSR---------GNQLE---SI-
+----SFRSEDTS----------------------GQ--QG-TNDDVILSCCLNYCKDKA-
+K-----D---F-----------------M-P-------DQR-----------N---GTV-
+------------KL-Q--REVVLLTDDRNLRVKALTRNVPVRDIPAFLSWAKVG
+>UniRef90_A0A3Q3E688_1469_1666 | SMG6 nonsense mediated mRNA decay factor n=2 Tax=Labrus bergylta TaxID=56723 RepID=A0A3Q3E688_9L | E_val=5.9e-72
+LELEVRP--LFLVPDTNGFIDHL-GGLKKLLQ-C------------GT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DNY---GGGVGSGGRSTGSRSN-YNVSA---SHVQAVQEKARSAVA
+FLEKGFE------A-R---------E-----PYLRAMTSR---------GNQLE---SI-
+----AFRSEDTT----------------------GQ--QG-TNDDVILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------HQR-----------N---GTV-
+------------KL-H--REVVLLTDDRNLRVKALTRNVPVRDIPAFMSWAKVG
+>UniRef90_UPI0011B5AD25_627_810 | telomerase-binding protein EST1A n=1 Tax=Gadus morhua TaxID=8049 RepID=UPI0011B5AD25 | E_val=6.5e-70
+LQLEVRP--YYLVPDTNGFIDHL-DGLRTLLR-S------------AA-YVLVVPLIVIT
+ELDGLA--K-G-Q-DGF---GGGG-------------NYGNG---AHVRAVQEKARQAVA
+FLERGFE------A-R---------E-----PGLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHCCKD-T-
+E-----D---V-----------------L-P--------ET-----------P---GPV-
+------------RL-H--REVVLLTDDRNLRVKALTRNVPVRDIAAFLSWAKVG
+>UniRef90_A0A2I4BX98_1531_1728 | telomerase-binding protein EST1A n=1 Tax=Austrofundulus limnaeus TaxID=52670 RepID=A0A2I4BX98_9T | E_val=1.5e-69
+LEMEVKP--LFLVPDTNGFIDHL-DGLKKLLQ-C------------GT-YIIVVPLIVIT
+ELDGLA--K-G-Q-DTF---GGGVGLXGRGTGSRST-YNISV---AHMRGVQEKARLAVA
+FLEKGFD------A-R---------E-----PCLRALTSR---------GYPLE---SI-
+----AFRSEDTS----------------------GQ--QG-NNDDVILSCCLHYCKDNA-
+K-----D---L-----------------T-P-------PQK-----------N---GTV-
+------------RL-Q--REVVLLTDDRNLRVKALTRNVPVRDIPSFLSWAKVG
+>UniRef90_V8N542_1_138 | Telomerase-binding protein EST1A (Fragment) n=1 Tax=Ophiophagus hannah TaxID=8665 RepID=V8N542_OPHHA | E_val=9.5e-67
+MELEIRP--VFLVPDTNGFIDHL-GSLAKLLE-C------------RQ-FILVVPLIVIN
+ELDGLA--K-G-P-ESE---------------------HRAG---GYSRLLQDRARKAVD
+FLECCFE------R-R---------D-----SYIRALTSR---------GNELE---SV-
+----SFRSEDIS----------------------RQ--QG-NNDDLILSCCLHYCNDRA-
+K-----D---F-----------------M-P-------AKK-------------------
+------------------------------------------------------
+>UniRef90_UPI000BAF4D2B_1525_1705 | telomerase-binding protein EST1A-like n=1 Tax=Crassostrea virginica TaxID=6565 RepID=UPI000BA | E_val=1.4e-65
+IELEIHP--IFLIPDTNCFIDHC-SSLKQLIQ-L------------RK-FTVVVPLIVIN
+ELDGLA--K-G-S-KEG--------------------QYDSA---DQANKVRERSKQTVE
+FLEEEFE------K-K---------N-----SHLKALTSK---------GNVLE---TI-
+----SFRSEEGD----------------------SS--GG-NNDDIILSCCLHYCKDKA-
+R-----E---F-----------------M-P-------KDK-----------D---APV-
+------------RL-Y--REVVLLTDDRNLRLKAHTCNVPVKDVLSFLKWSKI-
+>UniRef90_A0A0B6Z5S6_520_699 | PINc domain-containing protein (Fragment) n=1 Tax=Arion vulgaris TaxID=1028688 RepID=A0A0B6Z5S6_ | E_val=8.1e-64
+IELEIRP--IFLIPDTNCFIDHL-SSLKKILH-T------------KK-YTLVVPLVVIS
+ELDGLA--R-G-T-RDH--------------------QYDSP---DHAHMVKSQAQAAIE
+FLESEFE------V-K---------N-----SNLRAQTSK---------GSILE---TI-
+----AFRSEESD----------------------G---SG-VNDDIILNCCLHYCKDMA-
+R-----E---F-----------------M-P-------KDK-----------D---HPV-
+------------RL-Y--REVVLLTDDRNLRLKAHTCNVPVKDVPSFKKWSKI-
+>UniRef90_A0A444UDA0_56_194 | Telomerase-binding protein EST1A n=1 Tax=Acipenser ruthenus TaxID=7906 RepID=A0A444UDA0_ACIRT | E_val=1.5e-63
+LEIEITP--VFLVPDTNGFIDHL-SGLAKLLS-C------------KA-YILVVPLIVIT
+ELDGLA--R-G-Q-ETE---------------------YRTG---SHARQVQEHARSAIS
+FLERGFE------N-R---------E-----PCLRALTSR---------GNELE---SI-
+----SFRSEDPT----------------------GQ--QG-NNDDLILSCCLHYCKDKA-
+K-----D---F-----------------M-P-------TQK-------------------
+-----------------------------------------------------G
+>UniRef90_A0A1S3HAK8_1773_1952 | telomerase-binding protein EST1A n=1 Tax=Lingula unguis TaxID=7574 RepID=A0A1S3HAK8_LINUN | E_val=1.7e-62
+IELEVRP--LFLIPDTNCFIDHL-KTIKTILE-G------------KK-YTIVVPLVVMN
+ELDGLS--K-G-D-KSS--------------------AFESV---DHAGSLESCAKGAVA
+YLEEEFE------N-R---------N-----SHLKALTSK---------GTVME---TI-
+----SYRSEETS-----------------------H--IG-NNDDLILSCCLHYCQDKA-
+R-----D---F-----------------M-P-------RER-----------N---TPV-
+------------RL-Y--REVVLLTDDRNLRLKAHTRNVPVKDVVSFAKWARI-
+>UniRef90_UPI00035A0DC1_1708_1888 | telomerase-binding protein EST1A-like n=1 Tax=Aplysia californica TaxID=6500 RepID=UPI00035A0 | E_val=7.3e-62
+IELEIRP--IFLVADTNCFIDHF-STLKKILE-T------------KK-YTLVVPLVVIN
+ELDGLS--R-G-A-RDQ--------------------QYDSP---DHANMVKTQASQAVQ
+FLEAEFE------V-K---------N-----SHLRAQTAK---------GTVLE---TI-
+----AFRSEESD----------------------GS--AG-INDDIILSCCLHYCKDMA-
+R-----E---F-----------------M-P-------KGK-----------D---QPV-
+------------RL-Y--RDVVLLTEDRNLRLKAHTCNVPVKDVPGFKKWSKI-
+>UniRef90_A0A210QWQ8_1766_1945 | Telomerase-binding protein EST1A n=1 Tax=Mizuhopecten yessoensis TaxID=6573 RepID=A0A210QWQ8_MIZ | E_val=1.3e-61
+-QLEIHP--IFLVPDTNCFIDHL-SSVKKLIQ-H------------QK-YTVTIPLIVIN
+ELDGLA--K-G-S-RMG--------------------QYDSH---EHADKVKKSAEETIR
+YLEAEFQ------K-K---------N-----NHLRAQTTK---------GNVME---TI-
+----SFRSEETD----------------------TD--SG-NNDDLILSCCLHYCKDKA-
+R-----D---F-----------------M-T-------KDK-----------D---API-
+------------RL-Y--RDVVLLTDDRNLRLKAHTYNVPVKDVPSFMQWSKV-
+>UniRef90_UPI0003F0C384_323_502 | telomerase-binding protein EST1A-like n=1 Tax=Saccoglossus kowalevskii TaxID=10224 RepID=UPI0 | E_val=3.9e-61
+IELEVHP--VHLVPDTNCFIDHL-KGIKSIVA-C------------TL-YTLEVPLVVIN
+ELDGLA--K-G-S-REG--------------------QFADS---MHAQRVQEAANAAVS
+FLEDEFE------R-Y---------N-----NRMRAVTSR---------GSVLD---TI-
+----AFRSEDPQ----------------------GQ--LG-NNDDIILSCCLFYCDDKA-
+R-----S---F-----------------M-P-------HNK-----------D---DPI-
+------------KL-H--REVVLLTDDRNLRVKAHTRNVPTKTVPNFLQWAD--
+>UniRef90_UPI000947888E_1040_1218 | uncharacterized protein LOC109463835 n=1 Tax=Branchiostoma belcheri TaxID=7741 RepID=UPI00094 | E_val=1.3e-60
+MEVEVTP--SFLVPDTNSFIDYL-PGLERLVG-C------------QM-FTVVVPLVVIN
+ELDGLA--R-G-S-RPG--------------------LDKAS---GHAQKLQQGAVLAVQ
+FLEDRFS------C-H---------D-----NHLRALTSK---------GTSLD---TI-
+----AFRNEDMP----------------------GH--QG-NNDDVILSCCLHFCHDVA-
+K-----D---Y-----------------M-P-------TKK-----------G---EPI-
+------------RL-K--RDVVLLTDDRNLHLKAHTHNVPVKEIQAFIQWS---
+>UniRef90_V4AAJ5_641_823 | PINc domain-containing protein n=1 Tax=Lottia gigantea TaxID=225164 RepID=V4AAJ5_LOTGI | E_val=3.1e-60
+IELEIHP--RFLVPDTNCFIDQF-NNLASILE-S------------KK-YTIVIPLVVIN
+ELDGLS--K-G-S-KEA--------------------KYDSK---EHASMVQQHATTALQ
+YLEAQFQ------R-K---------H-----SHLRAQTSK---------GSILE---TI-
+----AFRSEEID----------------------ATVGFG-TNDDLILSCCLHYCKDKA-
+R-----D---F-----------------M-P-------KGK-----------D---APV-
+------------HL-Y--RDVVLLTDDRNLRLKAHTCNVPVKEVGAFKKWSRI-
+>UniRef90_UPI000B913195_1538_1717 | telomerase-binding protein EST1A-like n=1 Tax=Acanthaster planci TaxID=133434 RepID=UPI000B91 | E_val=9.9e-59
+LEVEIRP--LYLVPDTNCFIDHL-SKIQALLA-C------------RK-YKLVVPLVVIN
+ELDGLA--K-G-S-RDD--------------------LYEEP---SQALRVQEGAGSAIR
+CLEEKFG------Q-R---------N-----KYLRALTSK---------GTVMD---TI-
+----AYRSEEVDF-------------------------KG-CNDDLILKCCLHYVDDRA-
+R-----D---F-----------------M-P-------TTK-----------D---API-
+------------RL-Y--RDVVLLTNDRNLRVKALQQNVPVKDITAFAKWAKV-
+>UniRef90_A0A0L8HCQ7_1399_1577 | PINc domain-containing protein n=4 Tax=Octopus TaxID=6643 RepID=A0A0L8HCQ7_OCTBM | E_val=1.9e-57
+-EIEIQP--VYLIPDTNCFIDHL-LGLQKLIF-S------------EN-YTISVPLIVIN
+ELDGLV--R-G-N-LEG--------------------HYESI---EHSDMVKENARLAMT
+FLEQQFE------Q-K---------N-----PHLRAQTTK---------GTMLQ---TI-
+----LYRSEATD-----------------------T--KG-NNDDLILTCCLHYCKDTT-
+K-----D---F-----------------I-P-------KGK-----------D---EPN-
+------------RI-Y--RDVVLLTDDRNLRLKAHTYNVPVKDVPSFLKWCKV-
+>UniRef90_UPI000BA80E6C_1342_1520 | telomerase-binding protein EST1A-like n=1 Tax=Limulus polyphemus TaxID=6850 RepID=UPI000BA80E | E_val=3.6e-57
+--VEIRP--RYLIPDTNCFINHL-EHIRKVAK-M------------SQ-FILVVPLVVIN
+ELDGLS--R-G-L-RES--------------------PNQTE---ENTRMVGRMAYDAIM
+FLESSFA------A-R---------D-----QHLRAVTSK---------GSVLD---TI-
+----SFRSEDTS----------------------NN--KC-TNDDLILSCCLHYCQDRA-
+E-----N---Y-----------------M-P-------KDS-----------D---APL-
+------------RL-Y--REIVLLTEDRNLRVKALTHNVPVQDLPAFLSWANI-
+>UniRef90_UPI000C6EF8E7_1339_1514 | telomerase-binding protein EST1A-like n=1 Tax=Centruroides sculpturatus TaxID=218467 RepID=UP | E_val=2.1e-56
+--LEVRP--HYLIPDTNCFIDHL-EGLKSVVS-S------------TH-FVLVVPIVVIN
+ELDGLA--R-G-T-RES--------------------SYISA---EHVRRVAQLSKEAIQ
+FLEERFA------S-R---------D-----SHVQAITSK---------GSILD---TI-
+----TFRSEDVS----------------------DN--KG-TNDDLILSCCLHYCKDKE-
+S-----T-------------------------------REE-----------K---GSV-
+------------RL-K--REAILLTEDRNLRVKALTHNVPVRDLPEFLKWANI-
+>UniRef90_A0A2T7PHY8_1593_1780 | PINc domain-containing protein n=2 Tax=Pomacea canaliculata TaxID=400727 RepID=A0A2T7PHY8_POMCA | E_val=2.2e-56
+LELEVRP--HFLVADTNCFIDHL-SPLRNLLA-A------------GS-YVLVVPLVVLN
+ELDGLA--K-G-S-HQG---SGRDG---------SR-EEESP---EHKSMVMRHAGQALA
+FLESEFK------A-K---------N-----SHLRVQTSK---------GSVLE---TL-
+----AFRSEEAD-----------------------N--TG-NNDDLILSCCLHYCKDMA-
+R-----D---F-----------------M-PR------RGK-----------D---SPV-
+------------RL-F--RDVVLLTDDRNLRLKAHTSNVPVKDVPAFCRWSKI-
+>UniRef90_W4XIY3_522_701 | PINc domain-containing protein n=1 Tax=Strongylocentrotus purpuratus TaxID=7668 RepID=W4XIY3_STRPU | E_val=1.2e-55
+LEIVIKP--YFLVPDTNCFIDHL-PAIQRLVT-C------------QR-YLVVIPLVVIN
+ELDGLA--R-G-S-REG--------------------QYSDP---HHAVKVQHGARYAVE
+YLEEEFA------N-R---------N-----RYLRALTSK---------GSSLD---NI-
+----RFRSEEADW-------------------------RG-NNDDHILRCCMHYCSEDA-
+R-----Q---Y-----------------M-P-------KDK-----------D---APL-
+------------QI-D--REVVLLTNDRNLRVKAIQQNVPVRDIALFIKWAKI-
+>UniRef90_UPI00077FBDC1_1236_1407 | telomerase-binding protein EST1A-like n=1 Tax=Parasteatoda tepidariorum TaxID=114398 RepID=UP | E_val=4.5e-53
+--LKIKP--RYLVPDTNCFIDHL-KLFKNILA-S------------TD-FHLIIPLVVIN
+ELDGLA--R-G-S-RGS----------------------------EHSSRVTALSRETIL
+FLEQQFA------S-R---------H-----PHLRAITSK---------GSILD---TI-
+----SFRSEEMG----------------------QN--KG-TNDDLILTCCLFYCKDRA-
+E-----N---F-----------------M-P-------KNP-----------D---DPI-
+------------TL-F--REVVLLTDDRNLRVKALAHHVPVRDLLSFLQWT---
+>UniRef90_B7PVX2_1264_1442 | Telomerase-binding protein EST1A, putative n=4 Tax=Ixodes TaxID=6944 RepID=B7PVX2_IXOSC | E_val=6.7e-53
+--LEIRP--RNLVPDTNCFIDHL-PLLQRLVA-D------------GH-FQVFVPIVVVN
+ELYGLA--R-G-T-RQG--------------------PHQSP---DHSQKVALAARAAVS
+YLEERFD------H-R---------E-----SKLKAITSR---------GSVMD---TI-
+----SFRSEDVT----------------------DN--KG-TNDDLILASCLHFCKDRT-
+E-----H---L-----------------L-P-------REP-----------D---APV-
+------------KL-Y--RETVLITEDRNLCVKALTHHVPVRDLPAFLRWANI-
+>UniRef90_A0A2R5LHI5_1133_1311 | Putative nonsense-mediated mrna decay protein n=1 Tax=Ornithodoros turicata TaxID=34597 RepID=A0 | E_val=6e-51
+--LEIRP--RYLFPDTNCFIDHL-PLLQRLVA-D------------GH-FHVYVPLVVIN
+ELDGLT--R-G-T-RQS--------------------MHQSV---EHLHKVATTAKAALN
+YLEDRFS------H-R---------E-----PKLRCVTSR---------GSILD---TI-
+----CFRSEDVS----------------------DN--KG-TNDDLILSCCRHYCSDRP-
+D-----H---L-----------------L-P-------REL-----------D---APL-
+------------KL-Y--REAVLITEDRNLCVKALTHHVPVRDLPSFLRWANI-
+>UniRef90_A0A4Y2MZD3_67_244 | Telomerase-binding protein EST1A (Fragment) n=1 Tax=Araneus ventricosus TaxID=182803 RepID=A0A4Y | E_val=6e-50
+--LEVKP--RYLVPDTNCFIDHL-CHFRNILS-S------------TN-YHVVIPLVVVN
+ELYGLA--R-G-N-RVS--------------------EHSSP---EHISRVTALSQEAIN
+FLEEQFA------S-R---------H-----PHLRAITSK---------GSILD---TI-
+----SFRSEEKG----------------------KN--KG-TNDDLILECCLRYCEDRA-
+E-----R---Y-----------------M-P-------KTP-----------N---DCI-
+------------TL-F--REVVLLTDDRNLRIKARAHYVPVKDLLSFLQWAN--
+>UniRef90_D5JG42_25_200 | Smg-6-like protein nonsense mediated mRNA decay factor (Fragment) n=1 Tax=Dugesia japonica TaxID=616 | E_val=6.5e-49
+VELEIRP--LFLVLDTNCYIDYL-RNIKMLID-H------------KK-FIVVVPLIVVN
+ELENLS--K-T-Y-QLK-----------------------------DDVDIHARAKEALK
+FLEDKFE------K-S---------D-----QYVRAITSR---------GTFME---TI-
+----AYRAEALNW---------------------SE--GE-TNDDVILNCCQHLCKDKP-
+C-----D---F-----------------M-P-------REK-----------D---KPM-
+------------TL-H--RDVVLLTGDRNLRLKALSRHIPVKPLKKFMEWADI-
+>UniRef90_R7TKE7_761_936 | PINc domain-containing protein n=1 Tax=Capitella teleta TaxID=283909 RepID=R7TKE7_CAPTE | E_val=9.3e-49
+--IDVTP--VNLVPDTNCFISHL-DELQTIVS-T------------SR-YTLVVPLIVIT
+ELDGLA--K-G-H-RDG--------------------R-------VDCHQLPGHASRAVS
+FLEEEFE------A-R---------N-----SYLKAITSK---------GTFMS---TI-
+----SFRSEESA----------------------AD--KG-NNDDIILSCCLHQIKDRA-
+R-----D---F-----------------M-PD------KDQ-----------G---GPI-
+------------TL-T--RNVVLLTDDRNLHLKAHMRNVPVRNVNNFMRWAKI-
+>UniRef90_A0A3M7Q9H9_883_1060 | Telomerase-binding EST1A isoform X1 n=1 Tax=Brachionus plicatilis TaxID=10195 RepID=A0A3M7Q9H9_B | E_val=1.1e-48
+IELEIRP--KFIVADTNCYIDYL-NLIDLILK-S------------NY-YILILPLLVLS
+ELEKLA--K-S-I-SNL--------------------FDDSQ---EHAEYLQKNAKRAIE
+FLNSKFE------K-R---------E-----RNIKAMTSQ---------GSILE---TI-
+----QFRTEEVV-----------------------K--PG-TNDELILGCCLHYCRDNA-
+R-----D---Y-----------------M-P-------ANK-----------N---DAI-
+------------HL-F--RDVVLLTEDRHLRMKAHTRNVPVKNIKQFCKWS---
+>UniRef90_A0A1E1X4F2_1309_1487 | Putative nonsense-mediated mrna decay protein n=2 Tax=Amblyomma TaxID=6942 RepID=A0A1E1X4F2_9ACA | E_val=8.2e-48
+--LEIRP--RYLIPDTNCFIDHL-ALVQKLVA-D------------GH-FFVYVPIVVLN
+ELHGLA--R-G-G-SRP--------------------GSGCA---DHYEKVGTNARAALT
+YLEERFG------Q-R---------E-----PKLRTITIR---------GSVLD---TI-
+----NFRSEDLG----------------------DY--KG-TNDDQILTCCLLLCRDRA-
+E-----H---A-----------------L-P-------REP-----------D---APV-
+------------KL-Y--RETVLITEDRNLCVKALTHNVPVRDLPAFLRWANI-
+>UniRef90_UPI0012B5DACB_1129_1302 | telomerase-binding protein EST1A-like n=1 Tax=Actinia tenebrosa TaxID=6105 RepID=UPI0012B5DAC | E_val=2.4e-46
+----NYP--TYLVPDTNCFIDQL-SGLQAIVM-T------------GD-FTLVVPLVVIN
+ELDGLK--K-D-L-MID--------------------KYHDF---AHAQMVLENSRAAID
+FLEDQFS------L-R---------S-----PNVKAVTSK---------GTVMD---TI-
+----AFRSEDTT----------------------AR--TG-NNDDVILSCCLHYCQENF-
+V-----N---R-----------------L---------ATA-----------D---QPI-
+------------TI-R--RKVVLLTDDRNLRVKAYTRNVPVLTVPQFRQMA---
+>UniRef90_UPI000A2AA210_1054_1228 | telomerase-binding protein EST1A n=1 Tax=Exaiptasia pallida TaxID=1720309 RepID=UPI000A2AA210 | E_val=3.2e-46
+---ENYP--NYLVPDTNCFIDQL-SGLQAIVM-S------------ND-FTLIVPIVVIN
+ELDGLK--K-D-F-LVD--------------------KYHDY---NHAQMVMNNARAAID
+FLEDQFS------R-R---------S-----PYVKALTSK---------GTVMD---TI-
+----AFRSEDTS----------------------SR--KG-NNDDVILSCCLHYCEENF-
+V-----N---R-----------------L---------ATA-----------D---QPI-
+------------TI-R--RNVVLLTDDRNLRVKAYTRNVPVLTVPQFRQMA---
+>UniRef90_UPI0010FCCC3A_137_314 | telomerase-binding protein EST1A-like n=1 Tax=Acropora millepora TaxID=45264 RepID=UPI0010FCC | E_val=6.6e-45
+---ENYP--TFLVADTNCFVNHL-NGLKAIVG-S------------QC-FTLIVPLIVIN
+ELDGLS--R-D-F-HFD--------------------KFKDP---QHAQNLLESARSAID
+FLEYQFS------Q-R---------N-----AQVKAVTSQ---------GSEMD---TI-
+----AFRSEDPS----------------------GRKGKG-NNDDVILSSCLHYCEENF-
+V-----N---R-----------------L---------ATA-----------D---QPI-
+------------TI-Q--RNVVLMTDDRNLRVKAYTRNVPVLTVPQFMKMAR--
+>UniRef90_UPI0009E52A23_409_585 | telomerase-binding protein EST1A-like isoform X1 n=2 Tax=Orbicella faveolata TaxID=48498 RepI | E_val=9.9e-45
+---ENYP--AYLVPDTNCFVDHL-DGLRAIVA-C------------QA-FTLVVPLIVIN
+ELDGLK--K-D-F-QPY--------------------KYNNL---QHAQYVLENARSAID
+FLENEFS------Q-R---------N-----PQVKTVTSK---------GTELD---TI-
+----AFRSEDPS----------------------GRKGKS-CNDDIILSCCLHYCEENF-
+V-----N---R-----------------L---------ATE-----------N---KPI-
+------------TI-Q--RKVVLMTNDRNLRVKAYTRNVPVLTVPQFRKMA---
+>UniRef90_A0A2B4RZB8_1023_1199 | Telomerase-binding protein EST1A n=2 Tax=Stylophora pistillata TaxID=50429 RepID=A0A2B4RZB8_STYP | E_val=7.2e-44
+---ENYP--TYLVPDTNCFVDHL-DGVKAIVA-S------------QE-FTLVVPLIVIN
+ELDGLK--K-D-V-LLD--------------------KCDNL---QHAQYVLENARLAIH
+FLENDFS------Q-R---------N-----PQVKTVTSK---------GTELD---TI-
+----QFRSEDPS----------------------GRKGKG-CNDDVILSCCLHYCEENF-
+I-----N---R-----------------L---------ATA-----------N---QPI-
+------------TI-Q--RKVVLLTDDRNLRVKAYTRNVPVLTIPQFRQMA---
+>UniRef90_UPI001069E75C_906_1079 | telomerase-binding protein EST1A-like n=1 Tax=Dendronephthya gigantea TaxID=151771 RepID=UPI0 | E_val=2.7e-43
+--LEINP--QYLVPDTNCFIDHL-HELQYIVE-S------------RY-FTVVMPLVVIN
+ELDGLA--K-G-F-SDA----------------------EQQ---HRADFVANQARAAVD
+FLEYRFS------L-S---------D-----SQMLALTSK---------GSVLT---TI-
+----AFRIEEPT----------------------AG--RG-INDDIILNCCTHYCDAKM-
+------D---V-----------------VNKL------ATA-----------D---QPF-
+------------TV-R--RKVVLLTEDRNLRLKAHVQNIPVVTVPQFLE-----
+>UniRef90_A0A267F5F2_1116_1293 | PINc domain-containing protein (Fragment) n=4 Tax=Macrostomum lignano TaxID=282301 RepID=A0A267F | E_val=3.8e-43
+MELEIVP--INLLPDTNCYIHYL-GEIRSLLA-M------------GK-HNLILPIVVLN
+ELDHLA--K-H-G--------------------------DSS---EHAGYVASQARAAVA
+MLEEAFE------S-KAGG----AAR-----RRVKAVTAK---------GSTLD---TI-
+----AFRSEVI-----------------------GR--PA-KNDDLILSCCMNHCQDKA-
+S-----A---F-----------------M-P-------KDK-----------D---QPV-
+------------RL-H--RDIVLLTSDRNLRLKAIGSNIPAKTVPAFFKWS---
+>UniRef90_UPI0006413190_163_325 | telomerase-binding protein EST1A-like n=1 Tax=Hydra vulgaris TaxID=6087 RepID=UPI0006413190 | E_val=8.9e-43
+------P--STIVADTNCYIDHL-ALMQALLQ-S------------KM-FCIVVPLIVIN
+ELDGLK--K-G-S-SNT------------------------------NHRLQQSAGLAVD
+MLEDWFS------R-K---------D-----SCLRAITSN---------GTEMT---TI-
+----AFRAEEFS----------------------ND--RG-NNDDVILSCCVRYCKENI-
+T-------------------------------------RSE-----------G---DSR-
+------------IV-L--RSVVLLTDDRNLRVKAHTRSVPTTDIVTFIKMAK--
+>UniRef90_UPI0010BDC859_676_856 | telomerase-binding protein EST1A n=1 Tax=Galendromus occidentalis TaxID=34638 RepID=UPI0010BD | E_val=3.1e-42
+--LEIRP--RYLIPDTNCLVDHL-ELIQRLVA-C------------KK-FSIYIPIVVVN
+ELDGLA--R-G-T-NNS---SG------------AR-AHQDP---EHAARVTAFAQDALS
+YLKEMFN------A-R---------E-----PKLRTITSR---------GSLLD---SI-
+----AFRTETGT----------------------EN--AG-SNDDVILSCAISLSREQS-
+----------L-----------------Q-P-------GET-----------E---APL-
+------------KL-F--REAVLLTADRNLAVKAISHNVPVRDLASFIRWAQV-
+>UniRef90_G7YX85_62_262 | Protein SMG6 (Fragment) n=1 Tax=Clonorchis sinensis TaxID=79923 RepID=G7YX85_CLOSI | E_val=1.8e-37
+VELEVHP--IYLLPDTNCYIDWL-EGIATLAQRS------------SN-YTVLVPIVVVN
+ELDTLA--R-Y-G-SSS---NS------WRTADD---EEGDV---TRAGLIQERARAAIT
+YLEHEFA------H-R---------N-----TRLRALTAR---------GSFME---TI-
+----AFRNEINGGR--------------------AP--GQ-VNDDVILACCNHFCKEDP-
+E-----R---FSSR---RGNDQ----GYV-G-------ESN-----------N---QPM-
+------------RI-H--REIVLLTSDRNLRLKALNINVPVRPLRTFVNWSR--
+>UniRef90_UPI000E57CB76_1996_2175 | telomerase-binding protein EST1A-like isoform X1 n=6 Tax=Frankliniella occidentalis TaxID=133 | E_val=2.2e-36
+-EIEVRP--HFIVPDTNCFVDHL-PHLKLIAC-G------------QT-FQLMVPTVVVG
+ELEGLQ--R-G-A-RPG---ETV--------------DAAAA---ARAERVARSAKEALA
+FLQQR--------P-R---------P-----PSLRCVTTR---------GSTLA---SA-
+----TFSSEDDG----------------------QQ--DM-LNDDKILTTCLNLSRTTS-
+K-----D---E---------------------------VKP-----------G---EPR-
+------------RL-V--RDVVLLTDDRNLRVKALSRDVPVRELPDFMRWANLG
+>UniRef90_A0A443RJ83_1351_1543 | Telomerase-binding protein EST1A-like protein n=1 Tax=Dinothrombium tinctorium TaxID=1965070 Rep | E_val=8.9e-36
+--MVIQP--RFLIPDTNCFIDHL-SKLQNLIQ-C------------GF-YEIIIPLVVIN
+ELNGLT--S-R-G-SGT---VA--MSFSALVPDAQQ-TRTDS---EHQKRVAQAAKKALD
+FLEMAFQ------N-K---------N-----WRLKAITSK---------GSILD---NI-
+----NFTNESLQ----------------------TK--DI-TNDDLVLSCCLQFIKERP-
+S-----E---R-----------------N-L-------QES-----------G---EII-
+------------NI-F--RETVLLTEDRNLRVKALSQNVPVKSLPVFLQWANI-
+>UniRef90_A0A443S7C2_3_193 | Telomerase-binding protein EST1A-like protein n=1 Tax=Leptotrombidium deliense TaxID=299467 RepI | E_val=2e-35
+----IQP--RFLIPDTNCFIDHL-AKIESLIE-C------------GF-YEVVIPLVVIN
+ELNGLT--S-R-A-VGS---SAPTLPFSALLSDA---LSSDC---DHHKRVAHAARKALD
+YLETAFL------Q-K---------N-----ARLKAITSK---------GSILD---NI-
+----NFTNESMQ----------------------SN--DV-TNDDVVLSCCLQFIKERP-
+A-----E---R-----------------N-L-------HES-----------G---EII-
+------------NI-F--RETVLLTEDRNLRVKALSQHVPVKSLPVFLQWANI-
+>UniRef90_U4UM21_15_197 | PINc domain-containing protein n=1 Tax=Dendroctonus ponderosae TaxID=77166 RepID=U4UM21_DENPD | E_val=6.7e-35
+-HVEIRP--KNLVPDTNCFIDHL-DSICTVTK-S------------HT-YTLMVPIVVLS
+ELEGLS--K-G-T-SSP---S-----------ARGK-VSPSP---EHVQKVAQACRSALD
+FLKK-----------R---------H-----PSIKCVTTK---------GALLT---TT-
+----NFSTEDDSTW--------------------DA--TL-KNDDKILATCLMLCKDHS-
+K-----E---Q-------------------A-------EPK-----------N---EPR-
+------------HL-F--REVVLLTEDRNLRVKAHARDVPVRSLPDFMRWAGLG
+>UniRef90_G4VE87_1153_1360 | PINc domain-containing protein n=3 Tax=Schistosoma TaxID=6181 RepID=G4VE87_SCHMA | E_val=3.1e-34
+-EIEVRP--IYLLPDTNCYIDWL-EGIATLAQKS------------SN-YTVLVPIVVVN
+ELDTLS--R-F-G-SSS---SGGG---GVDRPYEAA-VGGEV---TRAGLIQERAKLAIN
+YLEYQFE------H-R---------N-----SRLRALTAR---------GSLME---TI-
+----AYRNEINGGR--------------------TP--GQ-TNDDVILTCCQHFCKEDS-
+D-----R---FQLRNLTEGVDL----SMQ-G-------GQN-----------N---QPM-
+------------RL-V--REVVLLTSDRNLRLKALNVNIPARPLRTFVNWSR--
+>UniRef90_A0A3R7N2A5_1508_1682 | Putative telomerase-binding protein EST1A-like isoform X2 n=2 Tax=Penaeus vannamei TaxID=6689 Re | E_val=3.2e-34
+LEMEVRP--RFLVPDTNCFIEHL-DLIKALVN-S------------TP-YTVMVPLVVLN
+ELDGLS--R-D-A-AVA--------------------KYGSI---GHAVRVKEGAAAALH
+YLRD---------T-K---------P-----HSLKCVTSQ---------GSVLS---ST-
+----SFTAEIDMP-------------------------DA-TNDDKILSCCVHFCSDST-
+Q-----R---R---------------------------PIK-----------A---GVR-
+------------RL-Y--REVVLLTEDRNLRVKAHARDVPVRDLLDFAQWAGV-
+>UniRef90_UPI001037D62E_1528_1708 | telomerase-binding protein EST1A-like isoform X1 n=4 Tax=Diabrotica virgifera virgifera TaxID | E_val=1e-33
+-HVEVRP--KYLVPDTNCFIDHM-NGISAIAE-S------------HS-YTLMVPIVVLS
+ELEGLS--R-G-G-KGP---A-----------PDSR-SALDP---QHVKRVADCAREALE
+FLKN-----------R---------H-----ASVKCVTTK---------GAILP---ST-
+----NFSTEDDTMW--------------------DN--SF-KNDDKILTTCLGLCKGNA-
+Q-----E-------------------------------VSE-----------G---EPR-
+------------NL-V--REVVLLTEDRNLRVKAYARDVPVRELPDFMRWAGLG
+>UniRef90_A0A177B4S7_1172_1350 | PINc domain-containing protein n=1 Tax=Intoshia linei TaxID=1819745 RepID=A0A177B4S7_9METZ | E_val=7.1e-33
+-EIRITP--EVLIPDTNCFISFL-GEIKTLVW-R------------RR-FSVVIPFIVFN
+ELEMLA--S-G-K-RAK--------------------NYALE---EHALFVQNSAIQSVK
+FIEDEIE------T-G---------N-----PSLRLIDIK---------GDSIA---DI-
+----KSNHEEVK-----------------------N--KH-SNDDLILKCTLSFVKDSA-
+S-----T---Y-----------------I-K-------KMK-----------G---API-
+------------RL-N--RECVLLTDDRNLRLRAHILNIPVKTLPEFLKWADI-
+>UniRef90_A0A4W5NZF1_1590_1717 | SMG6 nonsense mediated mRNA decay factor n=4 Tax=Salmoninae TaxID=504568 RepID=A0A4W5NZF1_9TELE | E_val=7.2e-33
+LELEVRP--LFLVPDTNGFIDHL-TGLKTLLQ-S------------GT-YILVVPLIVIT
+ELDGLA--K-G-Q-ESC---GGSGGGRG-GGGSRGNPGGGGA---AHARAVQEKAKVAVA
+FLEQGFE------A-R---------E-----PCLRALTSR---------GSQLE---SI-
+----AFRSEDTS----------------------GQ--Q---------------------
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A0C9PQH3_1428_1618 | Smg6_1 protein (Fragment) n=6 Tax=Fopius arisanus TaxID=64838 RepID=A0A0C9PQH3_9HYME | E_val=1e-32
+-EIEVRP--RQLVPDTNCFIDYL-SQLQSITR-ATSGA-------QPL-FTLMIPLVVLN
+ELEGLA--R-G-A-DPR---DCT---------PNSR-AMLNP---EHVARVAESAKAALS
+FARS-----------R---------N-----PAIRCLTTR---------GTVLS---SS-
+----TFTVEEDNSF--------------------DG--LT-RNDDRILATCLSLCKSNN-
+K-----D---Q-----------------P-L-------AEE-----------G---QPR-
+------------RL-R--REVVLLTEDRNLRVKALSRDVPVREVPDFIQWAGLG
+>UniRef90_H2Z5Z4_97_262 | PINc domain-containing protein n=1 Tax=Ciona savignyi TaxID=51511 RepID=H2Z5Z4_CIOSA | E_val=1.2e-32
+---YITP--KSVIPDTNCFIDHL-DMISDLLE-N------------GQ-FTVCVCLVVLS
+ELEGLA--L-E-S-------------------------KGNT---EHNRRVHASAVSSMQ
+FIKQKFT------S-R---------H-----SALCALTNQ---------GSALD---TI-
+----SFRSQNSY----------------------SD--KG-SNDDLILQCCEKYEERTK-
+N-----S---S-----------------F-P-------NTS-------------------
+-------------------STVLLTDDRNLRVKALTRNMPTKSLPEFWKWISV-
+>UniRef90_A0A504YEK1_819_1027 | Telomerase binding protein EST1A n=1 Tax=Fasciola gigantica TaxID=46835 RepID=A0A504YEK1_FASGI | E_val=1.6e-32
+VELEVRP--IYLLPDTNCYIDWL-EGIATLAQRS------------SN-YTVLVPIVVVN
+ELDILA--R-F-G-SSS---SNGS---TWRSGRLVE-EDSEV---TRAGLIQERAHRAIT
+YLEHEFA------V-R---------N-----TRLRALTAR---------GSFLE---TI-
+----AYRTEINGGR--------------------EP--GQ-TNDDVILACCNHFCKDDS-
+D-----R---LCLGGFGRNADQ----EFP-G-------EQT-----------N---QPM-
+------------RI-V--REVVLLTSDRNLRLKATNINVPARPLRTFVNWSR--
+>UniRef90_UPI0004CD820D_1464_1652 | telomerase-binding protein EST1A-like n=1 Tax=Microplitis demolitor TaxID=69319 RepID=UPI0004 | E_val=2.5e-32
+-EIEVRP--RQLVPDTNCFIDYL-PQLQRIAK-TTSGP-------HPL-FTLMIPLVVLN
+ELEGLA--R-G-A-DAR---DCP---------PSSR-SSLDP---EHIARVADSAKAALA
+FARS-----------K---------N-----PAIRCLTTR---------GTVLT---SS-
+----IFTVEDDVRL--------------------NE--LA-SNDDRILATCLSLCRS---
+K-----D---Q-----------------V-P-------ADE-----------G---QPR-
+------------RL-R--RDVVLLTEDRNLRVKALARDVPVREVPDFMLWAGLG
+>UniRef90_A0A1B6GQ50_45_223 | PINc domain-containing protein (Fragment) n=1 Tax=Cuerna arida TaxID=1464854 RepID=A0A1B6GQ50_9H | E_val=3.5e-32
+-EMEVRP--HYLVADTNCFIDYL-PQLQAITR-ASTPT------RPHL-YTIMVPLVVLN
+ELDGLA--H-G-R-RDS---------------------TARP---QHLAMVTECAASALE
+FLRS-----------R---------S----TPAIRCVTTK---------GTILN---ST-
+----TFTSEEDC-----------------------Q--DM-KNDDKILATCLKLCHSSS-
+K-----E---E-------------------Q-------AVE-----------G---QPR-
+------------KL-T--REVVLLTEDRNLRVKAMARDVPVREVLDFVQWAG--
+>UniRef90_UPI0007113485_1557_1748 | telomerase-binding protein EST1A isoform X1 n=5 Tax=Dinoponera quadriceps TaxID=609295 RepID= | E_val=5.1e-32
+-EIEVRP--RQLVPDTNCFIDYL-PQLQIIAR-AISGA-------QPI-YTLMVPLVVLN
+ELEGLA--R-G-A-DAR---DCP---------PASR-AALDP---EHVARVAESAKAALA
+FARS-----------R---------N-----PAIRCLTTR---------GTVLT---SS-
+----TFTVEEDVDK--------------------DG--LT-RNDDRILITCLSLCRMSS-
+K-----D---Q-----------------ANA-------AEE-----------G---QPR-
+------------RL-R--REVVLLTEDRNLRVKALARDVPVREVPDFMQWAGLG
+>UniRef90_UPI000C252B78_1491_1674 | uncharacterized protein MAL13P1.304-like isoform X1 n=3 Tax=Leptinotarsa decemlineata TaxID=7 | E_val=5.6e-32
+-HMEVRP--KYLVPDTNCFIDHL-DGIQIIAQ-S------------HC-YTLMVPIVVLS
+ELEGLS--R-G-G-KAP---T-----------PDSR-TSLDP---QHIIKVAGSAKNALD
+FLKT-----------R---------H-----SSLKCVTTK---------GAVLA---ST-
+----AFSTEDDTTW--------------------DN--SL-TNDDKILTTCLVLCKGYK-
+T-----Q---P-----------------H-E-------TTE-----------G---EPR-
+------------HL-E--REVVLLTDDRNLRVKAYARDVPVRELPDFMRWAGLG
+>UniRef90_UPI00076FA818_1540_1730 | telomerase-binding protein EST1A-like n=1 Tax=Neodiprion lecontei TaxID=441921 RepID=UPI00076 | E_val=2.2e-31
+-EIEVKP--RQLVPDTNCFIDYL-PQLQAIAK-ATSGS-------QPI-YTLMVPLVVLN
+ELEGLA--R-G-G-DAR---DCP---------PASR-AALNP---EHVARVAERSRVALA
+FARS-----------K---------N-----PAVRCLTTR---------GTVLT---SS-
+----TFTVEEDVDQ--------------------GG--LT-RNDDRILATCLSLCRTSS-
+K-----E---Y-----------------T-S-------VAE-----------G---QPR-
+------------RL-R--REVVLLTEDRNLRVKALARDVPVREVLDFVQWASLG
+>UniRef90_A0A564YET9_995_1192 | PINc domain-containing protein n=2 Tax=Hymenolepis diminuta TaxID=6216 RepID=A0A564YET9_HYMDI | E_val=2.2e-31
+-EIEVRP--VYIVPDTNCYIDWL-EGIARLAQAS------------SN-YTLLVPIIVFN
+ELQYLA--S-K-A-RQQ---SLHPIE-NAFSEYLVN-PTSNT---KKGDIIQDRAKAAII
+YLEGEFE------R-R---------N-----PRLRAITAQ---------GNILE---TI-
+----AYRNELDTR---------------------QV--DQ-NNDDVILDCCRHLCKEPL-
+G-----R---K---------------VVN-V-------PSQ-----------N---QPL-
+------------VL-T--RQVVLLTGDRTLRIKARSAYVPVTPLRPFVMWSN--
+>UniRef90_UPI0007719A78_1550_1742 | telomerase-binding protein EST1A isoform X1 n=4 Tax=Cephus cinctus TaxID=211228 RepID=UPI0007 | E_val=5.2e-31
+-EIEVRP--RQLVPDTNCFIDYL-PQLQLIAK-ATSGA-------QPI-YTLMVPLVVLN
+ELEGLA--R-G-G-GSR---DCP------R--ASSR-STLDP---EHVARVADNARNALA
+FARS-----------R---------N-----PAVRCLTTR---------GTVLT---SS-
+----TFTVEEDVDQ--------------------DG--LT-RNDDRILATCLSLCRAGSC
+K-----D---Q-----------------A-T-------AEE-----------G---QPK-
+------------RL-R--REVVLLTEDRNLRVKALARDVPVREVPDFMQWAGLG
+>UniRef90_A0A3Q0K4F8_1076_1236 | telomerase-binding protein EST1A n=2 Tax=Ciona intestinalis TaxID=7719 RepID=A0A3Q0K4F8_CIOIN | E_val=6.5e-31
+---YVTP--KSLIPDTNCFIDHL-DMISDLME-H------------GQ-FIVCVCLVVLT
+ELEGLA--Q-E-S-------------------------KGNT---EHNRRVHANAAASLR
+FIQEKFT------S-R---------H-----VALRALTNQ---------GSALD---TI-
+----SFRSQDHY----------------------SD--KG-TNDDLILMCCEKYEEKTK-
+K-----N-------------------------------NSC-------------------
+-------------------STVLLTDDRNLRVKSLTRNMPTKSIPEFCKWL---
+>UniRef90_UPI000718B930_1501_1692 | telomerase-binding protein EST1A isoform X1 n=10 Tax=Polistes TaxID=7456 RepID=UPI000718B930 | E_val=1e-30
+-EIEVKP--KQLVPDTNCFIDYL-PQLQSITK-ATSGA-------QPM-YTLMVPLVVLN
+ELEGLT--R-G-A-DAR---DCP---------PASR-ATLNP---EHVARVAESAKAALA
+FARS-----------R---------N-----PAIRCLTTR---------GTVLT---SS-
+----TFTVEEDVDK--------------------DK--LT-RNDDRILATCLSLCRTGI-
+K-----E---L-----------------NNP-------EEN-----------H---QPR-
+------------RL-K--REVVLLTEDRNLRVKALARDVPVREVPDFMEWAGLG
+>UniRef90_UPI000C20EF40_1455_1635 | telomerase-binding protein EST1A isoform X1 n=2 Tax=Onthophagus taurus TaxID=166361 RepID=UPI | E_val=1.1e-30
+-NIEVRP--KYLIPDTNCFIDYL-EMIKSVAT-A------------HV-YTLMVPLVVLN
+ELEGLA--K-G-G-KHP---V-----------PTTR-NASDP---EHVIMVAESAKHALD
+YLSV-----------K---------N-----SNIKYITTK---------GTILA---SS-
+----TFTVEDDSVS--------------------DM--AL-KNDDKILSSCLALCKVNK-
+D-----Q-------------------------------HNE-----------G---EPR-
+------------KL-Y--REVVLLTEDRNLRVKALAKDVPVRELPDFIVWAGLG
+>UniRef90_UPI000B8EE0E3_1756_1940 | telomerase-binding protein EST1A-like n=1 Tax=Zootermopsis nevadensis TaxID=136037 RepID=UPI0 | E_val=1.5e-30
+-EIEVKP--HNLVPDTNCFIDYL-SQLQIIAR-AGTAP-------QHY-YTLMVPLVVLK
+ELEGLA--R-G-G-KDR---D-----------HIPV-PSVDP---EHAAKVAEAAKVALV
+FLRS-----------R---------S-----PRVRCVTTR---------GTVIH---TS-
+----AFAMEEDT----------------------EQ--DE-RNDDKILATSLSLCRSSE-
+K-----D---Q---------------------------SKP-----------G---EPR-
+------------RL-Y--REVVLLTEDRNLRVKALARHVPVREVPDFMQWAGLG
+>UniRef90_UPI0007D9F843_1619_1814 | telomerase-binding protein EST1A isoform X1 n=3 Tax=Nasonia vitripennis TaxID=7425 RepID=UPI0 | E_val=5.3e-30
+-EIEVRP--KYLVPDTNCFIDYL-PQLQSIAK-AISGA-------QPI-YTLMVPLVVLN
+ELEGLS--R-G-A-DMR---NCG---------PTSR-AALNP---EHVARVAENAKVGLA
+FARS-----------R---------N-----PAIRCLTTR---------GTVLS---SS-
+----SFTVEEDVCQ--------------------DG--VT--NDDRILATCLTLCKMS--
+K-----G---N-----------------V-SSDATETVAEK-----------G---QPR-
+------------RV-K--REVVLLTEDRNLRVKALARDVPVREVPDFIQWAGLG
+>UniRef90_UPI0006C9DA40_1500_1689 | telomerase-binding protein EST1A n=1 Tax=Copidosoma floridanum TaxID=29053 RepID=UPI0006C9DA4 | E_val=5.8e-30
+-EIEVRP--KHLVPDTNCFIDYL-SQLQSITK-ASCGA-------QPM-YTLMVPLVVLN
+ELEGLS--R-G-A-NLL---DCG---------PTSR-AALNP---EHVARVAENAKAGLS
+FARS-----------R---------N-----PAIKCLTTR---------GTVLT---SS-
+----SFTDEEDVCQ--------------------DG--LT-RNDDRILATCLSLCRSY--
+K-----D---Q-----------------V-N-------SDE-----------G---QPR-
+------------RV-K--RDVVLLTEDRNLRVKALARDVPVREVPDFIQWAGLG
+>UniRef90_UPI000DF6A777_1490_1670 | uncharacterized protein LOC108742138 n=1 Tax=Agrilus planipennis TaxID=224129 RepID=UPI000DF6 | E_val=6.5e-30
+-QIEVKP--KILVPDTNCFIDYL-HMIKAAAS-A------------HV-YTLMVPLVVLN
+ELEGLA--K-G-G-KGP---L-----------PSPR-NVLDP---SHIKKVAVAAKLALD
+FLQI-----------R---------Q-----PNIKCVTTK---------GTTLT---SF-
+----TFTVEDDSSI--------------------DS--TL-KNDDKILATCLVLCKNSK-
+D-----Q-------------------------------VVE-----------G---EPR-
+------------NL-F--REVVLLTDDRNLRVKALARDVPVREVPDFIKWAGLG
+>UniRef90_D6WZS1_1287_1469 | Telomerase-binding protein EST1A-like Protein n=1 Tax=Tribolium castaneum TaxID=7070 RepID=D6WZS1_TR | E_val=1e-29
+-HIEVRP--KYLVPDTNCFIDHL-DPITTITS-S------------HV-YTLMVPIVVLS
+ELEGLS--R-G-G-KSP---I-----------PSTR-SMLDP---QHVRKVAQAAKRALN
+FLKS-----------R---------P-----QAVKCVTTK---------GAVLS---ST-
+----TFTTEDDSML--------------------DA--TF-KNDDKILATCLVLSKGHR-
+E-----Q---Q-------------------Q-------IAE-----------N---EPK-
+------------KL-V--SEVVLLTDDRNLRVKALARDVPVRELLDFMQWAGLG
+>UniRef90_A0A2P8YGY1_270_454 | Telomerase-binding protein EST1A n=1 Tax=Blattella germanica TaxID=6973 RepID=A0A2P8YGY1_BLAGE | E_val=1.2e-29
+-EIEVKP--HNLVPDTNCFIDYL-SQLQTLAK-AGPAP-------EHY-YTLMVPLVVLK
+ELEGLA--R-G-G-KDR---D-----------HIPV-PAVDP---EHAAKVAESAKQALT
+FLRS-----------Q---------N-----PGVRCVTTL---------GTVFR---TG-
+----SIAMEEDT----------------------EQ--GE-RNDDKILATSLSLCEATG-
+K-----D---Y---------------------------TKP-----------G---EPR-
+------------RL-Y--REVVLLTEDRNLRVKALARHVPVREVPDFMQWAGLG
+>UniRef90_UPI000F4F6D71_1409_1523 | LOW QUALITY PROTEIN: telomerase-binding protein EST1A n=1 Tax=Tachysurus fulvidraco TaxID=123 | E_val=1.2e-29
+LELEIRP--FYLVPDTNCFIDHL-EGLKKLLA-C------------GVKYILVVPLIVIT
+ELDGLA--K-G-Q-ECR---DMDY--------------IGET---AHARQVQECAKAAMT
+FLEKGFE------A-R---------E-----PGLRALTSR---------GNQLE---SI-
+----AFRSEDTS----------------------GH------------------------
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A1B6CG54_1551_1735 | PINc domain-containing protein n=2 Tax=Clastoptera arizonana TaxID=38151 RepID=A0A1B6CG54_9HEMI | E_val=1.4e-29
+-EMEVKP--HYLVADTNCFIDFL-PQVQIIAQ-TTIAQ-------QHL-YTLMVPLVVLK
+ELDGLS--R-G-Q-KIS---------------------STRP---EYAVKISEAAKTALE
+FLRS-----------R---------DNISPPVAIRCVTTK---------GTIVK---ST-
+----TFTQEQDD----------------------DE--GM-KNDDRILATCLNLCAKSH-
+T-----S---K-----------------MEQ-------TVE-----------G---QPR-
+------------KI-Y--REVVLLTRDRNLRVKAHARDMPVRELPNFMQWAG--
+>UniRef90_UPI00083C2589_1292_1469 | telomerase-binding protein EST1A isoform X1 n=2 Tax=Nicrophorus vespilloides TaxID=110193 Rep | E_val=2.4e-29
+--IVVKP--KNLVPDTNCFIDYL-GMLKKIAS-S------------NV-YTLTVPVVVLN
+ELEGLA--K-G-L-RTV---G-----------CSPR--SVDP---THAAKVAEFSKQALE
+FLST-----------K---------H-----AGVKCITTK---------GTFLA---ST-
+----VFTKEDDTVV--------------------DA--AM-TNDDRILATCMTLCRGTV-
+E-----H---V-----------------------------P-----------G---GPR-
+------------KL-H--REVVLLTEDRNLRVKALARDVPVQEVPKFLEWAGLG
+>UniRef90_UPI001230237D_1535_1717 | uncharacterized protein LOC115875527 isoform X1 n=2 Tax=Sitophilus oryzae TaxID=7048 RepID=UP | E_val=2.6e-29
+-HLEIRP--KYLVPDTNCFIDHM-TSIQNIAK-S------------HT-YTVMVPIVVLS
+ELEGLS--K-G-T-PST---K-----------VRGL-SVPNA---EHAQKVAQASRLALD
+FLKK-----------R---------H-----PSVKCVTTR---------GAVLA---ST-
+----TFSTEDDATW--------------------DS--TI-TNDDKILTTALVLCKNHM-
+N-----Q---P-------------------E-------VVE-----------G---EPR-
+------------HL-V--RDVVLLTEDRNLRVKAYARDVAVRALPDFMRWAGLG
+>UniRef90_UPI0005CF4B0D_1535_1725 | telomerase-binding protein EST1A n=1 Tax=Ceratosolen solmsi marchali TaxID=326594 RepID=UPI00 | E_val=4.9e-29
+-EIEVRP--KQLVPDTNCFIDYL-PQLQSIVK-ATSVA-------QPI-YNLMVPLVVLN
+ELEGLS--R-GSA-DLR---DSG---------PTSR-AALNP---EHVARVAENAKAGLA
+FARS-----------R---------N-----PAIRCLTTR---------GTILP---SS-
+----SFTVEEDVCQ--------------------DC--LT-RNDDRILATCLSLCKSN--
+K-----D---Q-----------------V-S-------SEE-----------G---QPR-
+------------RV-K--RDVVLLTEDRNLRVKALARDVPVREVLDFIQWAGLG
+>UniRef90_A0A023EZ88_1402_1579 | Putative nonsense-mediated mrna decay protein (Fragment) n=3 Tax=Triatominae TaxID=70999 RepID=A | E_val=6.4e-29
+-EMEVRP--HDLVPDTNCFIDCL-PQIEALLK-ILPHQ-------QHP-YIFMVPLVVVN
+ELEGLS--R-G-C-KPG----------------------QSV---MHSAMVRETARAAMT
+ILQN-----------K---------H-----PALRCVTSR---------GTVLN---SS-
+----TFIIEEDT----------------------PQ--EM-KNDDKILTTCLNLCRSCG-
+R-----D---E---------------------------IKE-----------G---GRR-
+------------KL-Y--REVVLLTEDKSLRLKAISRDMPVRALPDFIKWAGLG
+>UniRef90_UPI00096AED1F_1499_1692 | LOW QUALITY PROTEIN: uncharacterized protein LOC109600502 n=1 Tax=Aethina tumida TaxID=116153 | E_val=1.2e-28
+-HVEVRP--KYLVPDTNCFVDHL-TMISVIAS-S------------HS-YSLMVPIVVLS
+ELEGLS--K-G-G-KSP---M-----------PTTRKSPADP---QHVLKVAEAARKALD
+FLKN-----------R---------H-----QSVKCVTTK---------GAILA---SV-
+----AFTTEDDSTL--------------------DG--GL-TNDDKILATCLALCRNHR-
+E-----Q---PT-----GEGDGSQHVEGA-E-------SGA-----------T---APR-
+------------QL-S--REVVLLTDDRNLRVKAHARDVPVRELPDFVHWA---
+>UniRef90_E0V9J9_303_491 | PINc domain-containing protein n=1 Tax=Pediculus humanus subsp. corporis TaxID=121224 RepID=E0V9J9_P | E_val=1.7e-28
+--IEVKP--KYLVPDTNCFIDYL-ELLKKIAS-IPAPG------MEPY-YILTIPLIVLN
+ELEGLA--R-G-G-RDR---D-----------LGHL-SLIEQ---EHAADVSGSARAALN
+YLRSPMR--------S---------L-----PTIRCVTTR---------GKFIN---SFT
+----TFVVEDDI----------------------DR--DL-KNDDRVLATCISLCRNSG-
+K-----E---Q---------------------------TKP-----------G---NPR-
+------------HL-V--REVVLLTEDRNLRVKALARDVPVREVPDFAQWAGLG
+>UniRef90_UPI0006D5181B_1405_1582 | telomerase-binding protein EST1A n=1 Tax=Halyomorpha halys TaxID=286706 RepID=UPI0006D5181B | E_val=2.2e-28
+-EMEIRP--HDLVPDTNCFIECL-PELETILR-VLPHP-------QHP-YVLMVPLVVVN
+ELEGLS--R-G-C-KPS----------------------QSV---HHSALVRETAKAAMA
+LFQK-----------K---------H-----PALRTCTTR---------GTILS---ST-
+----TFTHEEDT----------------------GV--EM-TNDDKILTTCVNLCKTSN-
+K-----D---E---------------------------IKE-----------G---GRR-
+------------KL-Y--RDVVLLTEDRNLVLKAMGRDMPVRSLPDFIRWAGLG
+>UniRef90_A0A0R3RGL6_447_643 | PINc domain-containing protein n=1 Tax=Elaeophora elaphi TaxID=1147741 RepID=A0A0R3RGL6_9BILA | E_val=5.4e-28
+-IIEVRP--NYLVPDTNTFIDHL-ISIKKIVE-S------------HR-FTVLVPTTVFS
+ELESLS--R-L-SSSSK---------------STV--GGQED---FQDRWVSERAKEALA
+YLEDLIG------R-Q---------V-----PQVYTITSK---------GNLLT---SL-
+----MFVTEETCGSG-------------------EL--KA-VNDDFILSSCVNFAKTRS-
+K-----P---P-----------------G-N-------VATTQSASMYTMDAE---QPT-
+------------RL-Y--RSVVLLTEDRALNIKAVCENIPCRTIPSFMKWAA--
+>UniRef90_A0A482WLG3_1625_1813 | PINc domain-containing protein n=1 Tax=Laodelphax striatellus TaxID=195883 RepID=A0A482WLG3_LAOS | E_val=5.8e-28
+-EMEVRP--HYLVPDTNCLIDYL-AELAAIAN-AKSPAT-----NEYI-YSLVVPLVVMN
+ELEGLS--Q-G-A-CKG---V-------------RA-AWRGA---QHTVRLAEAARNALH
+FLRS--------TD-A---------H-----PPIKGLTTH---------GNTLN---SS-
+----RFTDEQDY----------------------SE--DM-KNDDKILTACLNLSRLNS-
+K-----E---S-----------------K-S-------QKE-----------D---GSR-
+------------RV-L--CEVVLLTEDRNLKLKALARDMPVSDMPNFIKWAGLG
+>UniRef90_A0A0N8CV59_1403_1571 | Telomerase-binding protein EST1A n=8 Tax=Daphnia magna TaxID=35525 RepID=A0A0N8CV59_9CRUS | E_val=7.6e-28
+VELEVRP--KYLVADTNCYIDHL-DALACLTR-E------------KH-YTLVAPLVVLN
+ELEGLC--R-S--------------------------------------RLAVESRAALA
+FLRE-----------K---------N-----PQIRYVTSK---------GAPLP---NFA
+---ACTMNEEND----------------------DQ--GL-TNDDRILQCCLGLFKDRP-
+A-----S---S-----------------S-T-------AEEDTC-------PD---GVK-
+------------RL-R--REVVLLTDDRNLRVKSLSRDVPVRDLPAFLAWSS--
+>UniRef90_A0A1Y1L9R3_1362_1559 | PINc domain-containing protein n=5 Tax=Photinus pyralis TaxID=7054 RepID=A0A1Y1L9R3_PHOPY | E_val=9.6e-28
+-HIEIRP--KILVPDTNCFIDYI-AKIKTIVD-A------------HV-YTLMVPLVVLN
+ELEGLA--R-G-G-KGP---A-----------PSTR-PTTDS---QHVLKVAESAKRALD
+YLGN-----------R---------H-----NNIKCVTTK---------GTTLA---TF-
+----TFTVEEDSPS--------------------DS--SL-RNDDKILATCLMLCKNNK-
+D-----Q---IMEG---TDADGSIHSADR-K-------DFV-----------G---EPR-
+------------KL-F--REVVLLTEDRNLRVKALARDLPVRELPDFLQWAGLG
+>UniRef90_UPI000E6E4355_248_419 | telomerase-binding protein EST1A-like n=1 Tax=Ctenocephalides felis TaxID=7515 RepID=UPI000E6 | E_val=2.5e-27
+LELEIRP--KFLVPDTNCFIDYM-QDMQNIAA-C------------SF-FTLMVPLIVLN
+ELEGLS--H-G-NV---------------------------H---NNREEVAIKATIALK
+LLRE-----------K---------H-----PHIKFLTTR---------GNILI---KP-
+----AFTAEETKK--------------------TND--IH-NNDDRILASALSLCKRDV-
+T-----I---ETE---------------A-T-------GSK-----------P---KIT-
+------------RI-K--REVVLLTMDRNLRVKALAADMPVRPLPEFVQW----
+>UniRef90_UPI000B9950DE_1238_1425 | telomerase-binding protein EST1A-like isoform X1 n=2 Tax=Nilaparvata lugens TaxID=108931 RepI | E_val=2.8e-27
+-EMEVRP--HYLVPDTNCLIDYL-PQLATIAN-AKSSPT-----NEYI-YSLIVPLVVIN
+ELEGLS--Q-G-A-GGK---V-----------VKGG-GGVGA---QHSAMVAEAARSALH
+FLRL---------P-G---------P-----PTIKGLTTH---------GNTLN---SN-
+----RFTAEEDY----------------------SE--DM-KNDDKILTACLNLSRLNS-
+K-----E---S-----------------K-S-------QKE-----------D---GSR-
+------------RV-L--CEVVLLTEDRNLKLKALARDMPVSDMPNFIKWAG--
+>UniRef90_A0A498S0G8_1314_1508 | PINc domain-containing protein n=1 Tax=Acanthocheilonema viteae TaxID=6277 RepID=A0A498S0G8_ACAV | E_val=7.1e-27
+--IEVRP--NYLVPDTNTFIDHL-MSIKKIVE-S------------HR-FTVLVPTTVFS
+ELESLS--R-L-S-SPK---------------PTV--GGRED---FQDHWVGERAKEAVA
+YLKDLIG------K-Q---------V-----PQIYTITSK---------GNLLT---SL-
+----MFATEETSGSG-------------------EL--KA-VNDDFILSSCVNFAKTRS-
+K-----P---S-----------------N-A-------VTTAQSVSVSMMDME---QPT-
+------------RL-Y--RSVVLLTEDRALNIKAVCENIPCRTVPSFMKWAA--
+>UniRef90_A0A0A9YKB2_156_333 | Telomerase-binding protein EST1A (Fragment) n=2 Tax=Lygus hesperus TaxID=30085 RepID=A0A0A9YKB2_ | E_val=8.7e-27
+-EMEIRP--HDLVPDTNCFINCL-PQLESLMK-LLPHP-------QHP-YVIMVPLVVVN
+ELEGLS--R-G-C-KPS----------------------QSA---LHSAMVRETAKAAMG
+LFQN-----------R---------H-----PALRCVTTK---------GTVLN---SS-
+----TFTLEEDS----------------------AV--EM-KNDDKILTTCVNLSKAHK-
+R-----D---E---------------------------IKE-----------G---GRR-
+------------KL-Y--RDVVLLTEDRSLRLKAISKDMPVRALPDFIKWAGLG
+>UniRef90_T1JID0_177_347 | PINc domain-containing protein n=1 Tax=Strigamia maritima TaxID=126957 RepID=T1JID0_STRMM | E_val=9.9e-27
+--FEIHP--DYIIADTNCFIDHL-EGIKKLVA-T------------DH-FRLQVPLVVVN
+ELDGLS--K-G-C-DV----------------------MRDD---QHNSKVVIGAKAALE
+FLSKIFT------P-P--------CH-----PKVMCVTAQ---------GNVLK---TL-
+----QFTSESYFG---------------------QN--RD-CNDDIILDCCKTHCRDDG-
+--------------------------------------IIK-----------D---NVQ-
+------------HF-V--RNAILLTDDRALRVKAVNSDVPTRDIQKFLLL----
+>UniRef90_A0A0N5D7F8_445_635 | PINc domain-containing protein n=2 Tax=Thelazia callipaeda TaxID=103827 RepID=A0A0N5D7F8_THECL | E_val=1.2e-26
+--IEVRP--KYLVPDTNTFIDHL-VSIKKIVD-S------------HR-FTVLVPTTVVS
+ELENLS--R-L-V-SSK---------------SSF---GVEE---FQDCYVGERAKEAIV
+YLKDLVG------K-Q---------------SQVYTITSR---------GNLLN---SV-
+----MFATEESYSSG-------------------EL--TV-VNDDIILLSCVNFAKTRS-
+N-----P---P-----------------S-S--------SEAQLTTGSLLNVE---QPV-
+------------RL-Y--RSVVLLTEDRALNIKAVCENMPCRTIPSFMKWA---
+>UniRef90_A0A0K8TR21_307_488 | Putative nonsense-mediated mrna decay protein (Fragment) n=1 Tax=Tabanus bromius TaxID=304241 Re | E_val=1.9e-26
+-HIEVHP--KYLVPDTNCFIDFL-DELKVVSR-T------------DA-FLLMIPLVVVN
+ELEGLS--K-G-V-KPT---TNL------LGKQSEL-STEKT---EHFIKVAEISKQSLE
+FIRS-----------K---------N-----SSIRCVTTK---------GSVLV---SS-
+----VFTSEDND----------------------QD--QT-SNDDKILKTALSLCKIWN-
+K-----E-------------------------------KRD-----------D---HVL-
+------------RV-K--TPVVLLTTDRNLRVKALSRNLIVSQLPRFVEWAG--
+>UniRef90_A0A1I8AUB7_1223_1408 | PINc domain-containing protein n=2 Tax=Steinernema glaseri TaxID=37863 RepID=A0A1I8AUB7_9BILA | E_val=2.4e-26
+--LEVRP--EYLVPDTNTFIDHL-ASLKKIIE-S------------KR-FTTLVPTTVIA
+ELTGLS--Q-P-A-ANL----------LANTKPGHM-GATDI---DHIDWVSEQARLAVQ
+YLRNVSE------S-R---------T-----PGIYTITSN---------GNRQP---SL-
+----NFVTEELPRSD-------------------DK--KA-VNDDRILSCCVQFEAKMS-
+S-------------------------------------STE-----------P---AEG-
+------------TL-K--RRVVLLTEDRALKIKAITMQVPCRTIPNFVEWSR--
+>UniRef90_C3ZS53_849_964 | Uncharacterized protein n=1 Tax=Branchiostoma floridae TaxID=7739 RepID=C3ZS53_BRAFL | E_val=3.1e-26
+-EVEVVP--AFLIPDTNSFIDNL-HGLKRLIL-C------------QM-FTVVVPLIVIN
+ELDGLA--R-G-S-RHE---------------------EKTS---GHAQKLQQGAMLAIK
+FLEDQFS------H-H---------D-----SHLRALTSK---------GTSLD---TI-
+----AFRNEDMP----------------------GH--QQ-RGSHV--------------
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A3P7FWH4_291_486 | PINc domain-containing protein n=1 Tax=Wuchereria bancrofti TaxID=6293 RepID=A0A3P7FWH4_WUCBA | E_val=4e-26
+--IEVRP--KYLVPDTNTFIDHL-ASIKKIVE-S------------HR-FTVLVPTTVFS
+ELENLS--R-L-SPSPK---------------PAV--GALDD---FQDYWVGERAKEAVA
+YLKDLVG------K-Q---------V-----PQIYTITSK---------GNLLT---SL-
+----MFATEETCASG-------------------EL--KA-VNDDFILSSCVNFAKTRA-
+K-----P---P-----------------N-A-------IATAQSPSVSIMDTE---QLT-
+------------KL-Y--RSVVLLTEDRALNIKAICENIPCRTVPSFMKWAS--
+>UniRef90_A0A0K2TG00_1117_1286 | Putative LOC100651950 [Bombus terrestris] n=1 Tax=Lepeophtheirus salmonis TaxID=72036 RepID=A0A0 | E_val=4.5e-26
+-TLEIRP--QYLVADTNCFVDHL-DGIKALVA-S------------SQ-YHLRVPLVVLN
+ELDGLS--K-G-A-RPS--------------------KYSSQ---EHANMVSDNARRALN
+FLRN-----------R---------P-----RNTKCVTSR---------GVVIN---YF-
+----GITSEEDP----------------------NY--EK-KNDDLILDICLNLSSNKE-
+--------------------------------------ETK-----------G---NMR-
+------------IV-Y--RDVVLLTDDRNLKLKAHITDIPVNKFIDFFNWAK--
+>UniRef90_A0A158QUI4_1168_1301 | Uncharacterized protein n=3 Tax=Mesocestoides corti TaxID=53468 RepID=A0A158QUI4_9CEST | E_val=6e-26
+------------------------------------------------------------
+-------------------------------------SETSG---GRANLIQERAKVAIA
+FLEDEFE------R-R---------N-----PRLRALTAK---------GSMLE---TI-
+----AYRNEANRGK--------------------QP--GQ-NNDDVILTCCRQFCKEAL-
+A-----Q---M-----SAEGQL----LST-A-------DSE-----------N---QPM-
+------------RV-V--REVVLLTSDRNLRLKALSLNIPARPLRPFVEWS---
+>UniRef90_A0A3P6TPU6_1309_1503 | PINc domain-containing protein n=1 Tax=Litomosoides sigmodontis TaxID=42156 RepID=A0A3P6TPU6_LIT | E_val=6.2e-26
+--IEVRP--NYLVPDTNTFIDHL-TSIKKIVE-S------------HR-FTVLVPTTVFS
+ELESLS--R-L-S-SSK---------------PTI--GEQDD---FQDHWVGERAKEAVA
+YLKDLIG------K-Q---------V-----QQVYTITSK---------GNLLT---SL-
+----MFATEETCGSG-------------------EL--KA-VNDDFILASCVNFAKTRS-
+K-----P---P-----------------N-A-------TATAQSASMSTVDAE---QPA-
+------------RL-Y--RNVVLLTEDRALNIKAVCENIPCRTVPSFMKWAA--
+>UniRef90_UPI0006CF061B_1363_1539 | telomerase-binding protein EST1A isoform X1 n=3 Tax=Cimex lectularius TaxID=79782 RepID=UPI00 | E_val=8.5e-26
+--MEVRP--HDLVPDTNCFIDCL-PQIEALLK-ILPNP-------QHP-YVIMVPLIVMN
+ELEGLS--R-G-C-KPS----------------------QSA---LHSVMVRETARDAMA
+LFQK-----------K---------H-----PALRCVTTK---------GSVLI---SP-
+----AFTVEEDT----------------------AV--DM-KNDDKILATCINISKAHT-
+R-----D---E---------------------------VTE-----------G---GKK-
+------------KL-Y--REVVLLTDDKSLRLKAISRDMPVRSLADFMKWAGLG
+>UniRef90_A0A1I7VT43_1340_1536 | PINc domain-containing protein n=1 Tax=Loa loa TaxID=7209 RepID=A0A1I7VT43_LOALO | E_val=2.5e-25
+-IIEVRP--KYLVPDTNTFIDHL-TSIKKIVE-S------------HR-FTVLVPTTVFS
+ELESLS--R-L-APSSK---------------PTV--GGQED---FQDHWVGERAKDAVA
+YLKDLIG------K-Q---------V-----PQVYTITSK---------GNLLT---SL-
+----MFATEETCASG-------------------EL--KA-VNDDFILSSCVNFAKTRP-
+K-----P---A-----------------N-T-------LATAQSALVRMVDVE---QPA-
+------------KL-Y--RSVVLLTEDRALNIKAVCENIPCRTVPSFMKWAA--
+>UniRef90_A0A044V298_1309_1505 | PINc domain-containing protein n=2 Tax=Onchocerca TaxID=6281 RepID=A0A044V298_ONCVO | E_val=4.1e-25
+--IEVRP--KYLVPDTNTFIDHL-TSIKKIVE-S------------HR-FTVLVPTTVFS
+ELENLS--R-L-SSLSK---------------SAA--GGQED---FQDHWVGERAKEAVA
+YLKDLIG------K-Q---------V-----RQIYTVTSK---------GNLLT---SL-
+----MFATEETCAAG-------------------EL--KA-VNDDFILSSCVNFAKTRP-
+K-----P---S-----------------N-A-------ITTAQSVSINVKDAE---QQA-
+------------RL-Y--RSVVLLTEDRALNIKAVCENIPCRTVPNFMKWAAI-
+>UniRef90_UPI0006C9B075_1483_1673 | telomerase-binding protein EST1A isoform X1 n=2 Tax=Trichogramma pretiosum TaxID=7493 RepID=U | E_val=5.1e-25
+-EMEIRP--KHLVPDTNCFIDHL-PQLQILAK-ATYGS-------LPL-FTLMVPIVVLN
+ELEGLT--K-G-I-DMQ---NHA---------TLAR-FAQSP---EHIAMVAANSHAALT
+FIRS-----------K---------N-----PAVKCVTTR---------GTILA---SS-
+----SFTVEEDGCQ--------------------DT--VA-KNDDKILNTCLSLCKSNK-
+D-----Q---S-----------------NDT-------VGL-----------G---QTR-
+------------KL-K--RDVVLLTEDRNLRVKAIARDIPVRELLDFIKWARL-
+>UniRef90_A0A0N5AAP0_1404_1586 | PINc domain-containing protein n=1 Tax=Syphacia muris TaxID=451379 RepID=A0A0N5AAP0_9BILA | E_val=5.7e-25
+--IEVKP--VYVVLDTNCFIYHL-ESIKHIVD-S------------MK-FTVLVPTIVIA
+ELEGLR--K-R-S-DSK-------------GSLTSG-QILDD---EHSTWIQQRSGLACE
+YLQEAKH------K-K---------G-----SQISAISSK---------GNKFQ----L-
+----CFVSEQEELR--------------------SE--KT-VNDDLILSTCVEFSKEIA-
+K-----E---T---------------------------CEK-----------Q---DHL-
+------------RI-R--RNVVLLTEDRTLIIKAVCANIPSRTILSFMEWAA--
+>UniRef90_A0A5E4MI97_1295_1468 | DNA/RNA-binding domain, Est1-type,PIN domain,PIN domain-like,Tetratricopeptide-like helical n=1  | E_val=1.1e-24
+-EIEIKP--HYVVPDTNCFIDYL-PQLEQLIY-SFSHA------QEHT-CTLMVPTVVLI
+ELEGLA--K-G-G-WVR-------------------------------EIVCEAAKQALK
+ILKN---------I-D---------T-----AAVKFVTTK---------GSSFK---ST-
+----TFFEEENNF-------------------------VG-TNDDKILATCLSLCKNNS-
+Q-----L---PVD---------------N-P-------QVE-----------G---EPI-
+------------KI-Y--RDVVLLTEDRNLRVKALSSDVPVRAIMDFISWF---
+>UniRef90_A0A4U5N7E0_291_473 | PINc domain-containing protein n=1 Tax=Steinernema carpocapsae TaxID=34508 RepID=A0A4U5N7E0_STEC | E_val=1.2e-24
+---EIKA--EFLIPDTNTFIDHL-SSLQKLID-S------------KR-FTTLVPTTVIA
+ELTGLS--Q-P-A-ASN--------------PLSRA-GSVDP---EHDDWVSDQAKLAVA
+YLRNVSE------S-R---------T-----PGIYTVTSN---------GNRQP---TL-
+----NFVTEEAPRGE-------------------DR--KA-VNDDLILSCCVQFESKLG-
+T-----A---N---------------------------AQE-----------D---GEE-
+------------IL-R--RRVVLLTEDRALNIKAIAAQVPCRTVPNFVKWSQ--
+>UniRef90_A0A2S2QQA5_1282_1455 | Telomerase-binding protein EST1A n=1 Tax=Sipha flava TaxID=143950 RepID=A0A2S2QQA5_9HEMI | E_val=1.5e-24
+-EIEIKP--HYVVPDTNCFIDYL-PQLEKLMY-SFSHA------QEHI-CTLMVPTVVLI
+ELEGLA--K-G-G-WVR-------------------------------DSVCEAAKQALK
+ILKN---------I-D---------T-----AAVKFVTTK---------GSSYK---ST-
+----IFFEEETNF-------------------------VG-NNDDKILTTCLSLCKNNS-
+Q-----S---SVD---------------S-T-------QAE-----------G---EPK-
+------------KI-Y--RDVVLLTEDRNLRVKALSSDMPVRAVMDFINWL---
+>UniRef90_A0A068YBR0_1141_1278 | Telomerase binding protein EST1A n=3 Tax=Echinococcus TaxID=6209 RepID=A0A068YBR0_ECHMU | E_val=1.9e-24
+----------------------------------------------SE-F----------
+-------------------------------------NGSSG---GRANLIQERAKAAIA
+FLEGEFN------R-R---------N-----PRLRALTAK---------GSMLE---TI-
+----AYRNEANGGK--------------------QP--GQ-INDDVILTCCRRFCKEVL-
+A-----Q---I-----SAEGNL----VST-A-------ESK-----------N---QPM-
+------------RV-T--REVVLLTSDRNLRLKALSLNIPARPLRPFVEWSS--
+>UniRef90_UPI00084A965C_1341_1514 | uncharacterized protein LOC108666206 n=1 Tax=Hyalella azteca TaxID=294128 RepID=UPI00084A965C | E_val=2.2e-24
+VELEVRP--RYVMPDTNCFITHL-PYLTELVTPP------------SP-YTLLVPLVVVS
+ELEGLS--R-G-A-DDT------------------A-EAGEV---VDGASRAQWARQARE
+FVRS-----------K---------R-----HNIRAVTTQ---------GNILT---SS-
+----DFQEAIVD--------------------------EM-TNDDKILSSCQHFCVVDQ-
+S-----R---T---------------------------ATS-----------D---AVV-
+------------HV-R--CEAVLLTADRNLSIKAYASNVPVCTVPHFKRWAE--
+>UniRef90_G3VB76_316_493 | PINc domain-containing protein n=1 Tax=Sarcophilus harrisii TaxID=9305 RepID=G3VB76_SARHA | E_val=5.3e-24
+-EEDPRP--NCLVLDTSSFLLQL-DIMSQLLE-E------------TN-LTVLVALVVIH
+ELKGLA--K-G-E-QGN-----------------PM-ARSPS---SGPGQRAQRAQSAVD
+FLEQHFP------L-S---------K-----GRLKVLSSQ---------GQELQ---TT-
+----DCDQKNMVW--L----------------------HG-NFDDHILACCLNYQRAQT-
+N-----K---N-----------------M-P-------SWD-----------D---QPI-
+------------EL-H-SGDLALLTDDHTLRVKALASKVPVWDKETFL------
+>UniRef90_UPI0012D3C7ED_772_952 | telomerase-binding protein EST1A isoform X2 n=1 Tax=Contarinia nasturtii TaxID=265458 RepID=U | E_val=5.7e-24
+--LEIRP--KYLLPDTNCFIDFL-PAIKQLAQ-V-----------YPL-YHVIVPIVVLN
+ELEGLA--K-G-D-DCL---KVY----------------------GTPTKTSLNAHKALV
+FLKA-----------S---------G-----SNVKCATSK---------GSFLN---SM-
+----AFTKETDCINA---------------TESPID--HM-NNDDKILMTAINLTKLHS-
+N-----D---A-----------------I-T-------ASK-------------LISIS-
+------------NL-Q--RKVVLLTNDRNLKLKAITQNIPVRELVDFIKWSG--
+>UniRef90_UPI0008F9A063_2036_2210 | telomerase-binding protein EST1A-like isoform X1 n=2 Tax=Bemisia tabaci TaxID=7038 RepID=UPI0 | E_val=7.6e-24
+-EMEVKP--KYLVPDTNCFIDYL-PYLRSISE-VTTDT------NETL-YSLMVPLIVKN
+ELQGLS--R-G-I--------------------------------KKSAEVAESAKEALE
+FLCS---------Q-S---------T-----RAVKCVTTK---------GAIIHH--AS-
+----NFSEEEDG----------------------VE--GL-KNDDKILETCIILCKNKP-
+A-----E---E---------------------------SKE-----------G---QPR-
+------------KI-H--RNVVLLTDDRHLRVKALCRDMPVRTVPDFVQWAGLG
+>UniRef90_A0A0T6BDT9_7_160 | PINc domain-containing protein n=1 Tax=Oryctes borbonicus TaxID=1629725 RepID=A0A0T6BDT9_9SCAR | E_val=1.4e-23
+-------------------------------S-A------------HV-YTLMVPLVVLN
+ELEGLA--K-G-G-RSP---A-----------PVPR-ATPNP---EHIVMVAESAKHALD
+FVGV-----------K---------N-----PSVKCITTK---------GTILA---SS-
+----TFTVEDDSVS--------------------DS--AL-KNDDKILASCLAFCKTNK-
+D-----Q-------------------------------HGE-----------G---EPR-
+------------KL-C--REVVLLTEDRNLRVKALARDVPVRELPDFIQWAGLG
+>UniRef90_F1KPQ9_1553_1737 | Telomerase-binding protein EST1A n=2 Tax=Ascaris suum TaxID=6253 RepID=F1KPQ9_ASCSU | E_val=2.1e-23
+--IEVRP--NYLVPDTNTFIDHL-ESIMRIVS-N------------GK-FTVLVPTTVTS
+ELTSLS--R-P-A-GSR---------------PAMG-QLADE---EQENWVMERAKLAVG
+YLQKAAD------Q-K---------M-----SHISTITTK---------GSRLP---SV-
+----FLAAEQCSVSP-------------------ED--KT-VNDDMILSSCSALCAAMP-
+Q-----P---S-----------------S-T-------DVS-----------D---TRA-
+------------KL-F--RNVVLLTDDRALSIKAMCANIPCRTIPSFIKWAT--
+>UniRef90_A0A183UB22_1382_1567 | PINc domain-containing protein n=2 Tax=Toxocara canis TaxID=6265 RepID=A0A183UB22_TOXCA | E_val=2.2e-23
+--IEVRP--NYVVPDTNTFIDHL-ESVVRIVS-N------------GK-FTVLVPTTVAS
+ELTSLS--R-P-A-AGR---------------PGMG-QLADE---EQENWVVERAKLAVS
+YLQKAAE------E-K---------I-----PHISTVTSK---------GSRLP---SV-
+----FFASEQCTVSQ-------------------ED--KT-VNDDMILSSCSALSATMP-
+P-----P---S-----------------S-C-------DSS-----------D---GRT-
+------------KL-Y--RGVVLLTDDRALSIKAMCANIPCRTIPSFIKWAAI-
+>UniRef90_A0A3P7BGG3_1538_1668 | PINc domain-containing protein n=3 Tax=Schistocephalus solidus TaxID=70667 RepID=A0A3P7BGG3_SCHS | E_val=3.6e-23
+------------------------------------------------------------
+---------------------------------------------SRASLIQERARAAIA
+YLETQFD------R-R---------N-----PRLRALTAK---------GSMLE---TI-
+----AYRHEANRGR--------------------QP--GQ-NNDDVILTCCRQFCKEAL-
+A-----Q---M-----SAEGHIG--PAGS-A-------DAK-----------N---LPM-
+------------RL-V--REVVLLTSDRNLRLKALSLNIPARPLRSFVEWT---
+>UniRef90_B3S540_662_791 | Uncharacterized protein n=2 Tax=Trichoplax TaxID=10227 RepID=B3S540_TRIAD | E_val=4.1e-23
+IELEVIP--KYLVIDTNTLIDRV-DLIGNYIT-Q------------KK-FHIVVPLVVIN
+ELSGLL--K-G-E-DS----------------------SSDT---SHSSKASEMAKNAMI
+FIEEHFS------I-C---------K-----SHLTVLTTK---------GNALR---SL-
+----NFRSEDTSS---------------------NT--VH-NNDDLILQCCFRYCNDRE-
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_UPI000E6D6DB3_1437_1606 | telomerase-binding protein EST1A isoform X2 n=3 Tax=Hyposmocoma kahamanoa TaxID=1477025 RepID | E_val=7.4e-23
+-EVEVRP--HWLVPDTNCFIDHL-ALLQAVAA-M----------NSQP-YLLAVPLVVLT
+ELEGLR--K-C-S------------------------------------RVGENAQAALT
+WISEG----------G---------G-----GGIRLATSR---------GSLLA---SR-
+----AFTAERDQT-------------------------RA-TNDDRVLATALNLHVTLA-
+T-----E---P-----------------D-T-------RGDDG-------GEG---KYV-
+------------RR-V--REVVLLTDDRNLRVKALAAELPVRDLPSFVHWAGV-
+>UniRef90_UPI000EF8B833_1344_1521 | uncharacterized protein LOC113517389 n=1 Tax=Galleria mellonella TaxID=7137 RepID=UPI000EF8B8 | E_val=1e-22
+-EVEVRP--RWLVPDTNCFIDHL-PLLQAVAE-A----------PSQP-YILAVPLVVMT
+ELEGLK--K-C-S------------------------------------RVGERASAALA
+WVCAGGGAGGGAGG-A---------G-----AAVRLATSR---------GSLLA---SR-
+----AFTAERDHS-------------------------RA-TNDDRVLATAINLHANLA-
+T-----E---S-----------------D-T-------RVDDG-------SES---KFV-
+------------KR-V--REVVLLTDDRNLRVKALAAELPARDLPSFIHWAG--
+>UniRef90_J9LM83_1294_1467 | PINc domain-containing protein n=9 Tax=Aphidinae TaxID=133076 RepID=J9LM83_ACYPI | E_val=1.2e-22
+-EIEIKP--HYVVPDTNCFIDYL-PQLEKLIY-SLSHA------QEHT-CTLMIPTVVLI
+ELEGLA--K-G-G-WVR-------------------------------DTVCDAAKQALK
+LLKN---------I-D---------S-----AVVKFVTTK---------GSSFK---ST-
+----TCFEEENNF-------------------------VG-NNDDKILATCLSLCKNNS-
+Q-----P---PID---------------N-S-------PVE-----------G---EPK-
+------------KI-F--RDVVLLTEDRNLRVKALSSDMPVRAVMDFINWL---
+>UniRef90_A0A553PAH9_1611_1796 | PINc domain-containing protein n=1 Tax=Tigriopus californicus TaxID=6832 RepID=A0A553PAH9_TIGCA | E_val=1.3e-22
+--LEICP--RYIVTDTNCFVDHL-NDIKNLAN-T------------NQ-FRIRVPLVVLT
+ELEGLA--K-G-A-HPH--------------------KYASH---GHAVMVSENARRALQ
+FLHD---------H-R---------Q-----PSIKCVTSK---------GTTLS---TM-
+----GVANEEDN----------------------TE--GK-NNDDLILNTCLSLSELAP-
+I-----S---AIA---SRGGEGG---SSS-S-------GGA-----------D---KMR-
+------------VV-K--REVVLLTEDRNLKLKSHLHDIPVNKVGDFVRWAC--
+>UniRef90_A0A5J4NZI5_1139_1287 | MPN domain-containing protein n=1 Tax=Paragonimus westermani TaxID=34504 RepID=A0A5J4NZI5_9TREM | E_val=1.4e-22
+VELEVRP--IYLLPDTNCYIDWL-EGIATLAQRS------------SN-YTVLVPIVVVN
+ELDTLA--R-Y-G-SSS---HANS----GKTNHEYE-EEGEV---TRAGLIQERARAAIA
+YLEHEFA------H-R---------N-----TRLRALTAR---------GSFME---TI-
+----AYRNEINGGR--------------------GP--GQ-VNDDVILTCCNHFCKEDP-
+D-----R---F-------------------------------------------------
+------------------------------------------------------
+>UniRef90_UPI000BE17AE6_1734_1865 | telomerase-binding protein EST1A-like isoform X1 n=7 Tax=Varroa TaxID=62624 RepID=UPI000BE17A | E_val=5.4e-22
+--LEIRP--RFLIPDTNCLVDHL-DKVRALVA-C------------KT-YSIYIPIIVVS
+ELDGLA--R-G-C-MSN-----------------AR-THQTP---AHAARVTTFAREALG
+YLENRFT------R-R---------E-----PKLRTITSR---------GNLID---SI-
+----SFRTEVGN----------------------DL--AGVTNDDLILSCAVSLGKSSA-
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_UPI00103A2630_1419_1589 | telomerase-binding protein EST1A isoform X1 n=4 Tax=Ostrinia furnacalis TaxID=93504 RepID=UPI | E_val=1.7e-21
+-EVEIRP--RWLVPDTNCFIDHL-PLLQAVAA-A----------PAQP-YTLAVPLVVMT
+ELEGLK--K-C-S------------------------------------RVGAHALAALT
+WVREDAS------------------A-----AAVRLATTR---------GSLLA---SR-
+----AFTAERDQP-------------------------RA-TNDDRVLATALSLHENLA-
+A-----E---A-----------------D-A-------RNEDN-------GET---KCV-
+------------RR-V--REVVLLTDDRNLRVKALAADMPARDLPSFVQWAGV-
+>UniRef90_A0A2H1VPM4_180_351 | SFRICE_023210 n=1 Tax=Spodoptera frugiperda TaxID=7108 RepID=A0A2H1VPM4_SPOFR | E_val=2.7e-21
+-EIEVRP--RWLVPDTNCFIDHL-ELLQAIVA-A----------PAQP-YTLAVPVVVMS
+ELEGLR--L-S-G------------------------------------RVGGAARAALS
+WVGG-----------A---------G-----AALRLATSR---------GSLLA---SR-
+----ACTAEAAPG-------------------------PA-TNDDRVLATALCLHNNVA-
+AA--AAD---N-----------------D-S-------RGDDG-------REA--PKVA-
+------------RR-V--REVVLLTDDRNLRVKALAAELPTRDLPSFVHWAG--
+>UniRef90_A0A0N4U1Q9_1171_1359 | PINc domain-containing protein n=1 Tax=Dracunculus medinensis TaxID=318479 RepID=A0A0N4U1Q9_DRAM | E_val=3.1e-21
+--IEVHP--RYLVPDTNTFIDHL-ESIIRIVE-C------------GM-YEVCVTTTVIS
+ELSGLS--L-P-L-ASK---------------PTMF-TMIDE---NHENWVGRRAKEAMK
+YLHNASE------N-H---------T-----SHICTVTTK---------GSRLP---SL-
+----CFAEEQNFVSR-------------------EE--KT-VNDDLILASCVQLSSKLP-
+V-----V---SF--------------GNN-N-------GTS-----------S---ETQ-
+------------RI-Q--RSVVLLTEDRALKIKAICANIPCRTIPSFLKWASL-
+>UniRef90_UPI00101BC3FE_63_239 | telomerase-binding protein EST1A-like n=1 Tax=Bombyx mandarina TaxID=7092 RepID=UPI00101BC3FE | E_val=9e-21
+MEVEVRP--RWLVPDTNCFIDHL-PLLQAVVA-A----------PSQP-YTLAVPLVVMS
+ELEGLK--K-C-G------------------------------------RVGGMAGAALA
+WVCAGGG------------------A-----AGVRLATSR---------GSLLS---SR-
+----AFTAERDAD-------------------------RA-TNDDRVLSTALNLHANLV-
+AAQPHPD---T-----------------E-T-------KSEEGN------GDS---KTN-
+------------RS-V--REVVLLTDDRNLRVKALAAELPTRDLPSFVQWAG--
+>UniRef90_A0A1B0BXE4_1240_1414 | LisH domain-containing protein n=2 Tax=Glossina TaxID=44049 RepID=A0A1B0BXE4_9MUSC | E_val=1.1e-20
+--IEVRP--KCLLPDTNCFIDCL-KDFERILQ-E-----------FKC-YSLVIPLTVIK
+ELDGLS--K-G-V-KLN---H-----------TGNW-QKQRI---HHYDDVSTRAKKSLE
+FIKS-----------S---------K-----NYIKCATTK---------GSIIN---PS-
+----LFALVEEE--------------------------NI-SNDDKILATAVAMSKTMS-
+S-----E-------------------------------TSS-----------D---GRC-
+------------FI-Q--TELVLITTDRNLRVKALSRNLAVSELPEFLQWAQ--
+>UniRef90_UPI0011821471_706_880 | telomerase-binding protein EST1A n=1 Tax=Manduca sexta TaxID=7130 RepID=UPI0011821471 | E_val=1.3e-20
+--IEVRP--RWLVPDTNCFIDHL-VLIRAIAT-A----------PSQP-YTLAVPLVVLT
+ELEGLC--K-C-S------------------------------------RVGGAAREALT
+WLTGGAGGAGGAGG-A---------G-----GAVRLATTR---------GSLLA---SR-
+----AFTAERDHE-------------------------RA-TNDDRVLATALNLHANVS-
+A-----D---A-----------------G-A-------RVEEG-------GGD---SSA-
+---------------R--REVVLLTDDRNLRVKALAADLPTRDLPSFVQWAG--
+>UniRef90_A0A3S2NSX6_1462_1630 | PINc domain-containing protein n=1 Tax=Chilo suppressalis TaxID=168631 RepID=A0A3S2NSX6_CHISP | E_val=1.8e-20
+-EVEVRP--RWLVPDTNCFIDHL-ALLQAVAN-T----------PAQP-YTLAVPLVVMT
+ELEGLK--K-C-S------------------------------------RLGVNAATALA
+WVSSG----------A---------S-----GSVRLATAR---------GSLLA---SR-
+----AFTAERDMP-------------------------RA-SNDDRVLATALSLHENLA-
+T-----E---N-----------------D-A-------RADES-------DQS---NCV-
+------------RR-V--REVVLLTDDRNLRVKALAAEMPARDLPSFVHWAG--
+>UniRef90_A0A1I8FMQ3_636_800 | Uncharacterized protein n=1 Tax=Macrostomum lignano TaxID=282301 RepID=A0A1I8FMQ3_9PLAT | E_val=2.1e-20
+MELEIVR--INLLPDTNCYIHYL-GEIRSLLG-H------------GK-HNLILPIVVLN
+ELDHLA--K-H-G--------------------------DSS---EHAGYVASQARAAVA
+MLEEAFE------S-KAGG----AAR-----RRVKAVTAK---------AARLD---TN-
+----RF-----------------------------------PNDDLILSCCMNTAQDKA-
+S-----A---F-----------------M-P-------KDK-----------T---TVR-
+------------PA-Q--GHCAADASDRNLRLKAIGSNIPAKDSAGL-------
+>UniRef90_UPI0007E374A4_38_213 | telomerase-binding protein EST1A-like n=1 Tax=Drosophila suzukii TaxID=28584 RepID=UPI0007E37 | E_val=2.9e-20
+--IEVRP--RYLLPDTNCFIDCL-EDFEKLST-E-----------FKR-YTLIIPLTVVK
+ELDGLS--K-G-V-KLD---SY----------RSSK-QTQRI---HHFDEVSSRAKKSLE
+FIKS-----------A---------K-----SNVKCATTK---------GSFVN---AS-
+----VFALVEEE--------------------------YL-SNDDKILATAMAVSKTAK-
+S-----E-------------------------------QCT-----------D---GKC-
+------------FI-Q--TELVLITTDRNLRVKALSRNLAVSALDEFLQWAK--
+>UniRef90_A0A1X7VGV0_741_901 | PINc domain-containing protein n=1 Tax=Amphimedon queenslandica TaxID=400682 RepID=A0A1X7VGV0_AM | E_val=4.7e-20
+-EVTVKP--KYLIPDTNCFVDSF-QQLMAILE-S------------GH-FVIAIPLTVIG
+ELEGLS--K-D-S----------------------------------DPKRSKPSLDAVT
+YVKEQLS------V-G---------S-----TRLKALTSQ---------GSILS---SL-
+----LTTSESIQD-------------------------QS-CNDDIILSSCVALHNRLD-
+A-----P---T---------------------------SS----------------PSL-
+------------SP-L--HSVVLLTDDRNLRVKSHVSRIPVRSIDQFVA-----
+>UniRef90_T1JWL6_1354_1470 | PINc domain-containing protein n=11 Tax=Tetranychus urticae TaxID=32264 RepID=T1JWL6_TETUR | E_val=4.9e-20
+------------------------------------------------------------
+--------------------------------------------------VGQAAKEAFD
+YLETSFN------E-K---------S-----NKLKTITFK---------GSLLN---NM-
+----NFRNENFK----------------------VK--RT-NNDDLVLSSCLQFIKKRN-
+S-----SK-QT-----------------N-P-------EDT-----------D---GIV-
+------------NI-F--RETVLLTDDRNLRVKALSHNVPVKSLPVFLQFAN--
+>UniRef90_UPI00067C917C_1416_1586 | telomerase-binding protein EST1A isoform X1 n=2 Tax=Amyelois transitella TaxID=680683 RepID=U | E_val=7.6e-20
+-EVEVRP--RWLVPDTNCFIDHL-PRLAAVAG-Q----------PSPP-YMLAVPLVVMT
+ELEGLK--K-C-D------------------------------------RVGQSAQAALS
+WMSGAV---------K---------S-----GGVKLVTSR---------GSLLT---SS-
+----TFTAEREQQ-------------------------AA-TNDDRVLATATNLQANFT-
+S-----Q---T-----------------E-S-------PREEAG------DPA---RCV-
+------------KR-V--CEVVLLTDDRNLRVKALAAELPARDLPSFMQWAG--
+>UniRef90_A0A1I8PRJ8_878_1053 | PINc domain-containing protein n=2 Tax=Stomoxys calcitrans TaxID=35570 RepID=A0A1I8PRJ8_STOCA | E_val=9.1e-20
+--IEVRP--KYLLPDTNCFIDCL-EDFERIVN-E-----------FKR-YTLIVPLTVVK
+ELDGLS--K-G-V-KVE---SF----------QEIV-QKHRI---HHYDDVSTRAKKSLD
+FIKT-----------A---------K-----NHVKCATTK---------GSIIN---AS-
+----LFALVKEE--------------------------HV-SNDDKILATAVAMSKTMS-
+C-----E-------------------------------TSK-----------D---GKC-
+------------LI-Q--TELVLITTDRNLRVKALSRNLTVSELPEFIQWAK--
+>UniRef90_UPI000B928360_1391_1556 | uncharacterized protein LOC110992689 isoform X2 n=4 Tax=Pieris rapae TaxID=64459 RepID=UPI000 | E_val=1.9e-19
+-EVEVRP--RWLVPDTNCFIDHL-SQLQAVVA------------PTQP-YQIAVPLVVMT
+ELEGLC--K-C-S------------------------------------RLGEAARNALS
+WVGGAC-------------------T-----RGVRLVTAR---------GSLLN---SR-
+----TFTAENHRA-------------------------GH-SNDDRVLDTAINLQANLA-
+S-----E---Q-----------------D-T-------KEN---------SDT---KSP-
+------------RR-V--FEVVLLTDDRNLRVKALAAELPARDLPSFMHWAG--
+>UniRef90_A0A0V0RXR7_907_1075 | Telomerase-binding protein EST1A n=8 Tax=Trichinella TaxID=6333 RepID=A0A0V0RXR7_9BILA | E_val=2.1e-19
+-ELHIYP--QRLVIDTNTFVDHL-KLIIKLVK-M------------KK-YTILIPLVVFN
+ELYGLG--K-Y----------------------------------HESDWVQTQCTLAMK
+LIKEWLQ------D-D---------S-----LHVKGVTTS---------GTLIK---TF-
+----DFFNETTE--------------------------KI-QNDDKILHCCEILINNKS-
+V-----S---S-----------------I-T-------ASC-----------A---HPE-
+------------IV-H--RDIVLLTDDRNLRLKAYSMCIPARTLQSFIALMKL-
+>UniRef90_UPI000CE5AD3F_1424_1599 | telomerase-binding protein EST1A isoform X1 n=2 Tax=Bicyclus anynana TaxID=110368 RepID=UPI00 | E_val=2.3e-19
+-EVEVRP--RWLVPDTNCFIDHL-PLLRAVLA-A----------PDQP-YQLAVPLVVVS
+ELEGLR--R-C-A------------------------------------RLGGAARDALA
+WVSTGGG------G-G---------G-----GGVRLCTAR---------GSLLA---ARG
+---VAYSAEEDEA-------------------------RA-TNDDRVLATALSLHNNLA-
+A-----D---T-----------------E-S-------RGTEA-------TEV---AQA-
+----------AGAC-V--REVVLLTDDRNLRVKALAAELPARDLPSFMTWAG--
+>UniRef90_UPI000C79000B_1410_1576 | telomerase-binding protein EST1A-like n=1 Tax=Eurytemora affinis TaxID=88015 RepID=UPI000C790 | E_val=2.3e-19
+--LEVRP--KILVPDTNAFIDHL-DLIKLITV-S------------GE-FQLVIPIVVLG
+ELEGLC--K-S-K-DYS----------------------DRP---EHGAMLRENSKLALT
+WIRS-----------K---------P-----KNVKCATTK---------GSILS---SL-
+----GVTVEEDT----------------------RD--GE-TNDDRILICCLNLDSSPQ-
+------------------------------P-------RTE-----------D---GMK-
+------------TV-F--RNTILLTDDRNLKLKAHIQDCAVSKVGDFVSWI---
+>UniRef90_B4JSJ5_778_953 | GH17988 n=2 Tax=Drosophila grimshawi TaxID=7222 RepID=B4JSJ5_DROGR | E_val=4.1e-19
+--IEVRP--RLLLPDTNCFIDCL-EDIEKLSM-E-----------FKR-YTLIIPLTVVK
+ELDGLS--K-G-V-KLD---SY----------RSSK-QTQRI---HHFDEVSTRAKKSLE
+FIRS-----------A---------K-----NNVKCVTTK---------GSVIS---AS-
+----LFALVEEE--------------------------YA-SNDDKILATAVAASKNAS-
+T-----E-------------------------------QCR-----------D---GKC-
+------------FI-R--TELVLITTDRNLRVKALARNLAVSALDEFLQWAK--
+>UniRef90_A0A1I8FH23_387_544 | PINc domain-containing protein n=1 Tax=Macrostomum lignano TaxID=282301 RepID=A0A1I8FH23_9PLAT | E_val=4.1e-19
+MELEIVP--INLLPDTNCYIHYL-GEIRSLLA-M------------GK-HNLILPIV---
+----------H-G--------------------------DSS---EHAGYVASQARAAVA
+MLEEAFE------S-KAGG----AAR-----RPGQSGHGQ---------GSTLD---TI-
+----AFRGREVI----------------------GR--PA-KNDDLILT--------RL-
+G-----A---F-----------------M-P-------KDK-----------D---QPV-
+------------RL-H--RDIVLLTSDRNLRLKAIGRTFRAKTVPAFS------
+>UniRef90_UPI0011CEE5FE_762_937 | telomerase-binding protein EST1A n=1 Tax=Drosophila lebanonensis TaxID=7225 RepID=UPI0011CEE5 | E_val=6.4e-19
+--IEVRP--RYLLPDTNCFIDCL-EDIEKLSL-E-----------YKR-YTVIIPLTVVK
+ELDGLS--K-G-V-KLE---SY----------HNSK-QMQRI---HHFDEVSTRAKKSLE
+FIKS-----------A---------K-----NNVKCATTK---------GSIIN---AS-
+----LFALVEEE--------------------------YA-SNDDKILATAVAVSKTAS-
+S-----E-------------------------------QCQ-----------D---GKC-
+------------FI-Q--TELVLITTDRNLRVKALSRNLAVSTLDEFIQWAK--
+>UniRef90_A0A194QRD9_1416_1573 | Telomerase-binding protein EST1A n=2 Tax=Papilio TaxID=7145 RepID=A0A194QRD9_PAPMA | E_val=1.6e-18
+-EVRVRP--RWLVPDTNCFIDHL-PLLQLVAA------------PPSP-YTLAVPLVVVG
+ELEGLR--K-C-V------------------------------------RVGDAAQTARS
+WLAE---------------------G-----RGVRLATAR---------GSLLA---SR-
+----AFTAERDLP-------------------------RA-SNDDRVLATALNLHANIE-
+A-----S---A-----------------D-N-------STQ-------------------
+------------EV-V--REVVLLTDDRNLRVKALAADLPARDLPSFVAWAG--
+>UniRef90_A0A1I7XSK2_895_1065 | PINc domain-containing protein n=1 Tax=Heterorhabditis bacteriophora TaxID=37862 RepID=A0A1I7XSK | E_val=3.8e-18
+---VVRP--INLVPDTNAFVDHL-DYICKIVA-S------------GR-FQIIVPTIVIE
+ELIGLS--Q-N-R----------------------P-KEVED---PHIEFVMAQARRGVT
+WLKERAR------E-K---------C-----AKMKTLTTQ---------GQTL----AI-
+----SIVSEDTGDY--------------------DA--RK-VNDDHILQSCISFVERTP-
+V-----V---V-----------------P-S-------DINPACFE------S---DMP-
+------------PI-Y--RNLVLLTEDRGLNIKATSQNIPLR------------
+>UniRef90_UPI000EF8075B_1471_1640 | telomerase-binding protein EST1A isoform X1 n=3 Tax=Trichoplusia ni TaxID=7111 RepID=UPI000EF | E_val=4.2e-18
+-EVEVRP--RLLVPDTNCFIDHL-SLLQAIVD-A----------PSQP-YTLAVPVVVMS
+ELEGLR--R-C-A------------------------------------RVGAAAAAALG
+WVGG-----------A---------G-----GALRLATSR---------GSLLA---SR-
+----ACTAEQAAA-------------------------RA-TNDDRVLATALSLLAASA-
+T---ASD---A-----------------D-T-------RGDDG-------REA---LKA-
+------------RR-V--REVVLLTDDRNLRVKALAAELPTRDLPSFVQWAG--
+>UniRef90_A0A0D8XZD9_409_591 | PINc domain-containing protein n=1 Tax=Dictyocaulus viviparus TaxID=29172 RepID=A0A0D8XZD9_DICVI | E_val=5.3e-18
+--LVVKP--VYIVIDTNAFIDQL-EAVQKIVQ-C------------ER-FRVLIPITVMD
+ELSELQ--F-G-G------------------------RDQDS---SQIEAVTEGARQAMS
+WIREQAQ------Q-K---------T-----SRLFTLTMR---------GKRVP---IA-
+----VVREQAGD----------------------NA--DL-VNDDRILHSCLNFTEVEP-
+V-----S---N-----------------S-L-------FNNFKVP-----HGR---EIP-
+------------II-Y--RNVVLLTEDRVLNMKAMTHHIPCRTMMRFLKWAKIG
+>UniRef90_A0A212EJM7_269_436 | Putative Telomerase-binding protein EST1A (Fragment) n=1 Tax=Danaus plexippus plexippus TaxID=27 | E_val=7e-18
+-EVEVRP--RWLVPDTNCFIDHL-PLLQAVAS-A----------PSQP-YNLAVPLVVVT
+ELEGLK--K-C-S------------------------------------RLGGKARDALA
+WVCGGGA--GG--A-G---------G-----GTVRLATAR---------GSLLT---SR-
+----TFTAEQDEG-------------------------RA-TNDDRVLATALNLQANLT-
+A-----D---G-----------------A-E-------VRADG-----------------
+------------GC-V--RVVVLVTDDRNLRVKALSADLPAKDLLSFAQWAG--
+>UniRef90_UPI0008113961_856_1031 | telomerase-binding protein EST1A isoform X1 n=2 Tax=Rhagoletis zephyria TaxID=28612 RepID=UPI | E_val=8.5e-18
+--IEVRP--RYLMPDTNCFIDCL-DDFKKLFR-D-----------YKR-YILVIPLTVVK
+ELDGLS--K-G-V-KVE---SN----------QNSL-QMHRI---HHYDDVSTCAKRSLD
+FIRS-----------A---------K-----NNIKCATTK---------GSFIN---AS-
+----LFALAEEE--------------------------NV-SNDDKILATAVALSKSMS-
+T-----E-------------------------------TNK-----------D---GKC-
+------------FI-Q--TELVLVTTDRNLRVKALARNLTVSEMGEFLQWAK--
+>UniRef90_W8AWH3_856_1030 | Telomerase-binding protein EST1A n=1 Tax=Ceratitis capitata TaxID=7213 RepID=W8AWH3_CERCA | E_val=1.5e-17
+--IEVRP--KYLMPDTNCFIDCL-DDFVNLIN-E-----------HKR-YILVIPLTVVK
+ELDGLY--K-G-V-KVE---SY----------QDST-QKNRI---HHYDDVSTCAKRSLD
+FIMS-----------A---------K-----NNVKCATTK---------GSFIN---AS-
+----LFALAEEE--------------------------FM-SNDDKILSTALSLSKTMS-
+T-----E-------------------------------TNS-----------D---GKY-
+------------FI-Q--TELVLITTDRNLRVKALARNLAVSEMAEFLQWV---
+>UniRef90_A0A183IAZ9_720_842 | Ribosome biogenesis protein WDR12 homolog n=1 Tax=Soboliphyme baturini TaxID=241478 RepID=A0A183 | E_val=2.1e-17
+IELEICP--SYVVLDTNAFIYHL-ALIKKLIE-A------------KK-FVVVIPLVVLS
+ELDGLC--R-S----------------------------------QEDETVASNSRASLN
+YLYDASD------K-G---------T-----KFLKAITSQ---------GNLLD---NF-
+----RNSHEMILS-------------------------KD-CNDDKILKCCLTFCDDEK-
+K-----T-----------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A158PLR5_761_941 | PINc domain-containing protein n=1 Tax=Angiostrongylus costaricensis TaxID=334426 RepID=A0A158PL | E_val=2.8e-17
+--LVVKP--YYVVIDTNAFIDQL-CAIQKILQ-C------------ER-FRVLIPTTVVE
+ELIELQ--H-G---------------------------EQGS---SGVEAVTEGARQAMI
+WLREQTR------QKK---------T-----SRLFTLTMR---------GKRLP---IA-
+----VVRERAGD----------------------DG--DL-VNDDRILHSCLNFTQLEP-
+A-----P---D-----------------G-T-------FSNFKVP-----QGR---EIP-
+------------II-Y--RNLVLLTDDRVLNMKAMSQHIPCRTVTRFMKWAKI-
+>UniRef90_A0A183BVU7_600_773 | Uncharacterized protein n=1 Tax=Globodera pallida TaxID=36090 RepID=A0A183BVU7_GLOPA | E_val=4e-17
+--IEIRP--KYLVPDTNTFIDHL-GHIQRLVQ-S------------DK-FTVLVPTIVTD
+ELSSLA--M-G-T-PIP---TG------STLLSREL-LAPEG---SKAAVVMQRAKSAME
+WLREMAN------S-R---------V-----GRISSATAS---------GNVLH---KL-
+----TFATDGSTEQ--------------------LK--KR-SNDDLILSVCICLCDKLG-
+R-----A---G-----------------S-T-------ASSSC-------ISP---EST-
+------------TL-E--RTVVLLTEFLGPRI----------------------
+>UniRef90_A0A034VER5_536_710 | Telomerase-binding protein EST1A n=1 Tax=Bactrocera dorsalis TaxID=27457 RepID=A0A034VER5_BACDO | E_val=4e-17
+--IEVRP--KYLMPDTNCFIDCL-DDFQKLIN-K-----------YKR-YILVIPLTVVK
+ELDGLS--K-G-V-KVE---SY----------QNSL-QFQRI---HHYDDVSTCAKRSLD
+FIRS-----------A---------K-----NNVKCATSK---------GSFIN---AS-
+----LFALCEEE--------------------------NV-SNDDKILATAVALSKTMS-
+T-----E-------------------------------TNK-----------D---GKY-
+------------FI-Q--TEFVMITTDRNLRVKALARNLTVSEMGEFLKWV---
+>UniRef90_A0A0L0FL04_1389_1559 | PINc domain-containing protein (Fragment) n=1 Tax=Sphaeroforma arctica JP610 TaxID=667725 RepID= | E_val=4.8e-17
+--LCVTP--EYVCFDTNLWIDHL-QNIVAMVE-G------------RR-FKVLCPLVVVN
+ELRGLA--K-S-E------------------------------------RVQAKAERAVS
+YLETAFQ------S-HTHS----QAT-----QTLLAVTAQ---------GTLVH---NI-
+----RFSNEDNPD-------------------------GL-TNDDLILGACVNMSERTR-
+G-----EI--N---------------AVN-P-------ATA---------CAP---QVD-
+------------RL-D--RHVVLVTDDINVRVKATAKTIPTRSFASFV------
+>UniRef90_W6NCE7_1187_1365 | Telomerase activating protein Est1 domain containing protein n=1 Tax=Haemonchus contortus TaxID=6289 | E_val=7.4e-17
+---TVKP--VYLVIDTNAFIDQL-SAIQKILQ-C------------ER-FRVLIPTTVME
+ELIDLQ--H-G---------------------------ELSN---PRVQGATEGARQAVT
+WLREQTR------Q-K---------N-----PRLFTLTMR---------GRRLP---IA-
+----VVREEAGD----------------------DG--EL-VNDDRILRSCVNYTQLEP-
+A-----P---E-----------------S-L-------FSDVKVP-----QGR---EMP-
+------------NI-Y--RNLVLLTEDRVLNMKAMCQHIPCRTMVRFMKWAKI-
+>UniRef90_A0A0B1TLZ8_267_446 | PINc domain-containing protein n=1 Tax=Oesophagostomum dentatum TaxID=61180 RepID=A0A0B1TLZ8_OES | E_val=9.1e-17
+--LVVKP--LYIVIDTNAFIDQL-LAIQKIQQ-C------------ER-FRLLIPTTVME
+ELMELQ--H-G---------------------------EINS---THAEAATAGARQAVT
+WLREQTR------Q-K---------T-----PNMFTLTMR---------GRRVP---IA-
+----VVREESND----------------------DR--EM-VNDDRILRSCVNFTQLEP-
+A-----Q---E-----------------S-T-------FTDFKKP-----QSR---DTP-
+------------II-Y--RNVILLTEDRVLNMKAMTEHIPCRTMMRFMKWAKI-
+>UniRef90_T1JWL8_643_754 | PINc domain-containing protein n=1 Tax=Tetranychus urticae TaxID=32264 RepID=T1JWL8_TETUR | E_val=1.1e-16
+------------------------------------------------------------
+--------------------------------------------------VGQAAKEAFD
+YLETSFN------E-K---------S-----NKLKIITSN---------GSFKN---DM-
+----NFKNKNSK----------------------VE--KT-NDDDLVLSSCLRFIKKRN-
+S-----K--QK-----------------N-P-------EDT-------------------
+------------DV-F--RETVLLTDDRNLRVKALSHNVPVKSLPVFLQFAN--
+>UniRef90_A0A2R7WM64_304_434 | Uncharacterized protein (Fragment) n=1 Tax=Oncopeltus fasciatus TaxID=7536 RepID=A0A2R7WM64_ONCF | E_val=1.8e-16
+-EMEIRP--HDLVPDTNCFIECL-AEIETILK-VLPHP-------QHP-YVLMVPLVVVN
+ELEGLS--K-G-C-KPS----------------------QSA---HHSALVRETAKAAMA
+LIQN-----------R---------H-----PALRTCTTR---------GTILS---SI-
+----TFTLEEDS----------------------GM--EM-TNDDKILITCMNLCRTFN-
+K-----D-----------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A182PL14_112_224 | PINc domain-containing protein n=1 Tax=Anopheles epiroticus TaxID=199890 RepID=A0A182PL14_9DIPT | E_val=3.2e-16
+------------------------------------------------------------
+----------------------------------------------HAVKVAEASKKALQ
+FIKS-----------R---------N-----PALKCVTTK---------GSILK---TS-
+----TFTVEDDV----------------------GD--LK-SNDDRILETALNLCRHQT-
+E-----E---T-----------------------------R-----------D---GTR-
+------------YI-T--QDVVLLTTDRNLRVKAISNDLPVREIPDFIKWSGLG
+>UniRef90_A0A3Q0JDX9_1011_1192 | telomerase-binding protein EST1A n=1 Tax=Diaphorina citri TaxID=121845 RepID=A0A3Q0JDX9_DIACI | E_val=3.5e-16
+-QLEIKP--HYLVPDTNCFIDYL-TELKMLAN-KKMAQTSTAVLKRNL-FTILIPCIVFN
+ELTNIS--K-S-N--------------------------------KKSVQVVQNAQRALQ
+YIQN-----------E---------T-----TSVKYVTTK---------GTFLS---KK-
+----TFSMEEDDL-------------------------LL-KNDDKILETCLSLARKKA-
+N-----K---K-------------------PE---KEDKGE-----------D---GLE-
+------------II-F--RDVVLLTEDRNLRLKALARDIPVTNINNFIKWCNV-
+>UniRef90_A0A1J1I966_1352_1460 | CLUMA_CG010028, isoform A n=2 Tax=Clunio marinus TaxID=568069 RepID=A0A1J1I966_9DIPT | E_val=9.1e-16
+------------------------------------------------------------
+--------------------------------------------------VAKASKDALT
+FLKS-----------K---------N-----PAVKCVTTK---------GSMIN---SA-
+----IFTSEDGP----------------------NE--HK-SNDDKILDTALNLCKKNV-
+E-----E---K-----------------------------K-----------G---EVR-
+------------HL-V--REVVLLTTDRNLRVKALTNDIPVRELPDFIKWAGLG
+>UniRef90_A0A182SNG0_127_237 | PINc domain-containing protein n=1 Tax=Anopheles maculatus TaxID=74869 RepID=A0A182SNG0_9DIPT | E_val=1e-15
+------------------------------------------------------------
+----------------------------------------------HAAKVAELSKKAIH
+FIKS-----------R---------N-----PALKCVTTK---------GSILK---TS-
+----NFTVEDDD----------------------GD--LK-SNDDRILETALNLCRHNV-
+K-----E---K-----------------------------Q-----------A---GTR-
+------------YL-T--LDVVLLTTDRNLRVKAISNDLPVRELPDFIKWAG--
+>UniRef90_A0A1B0CF14_1457_1566 | PINc domain-containing protein n=1 Tax=Lutzomyia longipalpis TaxID=7200 RepID=A0A1B0CF14_LUTLO | E_val=1.6e-15
+------------------------------------------------------------
+-------------------------------------------------MVAEASKNALM
+FLNS-----------K---------N-----PAVKCVTTK---------GSVLN---SS-
+----VFTVEDDN----------------------SE--PL-SNDDKILATAVHLCKNNA-
+E-----E---D-----------------------------R-----------D---GTR-
+------------YI-V--REVVLLTTDRNLRVKSLSRDVPVRELPDFIKWAGLG
+>UniRef90_V5GC06_19_148 | Telomerase-binding protein EST1A (Fragment) n=3 Tax=Anoplophora glabripennis TaxID=217634 RepID=V5GC | E_val=2.9e-15
+-HMEVRP--KYLVPDTNCFIDHL-DGIRTIAQ-S------------HC-YTLMVPIVVLS
+ELEGLS--R-G-G-KAP---T-----------PDSR-SFLDP---QHVKKVAESAKNALD
+FLRN-----------R---------H-----ASVKCVTTK---------GAIIA---ST-
+----TFSTEDDATW--------------------DS--SL-RNDDKILTTCLVLCK----
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A182VSN5_126_235 | PINc domain-containing protein n=1 Tax=Anopheles minimus TaxID=112268 RepID=A0A182VSN5_9DIPT | E_val=5.3e-15
+------------------------------------------------------------
+-----------------------------------------------AAKVAESSKKALH
+FIKS-----------R---------N-----PAVKCVTTK---------GSILK---TP-
+----TFTAEDDD----------------------GD--LK-SNDDRILETALNLCRIND-
+K-----D---K-----------------------------H-----------I---GNR-
+------------SL-T--IDVVLLTTDRNLRVKAISNDLPVRELPDFVKWAG--
+>UniRef90_A0A5S6QPJ7_1052_1206 | Uncharacterized protein n=1 Tax=Trichuris muris TaxID=70415 RepID=A0A5S6QPJ7_TRIMR | E_val=1.6e-14
+----------YAVIDTNSLIDHL-DAVYHILK-A------------RR-PTVVVPTIVYN
+ELVGLD--K-S-G---------------------------------EKPHAQSRARSAIK
+MLQEFSH------D-P---------S-----YSVKSVTCS---------GKLLS---SF-
+----RFSKNEETI---------------------KL--EN-MNDDLIAQICVNMSIKEG-
+I-----S---E---------------------------------------------ESS-
+------------RH-F--RKVALLTDDRNLKIKAFGLRLYVLSVPLFLE-----
+>UniRef90_A0A182QUX2_486_606 | PINc domain-containing protein n=1 Tax=Anopheles farauti TaxID=69004 RepID=A0A182QUX2_9DIPT | E_val=2.5e-14
+------P------------ID---------------------------------------
+--------------------------------------SAGF---QHAAKVADASKKALQ
+FIKS-----------R---------N-----PAVKCVTTK---------GSVLK---TF-
+----SFTVEDDV----------------------GE--LK-SNDDRILETALNLCRNPV-
+Q-----E---T-----------------------------R-----------A---GTR-
+------------YV-T--LNVVLLTTDRNLRVKAISNDLPVRELADFIKWAGLG
+>UniRef90_I1BME8_873_1022 | PINc domain-containing protein n=1 Tax=Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 954 | E_val=3.2e-14
+----------VLVLDTNCFIGHL-EHVKKLIE-S------------EK-WSIIVPLVVVT
+ELDGLA--T-N-T-Q----------------------------------RLGTVAEKAVQ
+LIESTLG------S-KPKQ------S-----NLLRVQTSH---------NSFMH---NI-
+----TIRSEQFMFG--------------------ET--DK-NLDDLVLSCCLWWISQNK-
+Q-----------------------------------------------------------
+------------DD-V--VPVCLVTGDRNLSVKARARDVEVVPVSAI-------
+>UniRef90_A0A1Y3AZ55_28_234 | PINc domain-containing protein n=1 Tax=Euroglyphus maynei TaxID=6958 RepID=A0A1Y3AZ55_EURMA | E_val=4.7e-14
+----IIP--RYVIFDTNCFINDL-SSIMKYVH-S---K------QPSS-FIVTVPLIVVQ
+ELQSMMA-R-G-E-RLN---N---IT--SED-IK-I-DEQQE---LKHKQLAKKSSEILD
+FLHKAFD------S-N---------M-----SNIRAITSK---------GSLLD---RI-
+----DYKEESYNN---------------------LD--PT-NNDDLILYGCINLVEKDR-
+H-----T---NNEQ---------IDDKWMHTL---LKDAGEQH-------LTN---QDE-
+------------FI-Y--RDVILITDDMNLRIKSLGYDVPVKKFKQFRKWAN--
+>UniRef90_Q9BL68_1061_1237 | PINc domain-containing protein n=2 Tax=Caenorhabditis elegans TaxID=6239 RepID=Q9BL68_CAEEL | E_val=5.7e-14
+---VIHP--EYLIPDTNVLIGDL-QLMKNLLE-T--AQ------KNKK-FQILVPTTVLD
+ELQYIA--K-L-S-PLD------------------S-KSNSE---AHDPERISKAKIAVA
+WLKEQAK------Q-K---------T-----GHLYTLTTT---------GKRLP---TL-
+----SIVSEDLEG---------------------HE--MT-TNDDMILNSALRWSESLP-
+G-----S---T-----------------A-P-------------------------SAT-
+------------EI-S--QKCVLITGDRGLTIKAIGNNFPCRGISNFTKW----
+>UniRef90_A0A0B7MXF4_1137_1290 | PINc domain-containing protein n=1 Tax=Parasitella parasitica TaxID=35722 RepID=A0A0B7MXF4_9FUNG | E_val=8e-14
+----------ILVLDTNCFIGHL-DLVKKLVN-G------------QK-WSIIIPLVVIT
+ELDGLR--T-N-T-H----------------------------------RLGLMAQQGIE
+LLETSLA------A-KPKQ------S-----NSLRIQTSH---------NNFMN---DI-
+----SIRSEQFVFG--------------------ES--DK-NLDDLILSCCLWWTSQQL-
+------P---Q-------------------E-------------------------NNN-
+------------KK-I--LPVCLVTGDRNLSVKARAREVEVVPVTA--------
+>UniRef90_A0A0C7BLX8_961_1111 | PINc domain-containing protein n=8 Tax=Rhizopus TaxID=4842 RepID=A0A0C7BLX8_RHIZD | E_val=1.1e-13
+----------VLVLDTNCFIGHL-EHIRKLIT-S------------EK-WSIIVPLVVIT
+ELDGLA--T-N-T-Q----------------------------------RLGTMAGEAIK
+LIESTLA------T-KSKK------S-----SLLRVQTSH---------NSFMN---NI-
+----SIRSEQFVFG--------------------ES--DK-NLDDLVLSCCLWWISQKK-
+Q-----H-----------------------------------------------------
+------------GD-V--VPVCLVTGDRNLSVKARARDVEVVPVSAI-------
+>UniRef90_G0PCF9_575_764 | PINc domain-containing protein n=2 Tax=Caenorhabditis brenneri TaxID=135651 RepID=G0PCF9_CAEBE | E_val=1.1e-13
+---VIHP--EYLIPDTNVFIGEL-ELVKELLE-M--AQ------KLKK-FQILVPTIVLD
+ELQCIS--K-L-S-ATD------------------S-KSNSE---AHDPDRISKAKIAVA
+WLKEQSK------A-K---------T-----TNLHTLTST---------GKRLQ---SL-
+----ILAVEDLEG---------------------AP--KI-TNDDMILNSALKWFESLP-
+E-----P---S-----------------S-N-------SILQQVA--SGITSS---ES--
+------------VF-L--RSCILVTGDRGLTIKAIGNNFPCRGIINFAKWM---
+>UniRef90_UPI00115687F4_625_750 | telomerase-binding protein EST1A-like n=1 Tax=Aedes albopictus TaxID=7160 RepID=UPI00115687F4 | E_val=1.4e-13
+------------------------------------------------------------
+-----A--K-A-S-------------------SVDR--RFDP---LHAEKVAAASKQALD
+FIRK-----------K---------N-----PALKCVTTK---------GSILN---TS-
+----TFTAEDGD----------------------DV--QM-SNDDRILKTALNLCREHA-
+E-----E---K-----------------------------R-----------G---EVR-
+------------YI-I--RDVVLLTTDRNLRVKALSNDLPVRELPDFIKWAGLG
+>UniRef90_A0A068RG83_1066_1216 | PINc domain-containing protein n=1 Tax=Lichtheimia corymbifera JMRC:FSU:9682 TaxID=1263082 RepID | E_val=2.2e-13
+-----------IVLDTNCFIGHI-DHVQRLIQ-S------------NK-WSIVIPLVVIT
+ELDGLR--S-N-T-P----------------------------------PLGEIAGEALK
+FIETTLA------T-KQRS------N-----THLRIQTSH---------NNFMH---DI-
+----SIRSEQFVFG--------------------ET--DK-NLDDLVLSACLWWARDSE-
+K-----D-----------------------------------------------------
+------------ED-H--ARVCLVTGDRNLSVKARARDIDVMSVSAIM------
+>UniRef90_A0A4Y9ZBA2_1229_1386 | PINc domain-containing protein n=2 Tax=Dentipellis TaxID=154746 RepID=A0A4Y9ZBA2_9AGAM | E_val=2.7e-13
+----------VLVPDTNILLSSL-SLLASLIE-S------------NR-WTIVVPLPVIM
+ELDGLA--T-N-H-T----------------------------------PLGEAAKAAVD
+YIQAHVR------S-H---------S-----TSLKLQTSR---------GNYLS---SL-
+----TFRSEQVDFDD-------P----------SAW--ER-NMDDLILKAAIWQDEHWV-
+D-----R---S---------------AFL-S-------ADGE---------KS---RDT-
+------------AG-A--SKVVLLSLDRNLRLKARSRQLD--------------
+>UniRef90_A0A1C7NLG2_1026_1179 | PINc domain-containing protein n=1 Tax=Choanephora cucurbitarum TaxID=101091 RepID=A0A1C7NLG2_9F | E_val=3.3e-13
+----------ILVLDTNCFIGHI-DHVKKLLQ-S------------QT-WSVIVPLVVVT
+ELDGLR--T-N-P-H----------------------------------RLGSVAQQGIE
+LLEDTLS------S-KPKQ------S-----TSLRIQTSH---------NNFMN---DI-
+----SIRSEQFVFG--------------------ET--DK-NLDDLILSSCLWWISQQP-
+Q-----T-------------------------------------------------KSN-
+------------DS-V--VPVCLVTGDRNLSVKARARDVEVVPVSAI-------
+>UniRef90_A0A1Y1Y7C1_892_1051 | PINc domain-containing protein n=1 Tax=Basidiobolus meristosporus CBS 931.73 TaxID=1314790 RepID | E_val=4.8e-13
+----------IVIFDTNNFVSEL-RLIQRLHR-T------------QK-FVISVPLVVFT
+ELEGLK--K-N-T-K---------------------------------STLGPKAQRALE
+WLESEFL------Q-QRAQ-----SK-----SYLRAQTSK---------GNFLR---DI-
+----TLRNEVWYEQG-------ESM------NISAR--NA-INDDIILQCCLYFIQNDQ-
+E-----P-----------------------------------------------------
+------------GH-H--NPVVLVTNDVNMRLKGYAKYVPVATVVEF-------
+>UniRef90_A0A0M3KBB3_431_552 | PINc domain-containing protein n=2 Tax=Anisakis simplex TaxID=6269 RepID=A0A0M3KBB3_ANISI | E_val=8e-13
+------------------------------------------------------------
+--------------------------------------------------VMERARSAVA
+FLKKASE------Q-K---------T-----GHIATVTSK---------GSRLP---SV-
+----FFGAEQCSSSS------------------IND--KT-VNDDMILSSCSALSSLLP-
+N-----P---L-----------------S-A-------STESATI-----------KPS-
+------------RL-Y--RSVVLLTDDRALSIKAICANIPCRTIASFLKWAI--
+>UniRef90_A0A2G5UN46_1061_1252 | PINc domain-containing protein n=3 Tax=Caenorhabditis nigoni TaxID=1611254 RepID=A0A2G5UN46_9PEL | E_val=9.1e-13
+----IHP--EYLIPDTNVFVGEL-QLVKEILE-M--AQ------TAKK-FQILVPTIVLD
+ELQSIS--K-L-S-PTD------------------S-KSQSE---QHDPDRISKAKTAVN
+WLKEQSK------L-K---------T-----PNLYTLTTT---------GKRLA---SL-
+----LMAAEDLSG---------------------TG--KM-TNDDMILNSALRWSESLP-
+L-----P---S-----------------Q-N-------SILQNVATTTSLTSS---ESA-
+------------VF-L--RNCVLITGDRGLTIKAIGNNLPCRGIANFVKWM---
+>UniRef90_A0A367KYT1_921_1071 | PINc domain-containing protein n=1 Tax=Rhizopus stolonifer TaxID=4846 RepID=A0A367KYT1_RHIST | E_val=9.5e-13
+----------VLVLDTNCFIGHL-DHIKKLME-S------------EK-WTIIVPLVVVT
+ELDGLA--T-N-T-H----------------------------------SFGTVAKKAIE
+LIESRLP------P-KAKT------S-----NSFRIQTSH---------NSFMR---NI-
+----SIRSEQFMFG--------------------ET--DR-NLDDLVLSCCLWWISQNK-
+Q-----------------------------------------------------------
+------------LD-V--VPVCLVTGDINLSVKARARDVEVVPVSAIM------
+>UniRef90_A0A0B1PS01_972_1125 | PINc domain-containing protein n=1 Tax=Trichuris suis TaxID=68888 RepID=A0A0B1PS01_9BILA | E_val=1.2e-12
+----------YAVVDTNSLIDHL-DAVFHLIK-A------------RK-LTVVVPTIVYN
+ELVGID--K-S-S---------------------------------EKPEAQARARSAIK
+LLQQFSR------D-P---------N-----YSVKSVTCS---------GTLLD---TF-
+----MFSKNEETI---------------------KL--EN-MNDDLIADICVQMSIKEG-
+V-----S-------------------------------------------------ESD-
+------------MH-F--RKVALLTEDRNLKIKAYGLRLYVLSVPLFLE-----
+>UniRef90_A0A336N3P0_581_692 | CSON005905 protein n=2 Tax=Culicoides sonorensis TaxID=179676 RepID=A0A336N3P0_CULSO | E_val=1.5e-12
+------------------------------------------------------------
+----------------------------------------------HALKVAEASKAAME
+YLKT-----------K---------P-----PAVKLVTTK---------GHQMK---TF-
+-----IVSEDDS----------------------AD--QK-SNDDKILDTALNLCKSHK-
+E-----E---R-----------------------------I-----------G---DTR-
+------------HI-V--REVVLITKDRNLRVKALSNDLPVRELPDFVKWAGLG
+>UniRef90_H3DTU7_1293_1467 | Endonuclease III homolog n=2 Tax=Pristionchus pacificus TaxID=54126 RepID=H3DTU7_PRIPA | E_val=3e-12
+----VCP--KFVVIDTNMYVDDL-SDVKRILD-S------------GR-YQILVPTTVID
+ELLGLE--R-G-R-GSV------------------E-DQREA---AHAVKTVEKAKEALS
+WLREQTA------K-K---------Q-----PKMGTLTLR---------GQRMA----I-
+----SLANEDADEE--------------------TA--KL-VNDDRILEAAAKFTATLP-
+T-----T---A-----------------S-A-------AAAAAIPA----AVA---AAR-
+------------PL-H--RQLALITGDRGMNIKANARSIPVD------------
+>UniRef90_A0A163KKW9_1044_1194 | PINc domain-containing protein n=1 Tax=Absidia glauca TaxID=4829 RepID=A0A163KKW9_ABSGL | E_val=3.3e-12
+----------VLVLDTNCFIGHI-DAIRRLIQ-G------------GS-WSIVIPLVVIT
+ELDGLK--G-N-A-P----------------------------------PLGTVADKALK
+LIEGTLA------S-KQLR------R-----DVIRIQTSH---------HNFMY---DI-
+----SIRSEQFIFG--------------------ET--DK-NLDDLILSTCLWWKNNKK-
+L-----P-------------------------------------------------ESS-
+------------SP-V--VPVCLVTADRNLSVKARARDVQVIPV----------
+>UniRef90_S2IX35_1132_1287 | PINc domain-containing protein n=1 Tax=Mucor circinelloides f. circinelloides (strain 1006PhL) TaxID | E_val=5.2e-12
+----------ILVLDTNCFIGHL-DLVKKLFK-C------------QK-WSIIVPLVVVT
+ELDGLR--T-N-T-H----------------------------------RLGVMAQQGIE
+LLQTTLA------A-KPKQ------S-----TSLRIQTSH---------NNFMN---DI-
+----SIRSEQFVFG--------------------ES--DK-NLDDLILSTCLWWIAQHQ-
+H-----A---Q-------------------E-------------------------NDT-
+------------EK-A--VPVCLVTGDRNLSVKARARDVEVVPVSAI-------
+>UniRef90_A0A182FJ64_124_241 | PINc domain-containing protein n=1 Tax=Anopheles albimanus TaxID=7167 RepID=A0A182FJ64_ANOAL | E_val=1.1e-11
+------------------------------------------------------------
+-------------------------------------------------TVTQNAAIALE
+YLQS---------V-A---------D-----GTILFVTTK---------GNVMR---KS-
+----VFTTEEDE----------------------DG--QR-TNDDRILETALNLVAAGP-
+S-----S---S-----------------S-T-------SGSQAA------VDG---EPR-
+------------KI-L--REVVLLTKDRNLRVKAISHDVPVRDMHDFAYWAR--
+>UniRef90_A0A1I7THG2_862_1050 | PINc domain-containing protein n=3 Tax=Caenorhabditis tropicalis TaxID=1561998 RepID=A0A1I7THG2_ | E_val=1.5e-11
+---VIHP--EYLIPDTNVFIGEL-ELIRQLLE-V--AS------KVDK-LQILVPTIVLD
+ELQNIS--K-L-S-ASD------------------P-KSNSE---SHDPDRISKAKQAVG
+WLKEQAKG-G--GK-K---------T-----NSLFTLTTQ---------GKRLH---SL-
+----IMAAEDLDG---------------------IG--KM-TNDDMILQSAVKWSESLP-
+A-----P---A-----------------S-S-------SILSQIG--TPIRNA---T---
+---------------L--RNCVLITGDRGLTIKAIGASLPCRGIANFAKW----
+>UniRef90_A0A507E7K1_915_1069 | PINc domain-containing protein n=1 Tax=Powellomyces hirtus TaxID=109895 RepID=A0A507E7K1_9FUNG | E_val=1.5e-11
+-----------VVFDTNLFLHSM-KHVITIIE-S------------GL-WVVSIPLVVLT
+ELDGLK--V-G-D-N----------------------------------STSIAAQQAVS
+YIEAEFG------D-RTQK----RKK-----PWLKLQTSQ---------GNFLH---DL-
+----TIRTESWTTHV-------A---------QNQR--RR-NNDDVILQCCLHFKQKAD-
+------P---A---------------------------------------------AVD-
+------------KT-V--SKVVLVTGDVNMKLKARTLGIDVRD-----------
+>UniRef90_D8PWE8_978_1131 | PINc domain-containing protein n=1 Tax=Schizophyllum commune (strain H4-8 / FGSC 9210) TaxID=578458  | E_val=1.7e-11
+----------VLVVDTNILLSTL-AGFRALVE-S------------HK-WTIVVPLPVIM
+ELDGMV--S-G-G-S----------------------------------ELAGPASEAVE
+YIASTVR------V-H---------G-----VSLKVQTTR---------GNYLA---TL-
+----SIRTEEVDFAG-------A---------------ER-SMDDLILKAALWHQAHWA-
+D-----R---S---------------AFL-Q-------GSQ---------------VED-
+------------AQ-A--EKVVLVTLDRNLRLKARSRELPAA------------
+>UniRef90_A0A2Z6SQS3_829_988 | PINc domain-containing protein n=1 Tax=Rhizophagus clarus TaxID=94130 RepID=A0A2Z6SQS3_9GLOM | E_val=2.1e-11
+-----------IIVDTNCLIGDL-EIVKKVIR-S------------EK-WVVIVPSIVVT
+ELDGLK--Y-N-P-P----------------------------------PLGNAAYDALE
+YLDEILS------S-----------------KKIRIQTSK---------GNYLT---DI-
+----SF-SEEFDFGN-----------------GEDK--KK-NLDDLILGICLWHSKHNE-
+K-----N-------------------GLHDK-------SKE---------EAI---NND-
+------------HK-N--EVTVLLTNDRNLRVKARARGVDVVGVKD--------
+>UniRef90_A0A397UVW2_836_992 | PINc domain-containing protein n=1 Tax=Gigaspora rosea TaxID=44941 RepID=A0A397UVW2_9GLOM | E_val=2.4e-11
+-----------IVIDTNCLVGDL-NMVKKIIQ-S------------DN-WVVVIPLVVIT
+ELDGLK--L-N-P-P----------------------------------PLGTAASEAIK
+FLEQALS------P-SNR-------M-----KKLKVQTSK---------GNYVS---GI-
+----SF-SEEFDFGD-----------------GEDK--KK-NLDDLILGICLWHAKNHV-
+D-----S-------------------SFN-N-------HS------------G---KES-
+------------NN-K--EVVVLLTNDRNLRVKARARGVDVVS-----------
+>UniRef90_A0A550CA97_996_1149 | PINc domain-containing protein n=1 Tax=Auriculariopsis ampla TaxID=97359 RepID=A0A550CA97_9AGAR | E_val=2.6e-11
+----------ILVVDTNILLSSL-DAFCKLVE-S------------HR-WTIVVPLPVIM
+ELDGMV--S-G-G-S----------------------------------ELASTASAAVE
+YITAGVR------S-H---------S-----ASLKVQTSR---------GNYLA---TL-
+----SIRTEEIDFAG-------A---------------ER-SMDDLILKAALWQQAHWA-
+D-----R---S---------------AFL-Q-------GGA---------------IED-
+------------AR-A--EKVVLLTLDRNLRMKSRSRELPAA------------
+>UniRef90_A0A1X2INF6_1205_1357 | PINc domain-containing protein n=1 Tax=Absidia repens TaxID=90262 RepID=A0A1X2INF6_9FUNG | E_val=6.3e-11
+----------VLVLDTNCFIGHM-DAIRKLIQ-G------------GA-WPIVIPLVVIT
+ELDGLK--G-N-A-A----------------------------------PLGTVAEQALQ
+LIETALA------S-KQNR------R-----DAIRIQTSH---------HNFMY---DI-
+----SIRSEQFIFG--------------------ET--DK-NLDDLILSTCLWWNNHKK-
+Q-----Q---Q-------------------Q-------------------------QQQ-
+------------GM-G--VPVCLVTADRNLSVKARARDVQVIPV----------
+>UniRef90_A0A397JEK9_869_1022 | PINc domain-containing protein n=1 Tax=Diversispora epigaea TaxID=1348612 RepID=A0A397JEK9_9GLOM | E_val=6.6e-11
+----------ILVVDTNCLVADL-NMVKKIIY-N------------DS-WLVVIPLVVVT
+ELDGLR--F-N-S-P----------------------------------PLGTAASDAIA
+FLEQAMS------N-----------K-----KKLKIQTSR---------GNYVS---GV-
+----NF-SEEFDFGD-----------------GEDK--KK-NLDDLILGICLWHAKNRE-
+E-----N---G---------------SYS-K-------TS------------K---EKT-
+------------NN-E--EAVVLLTNDRNLRIKARARGIDV-------------
+>UniRef90_A0A2H2IDZ1_606_794 | PINc domain-containing protein n=1 Tax=Caenorhabditis japonica TaxID=281687 RepID=A0A2H2IDZ1_CAE | E_val=9.3e-11
+-----LP--EYLIPDTNVLIGDL-QLLKDLLD-A------------KM-YQILVPTTVID
+ELSHLA--Q-P-S-SST--------------------STSDD---AHDPERFSKARQALV
+WLREQAK------L-R---------T-----PGLHTLTTT---------GKRLA---TL-
+----ILASEEVEA---------------------EK--NT-NNDDKILKSAIEWTNQLP-
+T-----P---P-----------------T-S-------SPLHTVA--TQFQQA-DGNTG-
+----------GGVQ-L--KSCVLLTGDRGLTIKAVGSHVPCRTVENFVKWAV--
+>UniRef90_A0A1Q3E427_982_1132 | PINc domain-containing protein n=1 Tax=Lentinula edodes TaxID=5353 RepID=A0A1Q3E427_LENED | E_val=2.4e-10
+----------VLVIDTNILLSSL-PMVASLVE-S------------NR-WTLIIPLPVVM
+ELDGLK--S-N-S-S---------------------------------IQLSEAARTAID
+YITSHVR------T-H---------S-----LSLKIQTSK---------GNYLS---NI-
+----NFRIEEVDC----------------------------NMDDLILKAAIWHEEHWS-
+D-----R---S---------------ALL-Q-------AE-----------PP---RPG-
+------------IN-P--VKVVLISLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A1X2H9H5_966_1114 | PINc domain-containing protein n=1 Tax=Syncephalastrum racemosum TaxID=13706 RepID=A0A1X2H9H5_SY | E_val=3.1e-10
+-----------LVLDTNCFIGHF-EHVKKLIA-S------------HQ-WQIVIPLVVVT
+ELDGLK--S-N-T-P----------------------------------PLGTIAANALV
+FIEAALK------Q----Q------R-----PLVRVQTSH---------NNFIH---DI-
+----SIRSEQFVFG--------------------ET--DK-NLDDLVLSACLWWAAKKQ-
+P-----T---------------------------------------------------S-
+------------EA-T--APVCLVTGDRNLSVKARARDIDVVSVSAIM------
+>UniRef90_A0A1X2GYA5_1036_1185 | PINc domain-containing protein n=1 Tax=Hesseltinella vesiculosa TaxID=101127 RepID=A0A1X2GYA5_9F | E_val=4.1e-10
+----------VLVLDTNCFIGHL-DLIRRVFE-Q------------GQ-WQIIIPLAVIT
+ELDGLQ--G-N-A-P----------------------------------PLGQIAQDALT
+LIETTLQ------N-KTRR------R-----DLLRIQTSH---------HHFLY---DI-
+----AIRSEQFDFG--------------------ET--GK-NLDDLVLSTCLWWLKQAS-
+A-----V-----------------------------------------------------
+------------PV-F--VPVCLVTADRNLKVKARAREVHILPVRA--------
+>UniRef90_A0A4S4LVD3_295_450 | PINc domain-containing protein n=1 Tax=Bondarzewia mesenterica TaxID=1095465 RepID=A0A4S4LVD3_9A | E_val=6.2e-10
+----------ILVVDTNILLSSL-PMLASLIK-S------------MH-WTVVVPLPVIM
+ELDGLA--T-N-E-S----------------------------------ALGEAAKDALA
+FLVSHVR------S-H---------E-----TSLKVQTSK---------GNYLS---TL-
+----SVRTEQVDFDN-------P----------ESW--ER-NMDDLILKAAIWQDEHWA-
+D-----R---S---------------AFL-S-------VE------------P---QNT-
+------------AS-A--AKVVLLSLDRNLRLKARSRQLDA-------------
+>UniRef90_A0A1Q3FUF2_1722_1834 | Putative agap000894-pa-like protein (Fragment) n=2 Tax=Culex tarsalis TaxID=7177 RepID=A0A1Q3FUF | E_val=6.2e-10
+------------------------------------------------------------
+----------------------------------------------HAEKVAEASKQALH
+FIKQ-----------K---------H-----PALMCVTTK---------GSILK---PT-
+----TCTFLEDV----------------------GE--QK-SNDDKILETALNLIRNSV-
+E-----E---K-----------------------------R-----------G---EVR-
+------------YI-T--RDVVLLTTDRNLRVKALSNDLPVRELPDFIKWAGLG
+>UniRef90_A0A167R319_975_1123 | PINc domain-containing protein n=1 Tax=Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 /  | E_val=6.3e-10
+----------VLILDTNCFIGHL-ENIKNLFA-A------------NK-WLIVVPLVVVT
+ELDGIS--S-N-A-A----------------------------------PLGTVAMNALK
+LIEETLA------K-KQ-R------V-----NGLRVQTSH---------NNFMY---DI-
+----SIRSEQFVFG--------------------ET--DK-NLDDLVLSSCLWWTRQPE-
+R-----V---S-----------------------------------------------S-
+------------QG-S--VAACLVTGDRNLSVKARARDVEVVPV----------
+>UniRef90_A8NGZ3_1044_1204 | PINc domain-containing protein n=1 Tax=Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / | E_val=6.9e-10
+----------VLVVDTNILLSSL-SMVSSLIE-S------------MK-WTVVIPLPVVM
+ELDGLA--A-N-T-S---------------------------------TQLAEAASSALN
+YITSHIR------S-H---------S-----LSLKVQTSK---------GNYLT---SL-
+----NVRTEEVDFSG-------G---------VANN--ER-SMDDLILKAAIWQDEHWV-
+D-----R---S---------------SML-K-------AEVP---------SP---ESL-
+------------KT-A--EKVVFLSLDRNLRLKARSRQVSA-------------
+>UniRef90_A0A166C442_947_1111 | PINc domain-containing protein n=1 Tax=Peniophora sp. CONT TaxID=1314672 RepID=A0A166C442_9AGAM | E_val=8.4e-10
+-----------LVLDTNVLLAAP-ERVRALIE-S------------QN-WIIVVPLPVIM
+ELDGLA--S-A-S-STA---SDPF-------------ASQSE---QAQEELGKIAKSAVD
+MLSSLIR------T-H---------S-----SSLKVQTSR---------GNYLS---SL-
+----VVRRESVDFDG-------S---------PGGW--ER-CMDDLILRAAVWQDEHWV-
+D-----R---S---------------GS----------------------------EGM-
+------------ES-A--SRVVLCTLDRNLRVKARARQLD--------------
+>UniRef90_G7E0U4_1070_1231 | PINc domain-containing protein n=1 Tax=Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY  | E_val=9.5e-10
+-----------FVFDTNILMTDL-QLLDRLLP-S------------GK-WIVIIPLMVVT
+ELDGLA--K-E-T-S----------------------------------EAGASANKALD
+ALRAALS------D-H---------P-----DCIKLQTSR---------GNYLN---DL-
+----NIRWEAIDFSS-------DA--------QGEQ--IR-SIDDVILQAAIWQSKHGI-
+G-----L---A---------------S-----------------------------ASP-
+------------TD-P--VVVALVTADRNLRLKATVRSLLAGSSQQILQWLE--
+>UniRef90_A0A074ZJ51_148_270 | Uncharacterized protein n=2 Tax=Opisthorchis viverrini TaxID=6198 RepID=A0A074ZJ51_9TREM | E_val=9.8e-10
+VELEVHV--IYLLLDANVCIEWL-EEIATLTGRP------------SN-YTVLVAIVVMN
+EMDTLA--R-C-G-SNR---NS------WRKSDY---EEGDV---TRAGLIQERARAAIT
+YLKHEFA------H-R---------N-----TRLRGLTAR---------GSSME---TI-
+----AFRNEING------------------------------------------------
+------R-----------------------------------------------------
+--------------------------------------VPIN------------
+>UniRef90_UPI000F66F95F_1172_1385 | telomerase-binding protein EST1A-like n=1 Tax=Dermatophagoides pteronyssinus TaxID=6956 RepID | E_val=1e-09
+----IIP--RYVVFDTNCFINDL-SSIMKFVH-S---K------QPSS-FIVTVPLIVVQ
+ELQSMIA-R-G-Q-RLN---NNVTLS--SEDIIN-N-DEQQELINLRHKQLAKKSSEILD
+SLQEAFD------S-N---------M-----VNIRAITSK---------GSVLD---RI-
+----DYKEESNNN---------------------LD--AI-NNDDLILYGCINLVGKDR-
+H-----C---NDDH---------IDDKWMRTL---LKDAGEQN-------LTN---QDE-
+------------FI-Y--RDVILITDDMNLRIKSLGFDVPVKKFKQFRKWAN--
+>UniRef90_V2WGC6_972_1141 | PINc domain-containing protein n=2 Tax=Moniliophthora roreri TaxID=221103 RepID=V2WGC6_MONRO | E_val=1.6e-09
+--LPIRPGYTVLVVDTNILLSSL-SMFASLVE-S------------LR-WTVLVPLPVVM
+ELDGLK--S-N-S-S---------------------------------SQLSEAADSALS
+YITTHIR------S-H---------A-----MSLKVQTSK---------GNYLT---TL-
+----NVRTEEVDFT--------------------RT--ER-NMDDLILKTAIWHDEHWT-
+D-----R---S---------------AML-K-------EDE----------RA---KDI-
+------------PN-P--VKVVLLSLDRNLRLKARARQLPAAGVKDF-------
+>UniRef90_A0A067NPE1_986_1147 | PINc domain-containing protein n=1 Tax=Pleurotus ostreatus PC15 TaxID=1137138 RepID=A0A067NPE1_P | E_val=1.9e-09
+----------ILVVDTNILLSSL-PLLTPVIE-S------------LR-WTVVIPLPVIM
+ELDGLA--T-N-M-S----------------------------------TLGQAARDALE
+YVTSHIR------T-H---------S-----ISLKVQTSK---------GNYLT---SL-
+----NVRTEQVDFVD-------N-------MTGSLA--ER-SMDDLILKAAIWQDEHWI-
+D-----R---T---------------SML-K-------VEL----------KS---EDI-
+------------SA-A--VKVVLITLDRNLRLKARSRSLPAA------------
+>UniRef90_A0A5N5QUW0_823_982 | Telomerase-binding protein EST1A n=1 Tax=Ceratobasidium theobromae TaxID=1582974 RepID=A0A5N5QUW | E_val=2.2e-09
+----------VLVLDTNIFLSAL-PTVSQLVA-S------------QR-WTVVVPLAVVT
+ELDGLA--R-Q----------------------------------------SEAAQRAIS
+FLESQIR------S-SQGV------G-----LGLKIQTSR---------GNYLP---SL-
+----AVRVEQFWGST------------------GGW--ER-NMDDFILRSAMWQAENFV-
+D-----R---S---------------GFL-SD----AVSPSA----------------N-
+------------GA-K--AKVVLVSSDRNLRVKARARELEAGDVG---------
+>UniRef90_A0A0C3CXJ1_1060_1217 | PINc domain-containing protein n=1 Tax=Hebeloma cylindrosporum h7 TaxID=686832 RepID=A0A0C3CXJ1_ | E_val=2.7e-09
+----------SLVVDTNILLSSL-SMVSSLIE-S------------LC-WTVVVPLPVIM
+ELDGLS--S-N-T-S----------------------------------QLGEAAQSAMS
+YISSHIR------S-H---------A-----LSLKVQTSK---------GNYLT---SL-
+----SIRTEEVDFNG------------------GNT--EK-SMDDLILKAAIWQDDHWV-
+D-----R---S---------------SML-K-------APSA---------TP---AEL-
+------------KS-A--VKVVLLSLDRNLRLKARSRQLPA-------------
+>UniRef90_W4KI69_1002_1162 | PINc domain-containing protein n=1 Tax=Heterobasidion irregulare TC 32-1 TaxID=747525 RepID=W4KI69_9 | E_val=3.8e-09
+----------TLVVDTNIFLSSL-PPLAALVD-S------------LR-WTVIVPLPVVM
+ELDGLA--S-N-A-N----------------------------------ALGAAAKDALA
+FLLARVR------S-H---------S-----AALKVQTSR---------GNYLA---SL-
+----AVRTESVDFDG-------P----------GAL--ER-SMDDLILKAAIWQDEHWT-
+D-----R---S---------------AFM-G-------GAGAGSG------EA---QST-
+------------AG-A--AKVVLLSLDRNLRLKARSRRLD--------------
+>UniRef90_A0A5C3R6Q6_977_1134 | PINc domain-containing protein n=1 Tax=Pterula gracilis TaxID=1884261 RepID=A0A5C3R6Q6_9AGAR | E_val=3.9e-09
+---------TILVVDTNVFLSML-SMVSTLIQ-S------------HK-WTVVVPLPVIM
+ELDGLS--N-N-N-S---------------------------------PELREIAQNAMK
+FLTANIR------T-H---------S-----SSLKVQTSK---------GNYLP---SL-
+----EVRTEEVNFKD-------G----------SSA--EK-SMDDLILKAAIWQDEHWV-
+D-----R---S---------------ALL-Q-------SES----------GA---VKD-
+------------GS-A--VKVALLTLDRNMRLKARSRQL---------------
+>UniRef90_A0A1C7MEZ3_1224_1381 | PINc domain-containing protein n=1 Tax=Grifola frondosa TaxID=5627 RepID=A0A1C7MEZ3_GRIFR | E_val=5.5e-09
+----------VLVVDTNILLSSL-STFASLVE-S------------HR-WTVVVPLPVIM
+ELDGLA--K-S-A-S----------------------------------PLGEAAANAVN
+FITSHIH------S-H---------S-----TSLKVLTSR---------GNYLS---SL-
+----SIRTELVDFAD-------D---------EASW--ER-NMDDLILRATIWQDEHWV-
+D-----R---S---------------ALL-K-------SDD----------SI---RDT-
+------------TS-A--AKVVLLSFDRMLRLKARSRQLS--------------
+>UniRef90_A0A164QQP1_994_1154 | PINc domain-containing protein n=2 Tax=Sistotremastrum TaxID=139133 RepID=A0A164QQP1_9AGAM | E_val=6.4e-09
+----------VLVVDTNILLGSL-SSFAALVE-S------------ER-WTVIVPLAVIT
+ELDGLS--A-N-N-N----------------------------------QLGVAAAESIA
+YISSHAR------T-H---------S-----VSLKIQTSQ---------GNYLH---TL-
+----GVRSEDVQFDS-------D---------ESSW--ER-NMDDLILRAAVWQDDHWV-
+D-----R---S---------------NLL-K-------SEK----------RS---SET-
+------------ES-A--AKVVLLSFDRNLRLKARARELAAAD-----------
+>UniRef90_A0A1X6N8V8_1164_1321 | PINc domain-containing protein n=2 Tax=Postia placenta TaxID=104341 RepID=A0A1X6N8V8_9APHY | E_val=7e-09
+----------VLVFDTNILLSSL-PAFSSLVE-S------------LQ-WTVVVPLPVIM
+ELDGLT--Q-N-QHT----------------------------------ELGSAAGSALQ
+YITTHFR------S-H---------G-----KSLKVQTSK---------GNYLN---SL-
+----TVRTEQVDFTD-----------------EASW--ER-NMDDLILRATIWQDEHWI-
+D-----R---S---------------NML-Q-------PGD----------GP---RDT-
+------------TG-A--AKVVLLTFDRMLRLKARSRQLS--------------
+>UniRef90_A0A0H2S2M1_1004_1160 | PINc domain-containing protein n=1 Tax=Schizopora paradoxa TaxID=27342 RepID=A0A0H2S2M1_9AGAM | E_val=1.2e-08
+----------VLVIDTNILLSSL-SMFASLVE-S------------LK-WTILVPLAVIT
+ELDGIA--H-N-N-S----------------------------------ALGEAATAAVN
+YIVAHMR------S-H---------S-----RSLKVQTSR---------GNYLQ---NL-
+----TIRSEEVEFVD------------------SSW--ER-NMDDLILRAAIWQDDHWT-
+D-----R---S---------------AIL-E-------C------------GE---QDT-
+------------TG-A--SKVVLFSLDRNLRLKARARKLDAAD-----------
+>UniRef90_A0A166N7J3_983_1142 | PINc domain-containing protein n=2 Tax=Fibularhizoctonia sp. CBS 109695 TaxID=436010 RepID=A0A16 | E_val=1.5e-08
+----------VLVVDTNILLSSL-SMLASVIE-S------------LR-WTVIVPLPVIM
+ELDGIS--A-N-T-S----------------------------------QLGETAKAAMS
+YLTSHVR------S-H---------S-----TSLKVQTSK---------GNYLT---SL-
+----TFRTEQVDFKD-------E----------ASW--ER-NMDDLILRTAIWQDDHWS-
+D-----R---S---------------SML-K-------NTGA---------QR---GTT-
+------------VG-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A2A9NSP0_1100_1258 | PINc domain-containing protein n=1 Tax=Amanita thiersii Skay4041 TaxID=703135 RepID=A0A2A9NSP0_9 | E_val=1.5e-08
+----------VLVIDTNILLSSL-PMFSSLVE-S------------LQ-WTVVVPLPVIM
+ELDGLA--S-N-A-S----------------------------------PLGEAAKSAIT
+YIGSHLR------S-H---------S-----LSLKVQTSK---------GNYLA---NL-
+----AVRTEQVDFGY-------G---------RPEL--DR-NMDDLILKAAIWQDDHWV-
+D-----R---S---------------VIL-D-------PKV----------DH---HPP-
+------------LD-A--VKVVLLSLDRNLRVKARARQLPA-------------
+>UniRef90_A0A0S2LI56_1040_1198 | PINc domain-containing protein n=5 Tax=Cryptococcus neoformans TaxID=5207 RepID=A0A0S2LI56_CRYNJ | E_val=1.6e-08
+----------MLIFDTNILLDSL-ELVNRIVE-S------------GQ-WSVVVPLPVVT
+ELDGLS--K-E-H-G----------------------------------ALGAAARAAVA
+LLEERIR------T-H---------A-----LCLKIQTTK---------GNYLS---DL-
+----LIRTEQIDSST-------YA-------SSEAI--AR-TMDDRIVHIASFAQEHFV-
+D-----R---T---------------ILL-A-------MP----------------RPE-
+------------KG-A--TKVLLISNDRNLRLKAKARGVEVA------------
+>UniRef90_A0A397SNT7_835_991 | PINc domain-containing protein n=1 Tax=Glomus cerebriforme TaxID=658196 RepID=A0A397SNT7_9GLOM | E_val=1.9e-08
+-----------IIVDTNCLIGDL-EIVKKIIQ-S------------EK-WIVIVPSIVVT
+ELDGLK--F-N-P-P----------------------------------PLGLAAHEALT
+YLNELLL------S-----------------KKIKIQTSK---------GNYLT---DI-
+----SF-SEEFDFGN-----------------GEDK--KK-NLDDLILGICLWHAKHYE-
+V-----N---D-------------------K-------SNE---------VGT---DNE-
+------------YK-N--EVVVLLTNDRNLRVKARARGVDVVGVKD--------
+>UniRef90_A0A066VH78_844_996 | PINc domain-containing protein (Fragment) n=4 Tax=Rhizoctonia solani TaxID=456999 RepID=A0A066VH | E_val=2.6e-08
+----------VLVLDTNIFLSAL-PAVAQLVS-S------------QR-WTVVVPLAVVT
+ELDGLS--R-Q----------------------------------------SEAAQRAVS
+FLETQVR------S-SRGV------G-----LGLKIQTSR---------GNYLP---SL-
+----AVRAEQFWGSN------------------AGW--ER-NMDDFILRSAMWQMENFV-
+D-----R---S---------------GFL-S-------TPSA--------------NGE-
+------------GA-K--AKVVLVSSDRNLRVKDRSREL---------------
+>UniRef90_F8Q5X1_1022_1178 | PINc domain-containing protein n=1 Tax=Serpula lacrymans var. lacrymans (strain S7.3) TaxID=936435 R | E_val=2.8e-08
+----------VLVVDTNILLSSL-SIFSSIIE-T------------LR-WTVVLPVPVIM
+ELDGLS--S-N-S-S----------------------------------QLGGAAQEALS
+YITSHFK------T-H---------S-----MSLKVQTSR---------GNYLT---SL-
+----SVRSEQVDFAD-------R----------ATW--ER-NMDDLILKAAIWQDEHWV-
+D-----R---S---------------ALL-K-------PAA----------VN---HDT-
+------------TN-A--VKVVLLSLDRNLRLKARSRQLS--------------
+>UniRef90_A0A1D2NC98_727_909 | PINc domain-containing protein n=1 Tax=Orchesella cincta TaxID=48709 RepID=A0A1D2NC98_ORCCI | E_val=2.8e-08
+--MLIQP--LRVVLDTNCFIRNL-EWVECLLK-V------------YP-GTLYLPTTVIS
+ELRGLG--K-G-L-KPS--------RSRCKPLSLQQ-NKTRM---IDSLVVAGQCSSALA
+FMKDQLH-------------------------RFTVVTTK---------GKTLK---MY-
+----NIMKQKIFDSM-------------------LD--GV-NNDEKILETCRQLEAQDE-
+V-----T-------------------------------RRK-----------D---TPF-
+------------RI-Y--RNTVLLTADRSLRLRAYASDIPAREVHNFTLW----
+>UniRef90_A0A4S8MA99_978_1135 | PINc domain-containing protein n=1 Tax=Dendrothele bispora CBS 962.96 TaxID=1314807 RepID=A0A4S8 | E_val=3e-08
+----------VLVIDTNILLSSL-SMFASLVE-S------------IH-WTVLVPLPVIM
+ELDGLK--S-N-T-S----------------------------------QLGEAAENALT
+YISSHIR------S-H---------S-----MSLKVQTSK---------GNYLT---TL-
+----NVRTEDVDFTS------------------GNA--ER-NMDDLILKAAIWHDEHWI-
+D-----R---S---------------AML-K-------SDG----------VS---SNI-
+------------TN-P--IKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_M5BJ00_67_211 | Telomerase-binding protein EST1A n=1 Tax=Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) Ta | E_val=4.1e-08
+--------------------------ITQLVS-S------------QR-WTIVVPLAVVT
+ELDGLS--R-Q----------------------------------------SEAAQRAIS
+FLETQVR------S-SRGV------G-----LGLKIQTSR---------GNYLS---SL-
+----AVRAEQLWGSS------------------GGW--ER-NMDDFILRSAMWQMENFI-
+D-----R---S---------------SFL-S-------TPSA--------------NGE-
+------------GA-K--AKVVLVSSDRNLRVKARARELEAGDVDV--------
+>UniRef90_A0A5C3L1A2_1056_1216 | PINc domain-containing protein n=1 Tax=Coprinopsis marcescibilis TaxID=230819 RepID=A0A5C3L1A2_9 | E_val=5.4e-08
+-----------LVIDTNILLSSL-PMVASLVE-S------------HK-WTVVIPLPVIM
+ELDGLS--S-N-P-S---------------------------------AQLADAASSALN
+YVTSQLR------P-H---------A-----LSLKVQTSK---------GNYLT---SL-
+----NVRTEDVDFSG-------G---------VSNN--ER-SMDDLILKAAIWQDEHWV-
+D-----R---S---------------NML-K-------VGEL---------AP---ETT-
+------------RN-A--VKVVLLSLDRNLRLKSRSRQLPAA------------
+>UniRef90_A0A0C3QNF4_954_1111 | Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 TaxID=1051891 RepID=A0A0C3QNF4_9AG | E_val=5.6e-08
+----------ILVCDTNILLGSL-PMVSELVA-S------------GR-WTFVVPLAVVT
+ELDGLS--N-Q-P-T----------------------------------DLGRAAAEALT
+YLITAVQ------T-Q---------S-----TSLKVQTSK---------GNYLK---SL-
+----SIRSEATTLGE-------G---------------ER-NMDDLIVRSALWQLDHFV-
+D-----R---T---------------GLL-I-------ASRN---------AV---KRT-
+------------DK-T--SKVVLLTFDRMMRVKARSRQLDAAD-----------
+>UniRef90_A0A0N4UY44_1341_1449 | PINc domain-containing protein n=1 Tax=Enterobius vermicularis TaxID=51028 RepID=A0A0N4UY44_ENTV | E_val=5.7e-08
+--IEVKP--VYVVLDTNCFIYHL-ESIKRIVD-S------------RK-FTVLVPTMVIA
+ELEGLC--K-R-A-ESK-------------GIIRVG-QVLDD---EHSTWIQQRAGLACE
+FLQEAKH------K-E---------V-----SQISAISSK---------GNKFR----L-
+----NFASE---------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A1Y2AET6_696_847 | PINc domain-containing protein n=1 Tax=Naematelia encephala TaxID=71784 RepID=A0A1Y2AET6_9TREE | E_val=5.9e-08
+----------MLVFDTNVLLSAL-SLFSKVVE-G------------GQ-WSVVVPLPVVT
+ELDGLS--K-S-T-P----------------------------------PLGLAAQSAIT
+YLESRIR------T-H---------S-----LCLKIQTSR---------GNYLS---DL-
+----LIRTETHNDRS-----------------------SK-TMDDLILGIASFQAEHFV-
+D-----R---S---------------ALL-G-------AS----------------GAG-
+------------PG-A--TKVLLITFDRNLRLKARSVGVDAA------------
+>UniRef90_A0A0C3DWU3_1006_1165 | PINc domain-containing protein n=1 Tax=Scleroderma citrinum Foug A TaxID=1036808 RepID=A0A0C3DWU | E_val=6.1e-08
+----------ILVVDTNIILSSL-SIIASIVE-S------------LS-WTVVIPVPVIM
+ELDGLS--A-N-T-S----------------------------------QLGDAAQEALS
+FITSYIR------S-H---------G-----TSLKVQTSK---------GNYLT---SV-
+----SIRTEQVDFTD-------K----------TSW--EH-CMDDLILKAAVWQDEHWV-
+D-----R---S---------------ALL-K-------VSA----------SP---RTM-
+------------TN-A--VKVVLLSLDRNLRLKARSRQLPAAD-----------
+>UniRef90_S7QGB9_1059_1217 | PINc domain-containing protein n=1 Tax=Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison  | E_val=6.5e-08
+----------VLVVDTNILLSSL-SVFQSLVE-S------------MQ-WTIVVPLPVIM
+ELDGLSGAS-D-A-P----------------------------------ELSGAASSALS
+YIISHLR------S-H---------S-----TSLKILTSK---------GNYMT---TL-
+----SVRSEQVDFDR-------Q----------GSW--ER-NMDDLILRAAIWQDEHWV-
+D-----R---S---------------AFL-K-------AADV---------PE---EVK-
+------------HD-A--VKVVLLSLDRNLRLKARAKQL---------------
+>UniRef90_A0A165QRY7_938_1097 | PINc domain-containing protein n=1 Tax=Exidia glandulosa HHB12029 TaxID=1314781 RepID=A0A165QRY7 | E_val=8.9e-08
+----------VLIVDTNILLSSL-PLFSGLVT-S------------QK-WTVVVPLAVVT
+ELDGLV--Q-N-T-S----------------------------------ALGAAAKEALK
+FITASIR------T-H---------S-----TSLKVQTSK---------GNYLS---SL-
+----VVRQEQVQFSK-------D---------EGSW--DR-NMDDLILRSALWQLEHWV-
+D-----R---S---------------SLL-S-------GASN---------SG---AVA-
+------------DG-A--SRVVLLTFDRNLRLKATSRQLDA-------------
+>UniRef90_A0A2H3C4F5_999_1156 | PINc domain-containing protein n=3 Tax=Armillaria TaxID=47424 RepID=A0A2H3C4F5_9AGAR | E_val=1.1e-07
+----------VLVVDTNILLSSL-SMFASIVE-S------------LR-WTVVVPLPVIM
+ELDGLS--S-N-P-S----------------------------------QLGEAAQSAMA
+YMSSHIR------T-H---------S-----TSLKVQTSK---------GNYLT---TL-
+----NVRTEEVDFTN------------------GTS--DR-NMDDLILKAAIWHDEHWV-
+D-----R---S---------------ALL-R-------SDA----------IV---RNV-
+------------TN-P--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A067SRJ7_1031_1189 | PINc domain-containing protein n=1 Tax=Galerina marginata (strain CBS 339.88) TaxID=685588 RepID | E_val=1.1e-07
+----------ILVVDTNILLSSL-SMVSSLIE-S------------LQ-WTVVVPLPVIM
+ELDGLS--A-N-V-S----------------------------------QLGEAAQAAMS
+YISSHVR------S-H---------A-----LSLKVQTSK---------GNYLT---SL-
+----SVRTEEVDFHG------------------DNA--EK-SMDDLILKAAIWQDDHWV-
+D-----R---S---------------SML-K-------AATA---------SA---SEL-
+------------QT-A--VKVVFLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A5C3MP08_1029_1187 | PINc domain-containing protein n=1 Tax=Crucibulum laeve TaxID=68775 RepID=A0A5C3MP08_9AGAR | E_val=1.1e-07
+----------VLVIDTNILLSSL-PMIASVIE-S------------LR-WTVLVPLPVIM
+ELDGLS--S-S-S-S---------------------------------AQLAEAAQSAMA
+YLSSHLR------S-H---------A-----ISLKVQTSK---------GNYLT---SL-
+----NVRTEEVDFSG-------D---------GNNA--ER-TMDDLILRAAIWQDEHWV-
+D-----R---S---------------GLL-K-------SEA---------------ADT-
+------------HN-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A4Y9XVI3_266_423 | PINc domain-containing protein (Fragment) n=1 Tax=Fomitopsis rosea TaxID=34475 RepID=A0A4Y9XVI3_ | E_val=1.2e-07
+----------ILVIDTNILLSSL-PVVSTLVE-S------------LQ-WTVVIPLPVVM
+ELDGLA--S-N-A-T----------------------------------ALGEAATAALD
+YITSHIR------S-H---------T-----TSLKVQTSR---------GNYLS---SL-
+----SIRTEQVDFAG-------D---------EASW--ER-NMDDLILRAAIWQDEHWI-
+D-----R---S---------------AML-Q-------PDG----------VS---RDT-
+------------SG-A--AKVVLLSFDRMLRLKARSRQLS--------------
+>UniRef90_B0D3H1_1042_1203 | Predicted protein n=2 Tax=Laccaria TaxID=29882 RepID=B0D3H1_LACBS | E_val=1.2e-07
+----------ILVVDTNILLSSL-SMVLSLIE-S------------MR-WTVVIPLPVIM
+ELDGLS--S-N-A-S---------------------------------AQLGDAAQAAMA
+YISSHVR------S-H---------T-----LSLKVQTSK---------GNYLS---TL-
+----NIRTEEVDFAV-------N---------GNNA--DR-TMDDLILKAAIWQDEHWV-
+D-----R---S---------------SML-N-------ADPV---------TP---KDL-
+------------QH-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A409XE88_1076_1245 | PINc domain-containing protein n=1 Tax=Psilocybe cyanescens TaxID=93625 RepID=A0A409XE88_PSICY | E_val=1.3e-07
+----------ILVVDTNILLSSL-SMISSLIE-S------------LQ-WTVVIPLPVIM
+ELDGLS--T-N-P-S----------------------------------QLGEAAQSAMA
+YIHSHIR------S-H---------A-----VSLKVQTSK---------GNYLT---SL-
+----TVRTEEVDFHG------------------DNA--EK-SMDDLILKAAIWQDDHWV-
+D-----R---S---------------SML-K-------SSPT---------PS---SDV-
+------------QN-ADVIKVVLLSLDRNLRLKARSRQLPAASEKDLAAIL---
+>UniRef90_A0A165UR80_932_1089 | PINc domain-containing protein n=2 Tax=Neolentinus lepideus HHB14362 ss-1 TaxID=1314782 RepID=A0 | E_val=1.3e-07
+----------VLVIDTNILLSSL-STFQSMVE-S------------LR-WTIVVPLPVIM
+ELDGLSSAS-D-A-P----------------------------------ELSGIASAALS
+YIMSHIR------S-H---------S-----TSLKVLTSK---------GNYLT---TL-
+----SVRSEQVDFDD-------R----------SSW--ER-NMDDLILRSAIWQDVHWV-
+D-----R---S---------------AML-K-------VDV----------PA---EAK-
+------------QD-A--VKVVLLSFDRNLRLKARAKEL---------------
+>UniRef90_A0A146IPD2_1122_1277 | PINc domain-containing protein n=1 Tax=Mycena chlorophos TaxID=658473 RepID=A0A146IPD2_9AGAR | E_val=1.4e-07
+----------VLVIDTNILLSSL-SLFSSIVE-S------------LQ-WTIIVPLPVIM
+ELDGLS--S-N-P-T----------------------------------QLGEAAQAAMS
+YLSSHIR------S-H---------A-----TSLKVQTSK---------GNYLT---SL-
+----SVRAEQVDFTD------------------GAT--ER-NMDDLILKAAIWQDEHWI-
+D-----R---S---------------AIL-K-------SDA---------------VAT-
+------------DN-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A286UW34_1010_1166 | PINc domain-containing protein n=1 Tax=Pyrrhoderma noxium TaxID=2282107 RepID=A0A286UW34_9AGAM | E_val=1.6e-07
+----------VLVIDTNFLLSSL-SMFSTLVE-S------------QR-WTILVPLAVVT
+ELDGIC--H-N-N-T----------------------------------ALGEAAQAAIH
+YIEGHVR------S-H---------A-----LSLKVQTSK---------GNYLR---DL-
+----NVRSEDIEFGH------------------QEW--ER-SMDDLILKAAVWQDEHWV-
+D-----R---S---------------TLL-N-------S------------GD---RDT-
+------------SG-A--AKVVLISLDRNLRLKARARQLDAAD-----------
+>UniRef90_A0A0L6W864_917_1077 | Telomerase-binding protein EST1A n=1 Tax=Termitomyces sp. J132 TaxID=1306850 RepID=A0A0L6W864_9A | E_val=1.7e-07
+----------VLVVDTNILLSSL-PMFASVVE-S------------LR-WTVIVPLPVIM
+ELDGLS--S-N-T-S---------------------------------PQLSEAAQNAMT
+YISTHIR------S-H---------S-----ISLKVQTSK---------GNYLS---TL-
+----SIRTEQVDFGG-------G----------SNW--ER-NTDDLILRAAIWQEEHWV-
+D-----R---S---------------AIL-K-------ANMA---------DS---ASS-
+------------SG-A--VKVVLLTLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A409VE19_1816_1976 | PINc domain-containing protein n=1 Tax=Gymnopilus dilepis TaxID=231916 RepID=A0A409VE19_9AGAR | E_val=2.1e-07
+----------ILVVDTNILLSSL-PMVSALIE-S------------MR-WTVVVPLPVIM
+ELDGLA--S-N-A-S----------------------------------PLGDAAQNALA
+YVSTHVR------S-H---------A-----LSLKIQTSK---------GNYLT---TL-
+----SVRTEQVDFGG-------E---------EGGR--EK-SMDDLILKAAIWQDEHWV-
+D-----R---R---------------ELL-K-------AEPV---------GE---AEV-
+------------QA-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_K5X546_1032_1187 | PINc domain-containing protein n=2 Tax=Agaricus bisporus TaxID=5341 RepID=K5X546_AGABU | E_val=2.1e-07
+----------VLVIDTNILLSFL-PTVASLVE-S------------LV-WTIVIPLPVVM
+ELDGLV--N-N-L-S----------------------------------ELGQAAQSAMK
+YITSHLR------S-H---------S-----ISLKVQTSK---------GNYLP---TL-
+----NVRTEEVDFAP------------------GNF--ER-SMDDLILKAAIWQDEHWM-
+D-----R---S---------------ALL-G-------SSS---------------QDT-
+------------NG-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A4C1WAQ0_76_185 | Telomerase-binding protein EST1A n=1 Tax=Eumeta variegata TaxID=151549 RepID=A0A4C1WAQ0_EUMVA | E_val=2.2e-07
+VELEVRP--RWLVPDTNCFIDHL-PLLQRVAA-A----------PGQP-YLLAVPLVVVT
+ELEGLR--R-C-G------------------------------------RVGGAAGAALG
+WLCGD----------A---------G-----AAVRFATSR---------GTLLA---SR-
+----TFTAERAEP-------------------------RT-TNDDRVLATAL--------
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A1E3IHZ0_970_1124 | PINc domain-containing protein n=2 Tax=Cryptococcus depauperatus TaxID=5208 RepID=A0A1E3IHZ0_9TR | E_val=2.6e-07
+----------MLIFDTNVVLDSL-EMLDGIVQ-G------------GQ-WTIVVPLPVVT
+ELDGLS--K-D-P------------------------------------LVGSSARAAVA
+FLEQRIR------T-H---------A-----LCLKIQTTR---------GNYLS---DL-
+----LIRTEQRDDIG-----------------NASF--AR-TMDDRIVDIAVFARDHFM-
+D-----R---T---------------TLL-G-------MP----------------KPE-
+------------GQ-A--IRALLVSNDRNMRLKAQAEGVDVA------------
+>UniRef90_A0A0L0H4Z6_948_1102 | PINc domain-containing protein n=2 Tax=Spizellomyces TaxID=4815 RepID=A0A0L0H4Z6_SPIPD | E_val=3.3e-07
+-----------IVFDTNIFLHRL-QEVKHVIE-S------------GD-WIVSIPLVVVT
+ELDGLK--I-S-D-D----------------------------------EKGLQALHAVQ
+YLEEEFG------D-GTSSTGGRRRK-----PWLKLQTSQ---------GNFLF---DL-
+----RVRTENWATRS-------T---------ADER--RK-NNDDVILKCCQYHKDNQK-
+D-----------------------------------------------------------
+------------GT-A--SPVVLVTDDVNMKLKARTMGIEVVD-----------
+>UniRef90_A0A5M6C5V7_1028_1192 | Uncharacterized protein n=1 Tax=Kwoniella shandongensis TaxID=1734106 RepID=A0A5M6C5V7_9TREE | E_val=3.4e-07
+----------MLIFDTNVILDSL-ALFKRIVE-G------------GQ-WSVVVPLPVVT
+ELDGLS--K-E-P-A----------------------------------PLGANAKAAVT
+YLETHIH------T-H---------S-----LCLKIQTTK---------GNYLS---DL-
+----LIRTEHLDDGS-------TSN------NSETV--AR-TMDDRILNIASFAKDHFA-
+D-----R---S---------------ALL-G-------MPK----------AS---AVG-
+------------GE-S--TKVCLVSNDRNLRLKARGRGVDVAD---------E-
+>UniRef90_A0A5M3N2X0_861_1018 | Uncharacterized protein n=1 Tax=Coniophora puteana (strain RWD-64-598) TaxID=741705 RepID=A0A5M3 | E_val=3.5e-07
+-----------LVLDTNILLSSL-SIISSIVQ-S------------LT-WTIVLPVPVIM
+ELDGLK--S-N-D-S----------------------------------QLGQAAKAALA
+FVTSHIH------S-H---------S-----TSLKVQTSK---------GNYLT---SL-
+----VIRTEQIDFDG-------Q----------DSW--DR-SMDDLILKAAIWQDEHWV-
+D-----R---S---------------ALL-K-------APT----------HP---VDP-
+------------TG-A--VKVVLLSFDRNLRLKARSRELPAA------------
+>UniRef90_A0A067MRQ5_782_949 | PINc domain-containing protein n=1 Tax=Botryobasidium botryosum FD-172 SS1 TaxID=930990 RepID=A0 | E_val=3.6e-07
+----------VLVVDTNILLSSL-SMVVSLVE-S------------RR-WTVVVPLAVIH
+ELDGLA--S-N-P-P----------------------------------PLGKAAADALA
+YLTTNVP------A-H---------S-----TSLKVQTSK---------GNYLM---TL-
+----SVRHEQIDFRG-------D---------AGVM--DR-NMDDLILRSAVWQAEHFM-
+D-----R---S---------------ALL-K-------GRSDDEGP---LTPL---APT-
+------------PG-T--AKVVLLSFDRNLRLKARARDLDAAD-----------
+>UniRef90_A0A137Q5L8_1027_1182 | Telomerase-binding protein EST1A n=1 Tax=Leucoagaricus sp. SymC.cos TaxID=1714833 RepID=A0A137Q5 | E_val=3.8e-07
+----------VLVLDTNILLSSL-SMVTSLVE-S------------LR-WTIVIPLPVIM
+ELDGLV--N-N-P-S----------------------------------QLGQAAQAAIG
+YITSNIR------T-F---------S-----SSLKVLTSK---------GNYLT---TL-
+----SVRIENVDFNS------------------GNI--ER-SMDDLILKAAIWQDEHWT-
+D-----R---S---------------AIL-G-------IDG---------------QNT-
+------------NG-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A139AXT8_1068_1221 | PINc domain-containing protein n=1 Tax=Gonapodya prolifera (strain JEL478) TaxID=1344416 RepID=A | E_val=3.8e-07
+-----------IIFDTNCYLHNL-DSVRKVVG-S------------CK-WLVIAPLIVAA
+ELSGLS--K-D-L---------------------------------------ADAKPAVD
+FIKSALT------K-SGFS------A-----GRLRLQTSK---------GSFLPGWESV-
+----GLAEERTVGAG-------------------GR--RL-NNDDVILELCIWWASRST-
+K-----S-----------------------P-------------------PGG---SEQ-
+------------GG-F--APVLLVTEDRNLRVKARTRDISAVDL----------
+>UniRef90_UPI00044080BD_933_1089 | hypothetical protein n=1 Tax=Fomitiporia mediterranea (strain MF3/22) TaxID=694068 RepID=UPI0 | E_val=4e-07
+----------VLVIDTNFLLSSL-SMFATLVD-S------------MK-WTILVPLAVIT
+ELDGIA--T-N-P-S----------------------------------TLGEAATAAIS
+YITSHIR------T-H---------S-----RSLKVQTSK---------GNYLQ---NL-
+----NVRSEQIDFVS------------------DSW--ER-SMDDLILRATVWQDDHWV-
+D-----R---S---------------AIL-E-------S------------PN---RDT-
+------------SG-A--AKVVLISFDRNLRLKARARQLDAAD-----------
+>UniRef90_A0A0J0XT64_1012_1168 | PINc domain-containing protein n=1 Tax=Cutaneotrichosporon oleaginosum TaxID=879819 RepID=A0A0J0 | E_val=5.2e-07
+----------ILVFDTNVLLSSL-SLFSKVVE-G------------GQ-WSVVVPLPVVT
+ELDGLS--K-N-P-P----------------------------------PLGTEAAAAVA
+YLEARIR------T-H---------A-----LCLKIQTSR---------GNYLT---DL-
+----LIRAETLDLHS------------------REN--VR-TMDDMILNVAAFQRDHFV-
+D-----R---S---------------ALL-G-------QA----------------RPV-
+------------DGVP--TQVLLVTFDRNLRLKARAQGIDAAD-----------
+>UniRef90_A0A4Y7QJA5_1016_1174 | PINc domain-containing protein n=1 Tax=Rickenella mellea TaxID=50990 RepID=A0A4Y7QJA5_9AGAM | E_val=5.3e-07
+----------VLIVDTNILLSSL-SIFASLVE-S------------LQ-WTIVVPLAVIT
+ELDGLA--A-N-S-S----------------------------------PLGEAASAATA
+YIVAHLR------S-H---------G-----TSLKVQTSK---------GNYLS---TL-
+----IVRNEQVEFSD------------------ASW--ER-NMDDLILRAAVWHDDHWV-
+D-----R---S---------------AIL-S-------ANV----------DE---RDT-
+------------TG-A--AKVVLLSFDRNLRLKARARQLDAAD-----------
+>UniRef90_A0A0C3JVX5_1010_1169 | PINc domain-containing protein n=1 Tax=Pisolithus tinctorius Marx 270 TaxID=870435 RepID=A0A0C3J | E_val=5.7e-07
+----------VLVLDTNILLSSL-SIIASIVE-S------------LR-WTVVIPVPVVM
+ELDGLS--A-N-T-S----------------------------------QLGAAAREALS
+YVTSHVR------S-H---------G-----MSLKVQTSK---------GNYLT---SL-
+----SVRTEQVDFTD-------K----------ESW--ER-SMDDLILKAAVWQDEHWV-
+D-----R---S---------------MLL-K-------GSA----------SP---AST-
+------------AG-A--VKVVLLSFDRNLRLKARSRQLPAAD-----------
+>UniRef90_A0A165HBD4_1082_1239 | PINc domain-containing protein n=1 Tax=Laetiporus sulphureus 93-53 TaxID=1314785 RepID=A0A165HBD | E_val=5.9e-07
+----------ILVIDTNILLSSL-SMFSSLVE-S------------QQ-WTVVVPLPVIM
+ELDGLA--T-N-M-S----------------------------------ALGEVASSALA
+FITSHVR------S-R---------S-----TSLKVQTSR---------GNYLS---SL-
+----NVRTEQVDFAS-------D---------EASW--ER-NMDDLILRAAIWQDEHWV-
+D-----R---S---------------AML-K-------SDG----------RA---RDT-
+------------SG-A--AKVVLLSLDRMLRLKARSRQLS--------------
+>UniRef90_A0A433PG13_1416_1592 | PINc domain-containing protein n=1 Tax=Endogone sp. FLAS-F59071 TaxID=2340872 RepID=A0A433PG13_9 | E_val=6.5e-07
+-----------LVIDTNCFIGYL-DAVKEVIE-C------------GK-WVVVVPLVVVT
+ELDGLR--N-N-P-P----------------------------------PLGSAATEALA
+FLDLVLK------R-NATG------N-TTKLRNVRIQTSH---------NNFLS---DI-
+----TIRSEQFGFG--------------------EM--DK-NLDDLVLGACLWWEEQKK-
+A-----A-PVN-------------------T-------AGKK--------VGG---SSSE
+EEDGTLNDDLTLTK-A--VKVCLVTGDRNLRVKARARNVEVVG-----------
+>UniRef90_A0A1U7LPH6_564_715 | Telomerase-binding protein EST1A (Fragment) n=1 Tax=Neolecta irregularis (strain DAH-3) TaxID=11 | E_val=6.9e-07
+-----RA--TILMFDTNILVSHL-DILKAAVD-S------------GN-WTIVVPLIVIT
+ELDGLK--N-S-A-D----------------------------------PLGPSSVNAIS
+TIEAYLH------A-H----------------RVRVVTHK---------GNALN---TL-
+----FFRSEDLNFSA-----------------EEGK--RG-TIDDKIIDAAITQKQK---
+----------N---------------TLC-S-------EKA---------------NIA-
+------------DS-V--ESVVLVTGDRNMRIIATARGIK--------------
+>UniRef90_A0A1E3J0Q6_966_1121 | PINc domain-containing protein n=4 Tax=Cryptococcus TaxID=79213 RepID=A0A1E3J0Q6_9TREE | E_val=7.2e-07
+----------MLVFDTNILLDSF-HLVKSIVE-S------------GQ-WSVVIPLPVVT
+ELDGLS--K-E-T-G----------------------------------ALGASARAAVA
+LLEQLIR------T-H---------T-----LCLKVQTTK---------GNYLF---DL-
+----LIRTEQIDTST-----------------YASD--TR-TMDDRIVHIASFAQDHFV-
+D-----R---S---------------ILL-G-------MP----------------KPE-
+------------TE-A--AKVLLVSNDRNLRLKAKARGVEVA------------
+>UniRef90_M2RJJ0_1049_1208 | PINc domain-containing protein n=1 Tax=Ceriporiopsis subvermispora (strain B) TaxID=914234 RepID=M2R | E_val=7.4e-07
+----------ILVFDTNILLSSL-SMFASLVE-S------------TR-WTIVLPLPVIM
+ELDGLK--G-N-M-S----------------------------------PLGEAASIALD
+YVTSHIR------S-H---------S-----TSLKVLTSK---------GNYLS---TL-
+----SVRAEQVDFTE-------N---------EASW--ER-NMDDLILRAAMWQEEHWT-
+D-----R---S---------------ALL-R-------ADD----------GA---RDT-
+------------AG-A--AKVVLLSFDRNLRLKARSRQLNVA------------
+>UniRef90_A0A2P6N4Y9_186_334 | PINc domain-containing protein n=1 Tax=Planoprotostelium fungivorum TaxID=1890364 RepID=A0A2P6N4 | E_val=7.6e-07
+----YRT--LYVVADTNVLLEHL-IEILNLRV-L------------ES-VTVVIPTVVIH
+ELDGLK--R-S-E----------------------------------DESVSSRSKSALR
+IIHESLL------S-N---------------ASLVKKWMR---------GQSPH---EV-
+----LGMSETLVP-------------------------LR-NNDDQILNCALYFLRRVA-
+S-----P---E-------------------------------------------------
+------------------DGLILTTNDEGLRLKALLSNVETKNVTQLLS-----
+>UniRef90_A0A0C3F857_995_1153 | PINc domain-containing protein n=1 Tax=Piloderma croceum F 1598 TaxID=765440 RepID=A0A0C3F857_9A | E_val=7.8e-07
+----------ILVVDTNILLSSL-SMLASVIE-S------------LR-WTVVIPVPVVM
+ELNGLS--S-N-S-S----------------------------------PLGEASQAAMA
+YISSHIR------S-H---------S-----TSLKIQTSK---------GNYLS---SL-
+----GIYSEQVDFQD-------T----------TSW--ER-NMDDLILRAAIWQDDHWL-
+D-----R---S---------------AML-K-------DDG----------VT---RDT-
+------------TR-A--IKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A316ZJ73_990_1147 | PINc domain-containing protein n=1 Tax=Tilletiopsis washingtonensis TaxID=58919 RepID=A0A316ZJ73 | E_val=1.2e-06
+----------ILVLDTNIVLTAG-SVLEQLVD-S------------AR-WTVVVPLCVVT
+ELDGLK--R-N-A-T----------------------------------PLGADAARAIE
+YLETRLP------T-H---------A-----KCLKIQTSR---------GNYLP---DL-
+----SFRTEEIDFGA-------PAD------DATAA--AR-SLDEIILRAVEWQEAHFV-
+D-----R---R---------------ALL-A-------APME--------------DVT-
+------------PD-K--ARAVLVTLDRNLRLKARARG----------------
+>UniRef90_A0A0L0VCV0_1279_1461 | PINc domain-containing protein n=2 Tax=Puccinia striiformis TaxID=27350 RepID=A0A0L0VCV0_9BASI | E_val=1.3e-06
+-----------LVFDTNILIGML-TIVKEILE-S------------EQ-FTIIIPLVVIT
+ELDGLK--K-R-I-NDT-----------------------ED---LQSQKLGEEAFEAIT
+FLESSIK------T-Y---------A-----KILKIQTSK---------GNYLR---DL-
+----SIRNEQINFQD-------SSSTT-NRFITTNT--AR-NLDDVVLRATSWQLEHFS-
+N-----RLPSS---------------TNLPS-------SSEVHN-------DG---EQS-
+------------ET-P--EKVVLLTLDRNLRLKARARGILAAD-----------
+>UniRef90_A0A369JXL3_1011_1173 | PINc domain-containing protein n=1 Tax=Hypsizygus marmoreus TaxID=39966 RepID=A0A369JXL3_HYPMA | E_val=1.5e-06
+----------VLVVDTNILLSSL-SMFASVVE-S------------LR-WTVIVPLPVIM
+ELDGLS--S-N-T-S---------------------------------QQLSEAAQGAMA
+YISAHIR------T-H---------A-----TSLKVQTSK---------GNYLT---TL-
+----SIRTEQVDFAA-------D----------GNW--ER-NMDDLILKAAIWQDEHWM-
+D-----R---S---------------AML-K-------ADPAAV-------AT---ASS-
+------------SG-A--VKVVLLSLDRNLRLKARSRQLPAA------------
+>UniRef90_A0A4Q9QGN5_1089_1244 | PINc domain-containing protein n=4 Tax=Dichomitus squalens TaxID=114155 RepID=A0A4Q9QGN5_9APHY | E_val=1.5e-06
+----------VLVVDTNILLSSL-AEFSALVE-S------------GR-WTVVVPLPVIM
+ELDSQA--NGN-A-T----------------------------------PLGQAAAAALK
+YITASIR------T-H---------S-----ASLKVQTSR---------GNYLT---NL-
+----NVRTEQVDFSS------------------NTW--ER-NMDDLILRAALWQDEHWA-
+D-----R---S---------------SML-K-------AD-----------AT---KDT-
+------------AG-A--AKVVLLSFDRLLRLKARSRQLD--------------
+>UniRef90_A0A0C2XJB0_967_1124 | PINc domain-containing protein n=1 Tax=Amanita muscaria Koide BX008 TaxID=946122 RepID=A0A0C2XJB | E_val=1.9e-06
+----------ILVVDTNILLSSL-SLFASLIE-S------------LK-WTIVIPLPVIM
+ELDGLS--S-N-T-S----------------------------------ALGEAAQSAAA
+YIFSHIR------T-H---------G-----LSLKVQTSK---------GNYLT---TL-
+----AVRTEQVDFSN-------Q---------GADW--GR-CMDDLILKAAIWQDEHWV-
+D-----R---S---------------QLL-G-------QK-----------NE---DGS-
+------------PG-A--AKVVLLSLDRNLRLKARSRQLLV-------------
+>UniRef90_M5FQ99_1279_1436 | PINc domain-containing protein n=1 Tax=Dacryopinax primogenitus (strain DJM 731) TaxID=1858805 RepID | E_val=2e-06
+---------TILVLDTNVLITSL-LQVQNLIE-G------------LR-WTVVLPLPVLA
+ELDGLR--S-H-P------------------------------------RLSDMATLALE
+YIKSHVR------T-H---------S-----KSLKVQTSK---------GNYLS---NL-
+----AVTTEVLDFSG-------A---------------AR-NIDGLILDAAAWQLDHFV-
+D-----R---T---------------AIL-A-------TNDE--------MVS---EPT-
+------------EQ-T--SKVVLLTFDRNMRLRARSRQLDVA------------
+>UniRef90_A0A5C3NEF5_1030_1186 | PINc domain-containing protein n=1 Tax=Heliocybe sulcata TaxID=5364 RepID=A0A5C3NEF5_9AGAM | E_val=2e-06
+----------VLVIDTNLLLSSL-SVFQSMVE-S------------LR-WTIVVPLPVIM
+ELDGLSSAS-D-A-P----------------------------------ELSQVAAAALS
+YIVSHIR------S-H---------S-----TSLKVLTSK---------GNYLT---TL-
+----SVRSEQVDFSN-------R----------DSW--ER-NMDDLILRAAIWQDEHWV-
+D-----R---S---------------AML-K-------VDI----------PD---QAS-
+------------QD-A--VKVVVLSFDRNLRLKARAKE----------------
+>UniRef90_J5SGC9_936_1093 | PINc domain-containing protein n=2 Tax=Trichosporon asahii var. asahii TaxID=189963 RepID=J5SGC9_TRI | E_val=2.5e-06
+----------ILVFDTNVLLGSL-SLFARLVE-G------------GQ-WSVIVPLPVVT
+ELDGLS--R-N-P-P----------------------------------PLGSEASSAVG
+YLEARIR------T-H---------A-----LTLKIQTTR---------GNYLT---DL-
+----LIRAEHLDFKA-------S---------VQNA--SK-SMDDLILDVAAFQARHFQ-
+D-----R---S---------------GIL-G-------MP----------------APE-
+------------DK-A--TQVLLITFDRNMRLKARARGIEAAD-----------
+>UniRef90_A0A4Q2DUC6_1049_1204 | PINc domain-containing protein n=1 Tax=Psathyrella aberdarensis TaxID=2316362 RepID=A0A4Q2DUC6_9 | E_val=2.9e-06
+----------ILVVDTNILLSSL-SIVTSLIE-S------------MK-WTIVIPLPVIM
+ELDGLA--S-N-V-N---------------------------------PQLAEAASSAVS
+YIATHIR------S-H---------S-----LSLKVQTSK---------GNYLT---NL-
+----NVRTEDVDFSE-------------------SV--EK-SMDDLILKAAIWQDDHWV-
+D-----R---S---------------NML-K-------VESL---------AA---SQT-
+------------SN-A--VKVVFISLDRNLRLKARSRQL---------------
+>UniRef90_A0A067QA82_1045_1202 | PINc domain-containing protein n=1 Tax=Jaapia argillacea MUCL 33604 TaxID=933084 RepID=A0A067QA8 | E_val=3e-06
+----------VLVVDTNILLSSL-SMFASLVE-K------------LQ-WTVVVPLPVIM
+ELDGLS--SSN-A-P----------------------------------ELSHAASAALS
+YITSHIR------S-H---------S-----LSLKVLTSK---------GNYLT---TL-
+----SIRTEQVDFSD-------R----------DSW--DR-SMDDLILRAALWQDEHWV-
+D-----R---S---------------ALL-K-------SDA----------MV---ADQ-
+------------VN-A--VKVVLLSFDRNLRLKARSRQLN--------------
+>UniRef90_A0A4Y7TQ38_1044_1202 | PINc domain-containing protein n=1 Tax=Coprinellus micaceus TaxID=71717 RepID=A0A4Y7TQ38_9AGAR | E_val=3e-06
+----------ILVVDTNILLSSL-SMITSLVE-S------------MR-WTVVVPLPVIM
+ELDGLA--R-N-V-V---------------------------------PQLADAATAAIN
+YLASHVR------S-H---------S-----VSLKVQTSK---------GNYLT---SL-
+----NVRTEEVDFTS-------D---------RTSN--ER-TMDDLILKAAIWQDEHWQ-
+D-----R---S---------------GML-K-------VTP----------GD---APA-
+------------SS-A--VKVAFVSLDRNLRLKARSRQLA--------------
+>UniRef90_A0A2A2JM85_1173_1297 | Uncharacterized protein n=2 Tax=Diploscapter pachys TaxID=2018661 RepID=A0A2A2JM85_9BILA | E_val=4.5e-06
+----VRP--DSVVLDTNALVDHL-SLIDKIVS-D------------DR-FKVLVPTIVTD
+ELTGLS--L-G-K-QC----------------------TADS---AHQEYVKNNAQLAVN
+WIRGQMK------T-K---------S-----PNVATLTTK---------GKKIA----L-
+----TLATESIDLED-----------------GAQL--SK-NNDDLIIDSCDAFL-----
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A1I7SUG6_850_1020 | PINc domain-containing protein n=1 Tax=Bursaphelenchus xylophilus TaxID=6326 RepID=A0A1I7SUG6_BU | E_val=4.7e-06
+---VIKP--QYLVIDTNVFIDAL-PHVVELMK-D------------MA-LTILIPTPVLS
+ELRGLR--N-K-T-ALP---GD----------------EKDE---RRAKVVSEGAQKTLD
+LFETITQ------------------------SNVKVLLCN---------GVV-----D--
+----DFHPDYYER---------------------LD--ET-NNDRLIIDCARKLSDRVS-
+A-----R---S---------------HYV-P------C------------------GEI-
+------------WL-Y--RNVLLISKDRVMMLLAFGHRIPSLDIITFSRWA---
+>UniRef90_A0A427Y8E9_975_1131 | PINc domain-containing protein n=1 Tax=Saitozyma podzolica TaxID=1890683 RepID=A0A427Y8E9_9TREE | E_val=4.9e-06
+----------MLVFDTNVLLSAI-EMFSKVVE-G------------GQ-WSVVVPLPVVT
+ELDGLS--K-S-P-G----------------------------------ALGTAAIAAIS
+YLEARIR------T-H---------S-----LCLKIQTSK---------GNYLS---DL-
+----LIRTEHVEPTD-----------------EKTR--AR-TMDDLILNIASFQADHFV-
+D-----R---S---------------KLL-G-------VE----------------TAG-
+------------PG-A--TKVLLVTFDRNLRLRARARGLDAAD-----------
+>UniRef90_A0A409YYD6_1056_1215 | PINc domain-containing protein n=1 Tax=Panaeolus cyanescens TaxID=181874 RepID=A0A409YYD6_9AGAR | E_val=5.1e-06
+----------VLVIDTNILLSAL-SIFSSFIE-S------------FR-WTVIVPLPVIM
+ELEGLS--K-D-T-N----------------------------------TIGEAAKSAMG
+YISSHIR------S-H---------A-----LSLKVQTSR---------GNYLT---SL-
+----NVRTEQVDFSD-------K----------SSA--EQ-TMDDLILKAAFWHEDHWV-
+D-----R---S---------------SML-K-------APVV---------AT---TDL-
+------------QN-A--VKVVLLSFDRNMRLKARSRQLPTA------------
+>UniRef90_A0A0L0HCQ3_588_698 | Uncharacterized protein n=2 Tax=Spizellomyces TaxID=4815 RepID=A0A0L0HCQ3_SPIPD | E_val=5.2e-06
+------P---MILIDTNGYVHHL-GLVKKWLA-S------------RK-SIVIVPMEVID
+NLDRLK--K-G-T-----------------------------------EKINARAREAIR
+YLEQRFR------Y-R---------S-----EYLRGQQDEERIALWDREGTLPN---SA-
+----GFVPKHMRS---------------------------------ILACALYY------
+--------------------------------------------------------QT--
+------------------------------------------------------
+>UniRef90_A0A1M2W2Q9_1096_1249 | Telomerase-binding protein EST1A n=2 Tax=Trametes TaxID=5324 RepID=A0A1M2W2Q9_TRAPU | E_val=6.6e-06
+----------VLVVDTNILLSSL-SEFSALVE-S------------GR-WTLVVPLPVVM
+ELDSQS--S-N-A-T----------------------------------PLGQAAGAALQ
+YISTHVR------S-H---------A-----TSLKVLTSR---------GNYLS---NL-
+----NVRTEQIDFTN-------G---------------AR-NMDDLILRAALWQDEHWV-
+D-----R---S---------------ALL-R-------GDDS---------SS---KDT-
+------------SS-A--AKVSLLSFDRMLRLKARSRQL---------------
+>UniRef90_F4P866_627_802 | Uncharacterized protein n=2 Tax=Batrachochytrium dendrobatidis TaxID=109871 RepID=F4P866_BATDJ | E_val=9.2e-06
+----------ILVLDTNLYLHNF-EQVKTMIT-S------------RK-WHILIPLAVVS
+ELDGLR--C-V-E-S----------------------------------EIGKNAELALD
+LLTSIFD------T-PDSS-LVDLKR-----AFVRVITSR---------GKMMH---TL-
+----RVRSEEWPKSW-------TADQDSSKNEGGFS--LR-NADDLILNVCLGYGTNST-
+Q-----S---S-----------------L-A-------------------PDA---EFS-
+------------WS-T--SKVVLVTHDINLRLKARALGVPVIDSI---------
+>UniRef90_A0A5E3XJY4_946_1108 | PINc domain-containing protein n=1 Tax=Peniophora sp. CBMAI 1063 TaxID=718367 RepID=A0A5E3XJY4_9 | E_val=1e-05
+-----------LVLDTNVLLAAQ-ERVRALIE-S------------QQ-WTIVVPLPVIM
+ELDGLA--T-S-S-HNP---ADPF-------------ASPSD---QGQAELGKIAKSAVD
+MLSSLIR------T-H---------G-----SSLKVQTSR---------GNYLS---SL-
+----VVRREAVDFDG-------S---------PSGW--ER-CMDDLILRAAVWQDEHWV-
+D-----R---S---------------GV------------------------------A-
+------------ES-A--SRVVLCTLDRNLRVKARARQLD--------------
+>UniRef90_A0A0D2LII4_1053_1219 | PINc domain-containing protein n=1 Tax=Hypholoma sublateritium FD-334 SS-4 TaxID=945553 RepID=A0 | E_val=1.2e-05
+----------TLVVDTNILLSSL-SMITSLVE-S------------SR-WTVVIPLPVFM
+ELDGLS--T-N-V-T----------------------------------QLGEAADAAMR
+YISSHIR------S-H---------S-----LSLKVQTSK---------GNYLN---SL-
+----NVFTEEVDFDS------------------NNT--EK-NMDDLILKSAIWQDDHWV-
+D-----R---S---------------AML-K-------VAPL---------TP---SDT-
+------------AN-A--VKVVLLSLDRNLRLKSRSRQLPAAGEKDLAAL----
+>UniRef90_UPI000440EEAF_986_1146 | hypothetical protein n=1 Tax=Stereum hirsutum (strain FP-91666) TaxID=721885 RepID=UPI000440E | E_val=1.4e-05
+----------VLVVDTNILLSSR-AEVSSLIT-S------------HK-WTVVIPLPVVM
+ELDGHA--L-N-P-T----------------------------------PLGEEAKSALN
+FLVSHIR------S-H---------P-----TSLKVQTSK---------GNYLS---SL-
+----IIRREQVDFDD-------P----------DAW--ER-NMDDLILKAAIWQDEHWA-
+D-----R---S---------------AFL-R-------IDET---------ER---RDT-
+------------KG-A--AKVVLLSLDRMLRLKARSRQLDAAD-----------
+>UniRef90_A0A1B9G2R1_995_1157 | PINc domain-containing protein n=1 Tax=Kwoniella bestiolae CBS 10118 TaxID=1296100 RepID=A0A1B9G | E_val=1.7e-05
+----------MLLFDTNVLVDSL-GLFSKVVE-S------------GQ-WSVVVPLPVVT
+ELDGLS--K-E-P-G----------------------------------QLGSNSQRSIK
+YLENTIR------T-H---------S-----LTLKIQTSK---------GNYLS---DL-
+----LIRTESLSSNS-------GNSSD----EDKDD--PR-TMDDRIIHIASFAEQNFM-
+D-----R---S---------------TLL-S-------MPSI---------DP---LEK-
+------------EG-T--SRVVVVSNDRNLRLMARSRGL---------------
+>UniRef90_A0A2H3J7W5_975_1131 | Uncharacterized protein n=1 Tax=Wolfiporia cocos (strain MD-104) TaxID=742152 RepID=A0A2H3J7W5_W | E_val=1.8e-05
+----------IIVIDTNILLSSL-SMFATLVE-S------------VQ-WTVVVPLPVIM
+ELDGLS--A-N-F-S----------------------------------PLGDAAKAALE
+YITSHLR------T-H---------Q-----KSMKVQTSK---------GNYLT---NL-
+----AIRTELVDFDG-------D---------EGSW--ER-NMDDLILRAAIWQDEHWV-
+D-----R---S---------------TLL-G-------SSA----------SD---RDT-
+------------TG-A--AKVVLLSFDRMLRLKARSRQL---------------
+>UniRef90_A0A4V3XJQ4_1098_1254 | PINc domain-containing protein n=1 Tax=Antrodiella citrinella TaxID=2447956 RepID=A0A4V3XJQ4_9AP | E_val=1.8e-05
+----------ILVVDTNILLSSL-SIFSSLVE-S------------LK-WTIVIPLPVIM
+ELDGLA--S-N-D-S----------------------------------PLGQAASAATA
+YIVSHLR------T-H---------N-----KSLKVQTSK---------GNYLM---NL-
+----SVRTEQVEWNN-------E---------EASW--ER-NVDDLILRAAVWQTEHWI-
+D-----R---S---------------TFL-S-------S------------PE---RET-
+------------TG-A--SKVTLLSFDRMLRLKARSRDVDA-------------
+>UniRef90_A0A0C3S996_1091_1249 | Uncharacterized protein n=1 Tax=Phlebiopsis gigantea 11061_1 CR5-6 TaxID=745531 RepID=A0A0C3S996 | E_val=1.9e-05
+-----------LVMDTNILLSSL-PVFNVLVE-S------------AK-WTVVVPLPVIM
+ELDGLA--L-D-P-S----------------------------------PLGEASKAASA
+SIISHLR------S-H---------G-----LSLKVLTSK---------GNYLA---NL-
+----NIRTEQVDFDD------GR---------EASW--ER-NMDDLILRAAMWQTEHWV-
+D-----R---S---------------MFL-K-------VSE----------DE---QQV-
+------------AG-A--SKVALLTFDRMLRLKARSREVDA-------------
+>UniRef90_A0A316YSA7_1247_1413 | Uncharacterized protein n=1 Tax=Acaromyces ingoldii TaxID=215250 RepID=A0A316YSA7_9BASI | E_val=2.5e-05
+----------ILLLDTNAMLTAT-SVLEKLVE-S------------GK-WTSVVPLAALT
+ELEGLK--N-R-P-A----------------------------------PIGERAKAAIE
+YMERNIR------V-K---------S-----KWLKVQTSR---------GNYLP---DL-
+----RFRTEDIDFAY-------GMHQDDNDDEETRV--AR-SIDEVILGCLAWQESHFV-
+D-----R---L---------------NLM-A-------EQPERE-------RS---KVK-
+------------PT-T--AKAVLVTLDRNLRLKARFR-----------------
+>UniRef90_UPI0003F4A18D_729_902 | hypothetical protein n=1 Tax=Tremella mesenterica (strain ATCC 24925 / CBS 8224 / DSM 1558 /  | E_val=3.2e-05
+----------VLIFDTNVLLSSL-VSFTSLVQ-S------------RK-YKCIIPLPVIT
+ELDGLA--K-Q-P-T----------------------------------SLGKSAMEAVE
+YVEKNVK------I-N---------G------GVKVQTTR---------GNYLS---DL-
+----NIRTEQIIRSDHSSDLHDK---------SESG--VG-TMDDRVLDVALWQLKHWV-
+K-----P---H---------------SLK-I-------DSSGKDRR---EEGE---GRE-
+------------EE-I--SKVVLITFDRNLRLKAKSRGLEVAD-----------
+>UniRef90_A0A507CIF0_682_828 | PINc domain-containing protein n=1 Tax=Synchytrium microbalum TaxID=1806994 RepID=A0A507CIF0_9FU | E_val=3.3e-05
+----------TLVFDTNCWLADL-AWIQILVA--------------DS-WQIVVPLAVIT
+ELDGLA--T-G-K-DRQ--------------------------------NNSGAAAAAFT
+YLDSYFN------A-QTS-------R-----RNIKIMTSR---------GNYLP---DL-
+----SIRMESWAGDE-------------------RE--LN-SMDDVILYTCRQLLSLKS-
+---------------------------------------------------GG---SGT-
+------------TS-H--TGVLLVTNDGNLRLKSRASNL---------------
+>UniRef90_A0A1J8QIY7_960_1116 | PINc domain-containing protein n=1 Tax=Rhizopogon vesiculosus TaxID=180088 RepID=A0A1J8QIY7_9AGA | E_val=3.4e-05
+----------ILVLDTNVILSSL-SAVASIIE-S------------LR-WTVVLPVPVIM
+ELDGLS--S-N-P-S----------------------------------QLGEAAQEAVA
+YITSHVR------S-H---------S-----TSLKVQTSK---------GNYLT---SL-
+----SVRIEQVDLTN-------E----------DSW--DR-CMDDLILKAAIWQDEHWV-
+D-----R---S---------------ALM-K-------NAP----------PV---RDD-
+------------TN-A--VKVVLLSLDRLLRLKARSRQLA--------------
+>UniRef90_A0A0K0ECQ7_1129_1320 | PINc domain-containing protein n=1 Tax=Strongyloides stercoralis TaxID=6248 RepID=A0A0K0ECQ7_STR | E_val=3.9e-05
+----VEP--YYIIPDTNCFIDFS-GTIEQLIR-S------------RY-FKVTLSYTVIK
+ELRNLS--K-P-V-HSK---P----EIRTKTIKKSN-LEADS---NHNEWVRKQAIRALK
+MIDEWFE------K-Y---------S-----NYVISLTED---------GLLKE---EL-
+----PLSSTITPITS---------------SINYGI--VQ-KNDDRILQSVINLEKQFL-
+S-----D---E---------------------------GKR---------------NVA-
+------------NP-I--KSIAMLTEDKALRIKACAEGIPCKSLTDFVMWLR--
+>UniRef90_A0A1Y2GLZ8_102_241 | PIN domain-domain-containing protein n=1 Tax=Lobosporangium transversale TaxID=64571 RepID=A0A1Y | E_val=4.6e-05
+-----------VVLDTNILISHL-NFLKSIID-IYGGK------KEPY-IVFVIPWIVVQ
+ELDGLK--K-D-G-FRK----------------------------SGEVNLASKALRATK
+FLEEEFE------K-P---------------EDLRILRGQ-----------------KI-
+----SEHHEELDK-------------------------QA-KNDDKILDCCCYFRNLYP-
+N-----Q---K-------------------------------------------------
+---------------S--TKIALISNDRNLCVKAMIHE----------------
+>UniRef90_K5UZV8_1077_1233 | Uncharacterized protein n=1 Tax=Phanerochaete carnosa (strain HHB-10118-sp) TaxID=650164 RepID=K5UZV | E_val=5.1e-05
+-----------LVFDTNVLLSSL-PMFNALVE-T------------LK-WTVVVPLPVIM
+ELDGLS--S-S-S-T----------------------------------PLGDAAKAASA
+SITSHLR------S-H---------A-----TSLKIQTSK---------GNYLS---NL-
+----NVRTENVDFDW-------N---------EASW--DR-NMDDLILRAAIWQTEHWV-
+D-----R---S---------------KFL-K-------A------------AE---QNT-
+------------TG-A--SKVALLTFDRMLRLKARSREVDVP------------
+>UniRef90_A0A090L9C6_1130_1321 | Telomerase-binding protein EST1A n=1 Tax=Strongyloides ratti TaxID=34506 RepID=A0A090L9C6_STRRB | E_val=5.2e-05
+----VEP--HYIIPDTNCFIDFS-GTIEQLIR-S------------RY-FKVTLSYTVIK
+ELRNLS--K-P-V-HSK---P----EVRTKPIKKSN-LEADS---NHNEWVRKQAKRALK
+MIDEWFE------K-Y---------S-----DYVISLTED---------GLLQE---EL-
+----PPSSTVLPVIS---------------SINHGI--VQ-KNDDRILQSVINLEKQFS-
+L-----N---E---------------------------SKK---------------NAS-
+------------NS-I--KNVAMLTEDKALRIKACAEGIPCKSLSDFVMWLR--
+>UniRef90_A0A165MB73_1109_1266 | PINc domain-containing protein n=1 Tax=Daedalea quercina L-15889 TaxID=1314783 RepID=A0A165MB73_ | E_val=5.9e-05
+----------VLVVDTNILLSSL-PMISTLVD-S------------LQ-WTVVIPLPVIM
+ELDGLA--N-N-P-S----------------------------------ALGEAATSASE
+YITSHIR------T-H---------S-----ASLKVQTSR---------GNYLS---SL-
+----TIRTEQVDFAD-------D---------EASW--ER-NMDDLILRAAIWQDEHWI-
+D-----R---S---------------AIL-Q-------SDG----------VS---RDT-
+------------TG-A--AKVVLLSFDRMLRLKARSRQLS--------------
+>UniRef90_A0A261XWK5_1544_1691 | N-acetyltransferase domain-containing protein n=1 Tax=Bifiguratus adelaidae TaxID=1938954 RepID= | E_val=6.5e-05
+----------TLVIDTNCFIADL-SSVREVIA-S------------KL-FRVVVPLAAIT
+ELDGLR--H-N-P-A----------------------------------PLGKAATCALE
+YLESCMI------S-TSAH------G-----NNLLIQTSR---------YNFLP---DL-
+----SIRTEHIDFG--------------------PS--GR-NLDDVILAVCLWWQGGDY-
+E-----D-----------------------------------------------------
+------------KR-V--APACLVTADRNLRVKASARDVEVIGI----------
+>UniRef90_A0A1Y1UGF1_703_854 | PINc domain-containing protein n=1 Tax=Kockovaella imperatae TaxID=4999 RepID=A0A1Y1UGF1_9TREE | E_val=6.5e-05
+-----------LVFDTNVLLSSL-ELVKRVID-G------------GQ-WKVVVPLPVIT
+ELDGLS--R-N-P-P----------------------------------PLGESASLAIT
+YLEARVR------S-H---------S-----RNLKIQTSK---------GNYLS---DL-
+----TIRAESHHDAG------------------RTD--GT-TMDDLILNVASFQSEHFR-
+S-----N---A-------------------G-------SN----------------AEG-
+------------GG-A--IQVLMVTFDRNLRLRARARGIEAAD-----------
+>UniRef90_A0A4V3XBR4_1170_1326 | PINc domain-containing protein n=1 Tax=Phellinidium pouzarii TaxID=167371 RepID=A0A4V3XBR4_9AGAM | E_val=8e-05
+----------VLVIDTNILLSSL-SFVSSLVE-S------------MR-WTVLVPLAVIT
+ELDGIA--I-N-V-S----------------------------------PLGEAATAAIT
+YISAHIR------T-H---------S-----LSLKVQTSR---------GNYLH---DL-
+----NVRSEQIEFVA------------------ESW--ER-SMDDLILRAMVWQDDHWI-
+D-----R---S---------------SML-N-------A------------GN---HDA-
+------------SG-A--AKVVLISFDRNLRLKARARQLDAAD-----------
+>UniRef90_A0A3N4KLW8_990_1134 | PINc domain-containing protein n=1 Tax=Morchella conica CCBAS932 TaxID=1392247 RepID=A0A3N4KLW8_ | E_val=8.4e-05
+----------VLVVDTNLLLSHP-ETFKFIVS-S------------GN-WAIIIPNCVIT
+ELVGLA--K-N-S-G----------------------------------TVQKAASSAIL
+LINEYLS------E-----------K-----RDIKVITSK---------GNNVT---YT-
+----GFYKEQLGGA--------------------ED--IR-NIDDIIIQTTKQQGEIRR-
+Q-----TL------------------------------------------------KEA-
+------------GD-A--EPAVLITEDRNMRVKANARGVTA-------------
+>UniRef90_A0A4Z0A7A9_1668_1812 | Peptidase M12B domain-containing protein n=1 Tax=Hericium alpestre TaxID=135208 RepID=A0A4Z0A7A9 | E_val=0.00013
+----------ILVMDTNILLSSL-SLVISLIE-S------------LR-WTIVVPLPVIM
+ELDGLA--S-K-T-T----------------------------------LLGDAAKSAVD
+YLIAHVR------S-H---------A-----ASLKVQTSR---------GNYLS---SL-
+----TVRREQVNFDD-------P----------DAW--ER-NMDDLILKAAIWQDEHWV-
+D-----R---S---------------AFL-N-------AG-----------GE---RDT-
+------------AG-A--AKVVLLSLDRN-------------------------
+>UniRef90_UPI000E776859_1413_1523 | uncharacterized protein LOC113399946 isoform X1 n=3 Tax=Vanessa tameamea TaxID=334116 RepID=U | E_val=0.00021
+-EVEVRP--RWLVPDTNCFIDHL-PLLQAVAA-A----------PGQP-YQLAVPLVVVS
+ELEGLR--R-C-A------------------------------------RVGGAARDALA
+WLTA-----------G---------G-----GGVRLATAR---------GSLLA---ARG
+---VAFAAEQDQA-------------------------RG-TNDDRVLATALN-------
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A238FF37_1403_1572 | BQ2448_1090 protein n=1 Tax=Microbotryum intermedium TaxID=269621 RepID=A0A238FF37_9BASI | E_val=0.00021
+----------VLVFDTNILLSSM-KLFRDLVE-A------------EV-WTIVVPLAVIT
+ELDGLR--R-N-E-S----------------------------------PLGVAATEAID
+YLEATIR------T-H---------G-----RYLKVLTSR---------GNYLS---DL-
+----TIRSESIDFSS-------QDRPD-GPSFSHDS--AR-SMDDVILRAVSWQKEHFS-
+N-----R---I---------------ALL-N-------PEKA---------RS---PIT-
+------------ND-I--SQVVLVTFDRNLRLKAKARGLDAAD-----------
+>UniRef90_A0A0D0D4I6_1019_1174 | Unplaced genomic scaffold scaffold_566, whole genome shotgun sequence n=1 Tax=Paxillus rubicundu | E_val=0.00022
+----------VLVLDTNIILSSL-SMIASIVE-S------------LR-WTTIIPVPVIM
+ELDGLS--S-N-T-S----------------------------------QLGEAALEAVS
+YIASHIR------S-H---------A-----ASLKVQTSK---------GNYLA---SL-
+----NVRTEQVEFSD-------E----------QSW--DR-CMDDLILKAAIWQDEHWV-
+D-----R---S---------------ALL-K-------GGT----------AM---RDT-
+------------ST-A--VKVVLLSLDRNLRLKARARQL---------------
+>UniRef90_A0A1X2G2G0_63_184 | PINc domain-containing protein n=1 Tax=Hesseltinella vesiculosa TaxID=101127 RepID=A0A1X2G2G0_9F | E_val=0.00028
+------------------YVDEL-------VT-A--AER-----NPGV-FLIVIPWIVVK
+ELDKLK--M-Q-R-KTN---------------------TTVE---GKAEALGDLARAAMR
+FLQTKLE------S--------------------KSIALR---------GQRLD---EV-
+----YQHDREIL-----------------------------GADDRILDCCMYFRYRLE-
+------------------------------------------------------------
+------------------KPVLLLSNDRNLCIKSMI------------------
+>UniRef90_A0A2S5BFT1_1392_1559 | PINc domain-containing protein n=1 Tax=Rhodotorula taiwanensis TaxID=741276 RepID=A0A2S5BFT1_9BA | E_val=0.00029
+----------VLVFDTNILLTSL-GLLSELVA-A------------EC-WTIILPLAVIT
+ELDGLR--R-N-D-S----------------------------------PLGVAAAEAID
+YLEQAVR------G-Y---------S-----RYLRVQTSR---------GNYLK---DL-
+----AIRNEAIDFGT-------GPETS-----TQDS--AR-SLDDVILRAASWQKEHFS-
+N-----R---L---------------ALV-N-------PRAVAE-------GR---KVP-
+------------SD-T--VQVVLVTFDRNLRLKASARGVEATD-----------
+>UniRef90_A0A0C2X561_929_1097 | PINc domain-containing protein n=1 Tax=Serendipita vermifera MAFF 305830 TaxID=933852 RepID=A0A0 | E_val=0.00033
+----------VLVVDTNILLSAL-SSVISLIE-S------------NQ-WTVLIPLAVIT
+ELDGIS--T-N-Q-T----------------------------------ELGKAASAASQ
+YITSHIR------T-H---------S-----ASLKVQTSR---------GNYLS---TL-
+----NVRSENFDFNS-------RGNRNADGTHGHSW--ER-TLDDLILRAALWQETHWV-
+D-----R---T---------------ALL-K-------GVS----------QR---IRN-
+------------DD-A--AKVVLLTFDRNLRLKARARQLHAG------------
+>UniRef90_A0A2G5BI19_26_140 | PINc domain-containing protein n=1 Tax=Coemansia reversa (strain ATCC 12441 / NRRL 1564) TaxID=7 | E_val=0.0005
+----------VAVVDTNYFIDHL-PLLRSLSE-Q---G------LEQG-LVLVVPWVVIQ
+ELDGLK--S-S-S-RVA---------------------EISG---TQPSSIASLARSATR
+FLDDELG------R-S---------G-----SALRCQKKS---------EYLVN---EI-
+-----------------------------------------EGDDKILDCCLYFLNKKG-
+-----LP-----------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A1Y1I666_579_741 | PINc domain-containing protein n=1 Tax=Klebsormidium nitens TaxID=105231 RepID=A0A1Y1I666_KLENI | E_val=0.00095
+----------YVIPDTNQFLRNL-PQIKRLRE-K------------SG-VQTVVPLAVLK
+ELDGLQ--S-H-----------------------------------PDKRAGALARKALR
+YMSQEMA------A-GVTW-LRGQRR-----SEVRCLVGTDPA---ENRAALVG----VP
+SPREAWRQTSYTA-V-------------------GR--AD-EADDELVDCCVHFSGGG--
+------------------------------------------------------------
+------------------GEVTLLTDDKTLQLKAMFHAVKARPITDFLA-----
+>UniRef90_A0A0K0F6V3_1137_1329 | Telomerase-binding protein EST1A (inferred by orthology to a human protein) n=2 Tax=Strongyloide | E_val=0.00097
+---VVEP--HYIIPDTNCFIDFS-GTIEQLIK-S------------RY-FKVTLSYTVIK
+ELRNLS--K-P-V-HSK---P----ENRVKTKRKSN-LEADS---NHNEWVRKQAIKALK
+MIDEWSE------K-Y---------S-----EYVISLTED---------GLLQE---EL-
+----PTSSSLIPAVS---------------PVNFSI--SQ-KNDDKILRSVINLQKQFL-
+L-----D---Q---------------------------VKK---------------NID-
+------------NP-I--KSIAMLTEDKALRIKACAEGIPCKSLNDFVMWLR--
+>UniRef90_A0A177VZB8_1480_1588 | Uncharacterized protein n=2 Tax=Tilletia TaxID=13289 RepID=A0A177VZB8_9BASI | E_val=0.0011
+----------ILVLDTNIIVSPAGNLLRTLVE-A------------KK-WTVVLPLAVIT
+ELDGLS--K-N-R-N----------------------------------QVGDGAKAALK
+YIEQSLP------T-H---------G-----KWLKVQTSR---------GNYLY---NL-
+----NIRFEHIDFAG-------------------LH--LQ-NGDDVASSSAV--------
+------------------------------------------------------------
+------------------------------------------------------
+>UniRef90_A0A0F7SFP2_1214_1326 | Nonsense-mediated mRNA decay protein n=1 Tax=Phaffia rhodozyma TaxID=264483 RepID=A0A0F7SFP2_PHA | E_val=0.008
+----------VLVFDTNVLLSSL-AVFATVVE-S------------AR-WTTMVPLPVIT
+ELDGLT--K-Q-P-P----------------------------------PLGLQANEALA
+YVTSHIR------S-H---------A-----RTLKVQTSR---------GNYLS---DL-
+----TIRSEDLSFSF-------SSD------AGLDR--AR-NMDDLILRAC---------
+------------------------------------------------------------
+------------------------------------------------------

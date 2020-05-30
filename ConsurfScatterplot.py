@@ -321,6 +321,7 @@ def my_denovo_consurf(grades_dict: STR_DICT, asc_path_and_breakline: List[str an
 
 if __name__ == '__main__':
     # example()
+    # TODO: Move files around to relative paths that were added in recent push!
     asc = r"C:\Users\Marcus Viscardi\PycharmProjects\ComparingConsurf\200522_Match2HWXand2HWY.asc"
     grades_file_dict = {"2HWX": r"T:\Chrome Downloads\SMG5and6\SMG6_(2HWX)\All_Consurf_Outputs\consurf.grades",
                         "2HWY": r"T:\Chrome Downloads\SMG5and6\SMG5_(2HWY)\All_Consurf_Outputs\consurf.grades"}

@@ -13,13 +13,17 @@ Goal is to make a plot with the conservation in 2HWY on one axis, and 2HWX on th
 import sys
 
 import pandas as pd
-from typing import Dict
+from typing import Dict, List
 import matplotlib.pyplot as plt
 import numpy as np
+
+from mapHydrophobicityToAscAlignment import add_hydrophobicity
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
+
+plt.style.use('ggplot')
 
 DF_DICT = Dict[str, pd.DataFrame]
 STR_DICT = Dict[str, str]
@@ -141,9 +145,9 @@ def example():
 def my_denovo_hydro(asc_file: str, split_line: int, scale: str) -> pd.DataFrame:
     def parse_three_letter_asc(file: str, split_line_num: int) -> DF_DICT:
         with open(file, "r") as f:
-            df1 = pd.read_table(f, nrows=split_line_num - 2)
+            df1 = pd.read_csv(f, sep='\t', nrows=split_line_num - 2)
         with open(file, "r") as f:
-            df2 = pd.read_table(f, skiprows=split_line_num - 1)
+            df2 = pd.read_csv(f, sep='\t', skiprows=split_line_num - 1)
         both = [df1, df2]
         df_dict = {}
         for df in both:
@@ -162,9 +166,7 @@ def my_denovo_hydro(asc_file: str, split_line: int, scale: str) -> pd.DataFrame:
         return df_dict
 
     def add_hydrophobicity(df_dict: DF_DICT, scale: str = "kd") -> DF_DICT:
-        """
-        Hydrophobicity scales: (https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/midas/hydrophob.html)
-        """
+        # Hydrophobicity scales: (https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/midas/hydrophob.html)
         scales = {'kd': {'ile': 4.5,
                          'val': 4.2,
                          'leu': 3.8,
@@ -303,26 +305,89 @@ def my_denovo_hydro(asc_file: str, split_line: int, scale: str) -> pd.DataFrame:
     df = dataframe
     fig, ax = plt.subplots(facecolor='w')
     x, y = '2HWX', '2HWY'
-    for key, row in df.iterrows():
-        ax.scatter(row[f'HYDRO_{x}'], row[f'HYDRO_{y}'],
-                   c=row['HYDRO_DIFF'], cmap='inferno',
-                   alpha=0.5, s=row['HYDRO_DIFF'] + 5)
-    line = np.linspace(-5, 5, 11)
-    plt.plot(line, line, 'k-')
+    print('\n\n\n\n', df)
+    print(df['HYDRO_DIFF'].max())
+    ax.scatter(df[f'HYDRO_{x}'], df[f'HYDRO_{y}'],
+               c=df['HYDRO_DIFF'],
+               cmap='Spectral',
+               alpha=0.75,
+               )
+    # TODO: Add annotations! Maybe only add them to the ones above some threshold
+    # line = np.linspace(-5, 5, 11)
+    # plt.plot(line, line, 'k-', alpha=0.25)
     ax.set_xlabel(f'Hydrophobicity of residues in {x} on kd scale')
     ax.set_ylabel(f'Hydrophobicity of residues in {y} on kd scale')
     plt.show()
     return dataframe
 
 
-def my_denovo_consurf(grades_dict: STR_DICT, asc_path_and_breakline: List[str and int], suffix: str = ''):
-    pass
+def my_denovo_consurf(grades_dict: STR_DICT, asc_file: str, asc_split_line: int, suffix: str = ''):
+    def parse_three_letter_asc(file: str, split_line_num: int) -> DF_DICT:
+        with open(file, "r") as f:
+            df1 = pd.read_csv(f, sep='\t', nrows=split_line_num - 2)
+        with open(file, "r") as f:
+            df2 = pd.read_csv(f, sep='\t', skiprows=split_line_num - 1)
+        both = [df1, df2]
+        df_dict = {}
+        for df in both:
+            column = df.columns[0]
+            name = column[:4]
+            # It is important that I am keeping this POS positional data, not the position from the .grades files!
+            df[['POS', 'ID']] = pd.DataFrame(df.apply(lambda x: x[column].split(' - '), axis=1).tolist(),
+                                             index=df.index)
+            df = df.astype({column: 'object',
+                            'POS': 'int64',
+                            'ID': 'object'})
+            df[['RES', 'ID']] = pd.DataFrame(df.apply(lambda x: x['ID'].split(), axis=1).tolist(), index=df.index)
+            df['ID'] = ':' + df['ID']
+            df_dict[name] = df[['POS', 'RES', 'ID']]
+            print(f"{name}: {df.shape[0]} aligned residues")
+        return df_dict
+
+    def parse_grades(grades_dic: STR_DICT) -> DF_DICT:
+        pass
+
+    def merge_df_dict(df_dict: DF_DICT) -> pd.DataFrame:  # TODO: change for consurf
+        key_list = [k for k in df_dict.keys()]
+        hwy, hwx = key_list
+        print(f"\nKeys:\n\tHWX: '{hwx}'\n\tHWY: '{hwy}'")
+        merge_df = df_dict[hwx].merge(df_dict[hwy], on='POS', how='outer', suffixes=(f'_{hwx}', f'_{hwy}'))
+        merge_df['HYDRO_DIFF'] = pd.Series(merge_df[f'HYDRO_{hwx}'] - merge_df[f'HYDRO_{hwy}']).abs()
+        merge_df = merge_df.dropna()
+        merge_df = merge_df.set_index('POS')
+        print(merge_df)
+        return merge_df
+
+    def main_df_generation(asc_file: str, split_line: int, scale: str) -> pd.DataFrame:  # TODO: change for consurf
+        dataframe_dict = parse_three_letter_asc(asc_file, split_line)
+        hydro_df_dict = add_hydrophobicity(dataframe_dict, scale=scale)
+        merge_df = merge_df_dict(hydro_df_dict)
+        return merge_df
+
+    dataframe = main_df_generation(asc_file=asc_file, split_line=asc_split_line, scale=scale)
+    print(dataframe.columns)
+    df = dataframe
+    fig, ax = plt.subplots(facecolor='w')
+    x, y = '2HWX', '2HWY'
+    print('\n\n\n\n', df)
+    print(df['HYDRO_DIFF'].max())
+    ax.scatter(df[f'HYDRO_{x}'], df[f'HYDRO_{y}'],
+               c=df['HYDRO_DIFF'],
+               cmap='Spectral',
+               alpha=0.75,
+               )
+    # TODO: Add annotations! Maybe only add them to the ones above some threshold
+    # line = np.linspace(-5, 5, 11)
+    # plt.plot(line, line, 'k-', alpha=0.25)
+    ax.set_xlabel(f'Hydrophobicity of residues in {x} on kd scale')
+    ax.set_ylabel(f'Hydrophobicity of residues in {y} on kd scale')
+    plt.show()
+    return dataframe
 
 
 if __name__ == '__main__':
     # example()
-    # TODO: Move files around to relative paths that were added in recent push!
-    asc = r"C:\Users\Marcus Viscardi\PycharmProjects\ComparingConsurf\200522_Match2HWXand2HWY.asc"
-    grades_file_dict = {"2HWX": r"T:\Chrome Downloads\SMG5and6\SMG6_(2HWX)\All_Consurf_Outputs\consurf.grades",
-                        "2HWY": r"T:\Chrome Downloads\SMG5and6\SMG5_(2HWY)\All_Consurf_Outputs\consurf.grades"}
+    asc = r"Chimera_Files/200522_Match2HWXand2HWY.asc"
+    grades_file_dict = {"2HWX": r"./SMG6_Consurf_Outputs/consurf.grades",
+                        "2HWY": r"./SMG5_Consurf_Outputs/consurf.grades"}
     df = my_denovo_hydro(asc, 118, 'kd')

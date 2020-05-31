@@ -344,50 +344,72 @@ def my_denovo_consurf(grades_dict: STR_DICT, asc_file: str, asc_split_line: int,
             print(f"{name}: {df.shape[0]} aligned residues")
         return df_dict
 
-    def parse_grades(grades_dic: STR_DICT) -> DF_DICT:
-        pass
+    def parse_grades(grades_name_dict: STR_DICT, header: int = 13, footer: int = 4) -> DF_DICT:
+        df_dict = {}
+        for name, file in grades_name_dict.items():
+            dataframe = pd.read_fwf(open(file, 'r'), skiprows=header, skipfooter=footer)
+            dataframe['ID'] = dataframe['3LATOM'].str.extract(pat=r"([A-Z]{3}\d+:[A-Z])")
+            dataframe['RES'] = dataframe['ID'].str.extract(pat=r"([A-Z]{3})")
+            dataframe['ID'] = dataframe['ID'].str.extract(pat=r"(\d+:[A-Z])")
+            dataframe['ID'] = ':' + dataframe['ID'].str.replace(":", ".")
+            df = dataframe[['RES', 'ID', 'SCORE']]
+            all_graded = df.shape[0]
+            df = df.dropna()
+            on_structure = df.shape[0]
+            # print(df.head(10))
+            df_dict[name] = df
+            print(f"{name}: {all_graded} graded residues, {on_structure} show up on structure")
+            # print(df)
+        return df_dict
 
-    def merge_df_dict(df_dict: DF_DICT) -> pd.DataFrame:  # TODO: change for consurf
-        key_list = [k for k in df_dict.keys()]
-        hwy, hwx = key_list
+    def merge_df_dict(asc_df_dict: DF_DICT, grades_df_dict: DF_DICT) -> pd.DataFrame:  # TODO: change for consurf
+        hwy, hwx = [k for k in asc_df_dict.keys()]
+        hwy_two, hwx_two = [k for k in grades_df_dict.keys()]
+        if hwy != hwy_two or hwx != hwx_two:
+            print(f"KEYS DO NOT MATCH UP: {hwy}:{hwy_two}, {hwx}:{hwx_two}")
+            print(f"\nKeys:\n\tHWX: '{hwx}'\n\tHWY: '{hwy}'")
+            sys.exit()
         print(f"\nKeys:\n\tHWX: '{hwx}'\n\tHWY: '{hwy}'")
-        merge_df = df_dict[hwx].merge(df_dict[hwy], on='POS', how='outer', suffixes=(f'_{hwx}', f'_{hwy}'))
-        merge_df['HYDRO_DIFF'] = pd.Series(merge_df[f'HYDRO_{hwx}'] - merge_df[f'HYDRO_{hwy}']).abs()
-        merge_df = merge_df.dropna()
-        merge_df = merge_df.set_index('POS')
-        print(merge_df)
+        grades_asc_df_dict = {}
+        for name in asc_df_dict.keys():
+            df = asc_df_dict[name].merge(grades_df_dict[name], on=['ID', 'RES'])
+            # print(df)
+            grades_asc_df_dict[name] = df
+        merge_df = grades_asc_df_dict[hwx].merge(grades_asc_df_dict[hwy], on='POS', suffixes=(f'_{hwx}', f'_{hwy}'))
+        merge_df['DIFF'] = pd.Series(merge_df[f'SCORE_{hwx}'] - merge_df[f'SCORE_{hwy}']).abs()
         return merge_df
 
-    def main_df_generation(asc_file: str, split_line: int, scale: str) -> pd.DataFrame:  # TODO: change for consurf
-        dataframe_dict = parse_three_letter_asc(asc_file, split_line)
-        hydro_df_dict = add_hydrophobicity(dataframe_dict, scale=scale)
-        merge_df = merge_df_dict(hydro_df_dict)
+    def main_df_generation(asc_file: str, split_line: int, grade_names_dict: STR_DICT) -> pd.DataFrame:  # TODO: change for consurf
+        asc_dataframe_dict = parse_three_letter_asc(asc_file, split_line)
+        grades_dataframe_dict = parse_grades(grade_names_dict)
+        merge_df = merge_df_dict(asc_dataframe_dict, grades_dataframe_dict)
         return merge_df
 
-    dataframe = main_df_generation(asc_file=asc_file, split_line=asc_split_line, scale=scale)
-    print(dataframe.columns)
-    df = dataframe
+    df = main_df_generation(asc_file, asc_split_line, grades_dict)
+    print(df.columns)
     fig, ax = plt.subplots(facecolor='w')
     x, y = '2HWX', '2HWY'
     print('\n\n\n\n', df)
-    print(df['HYDRO_DIFF'].max())
-    ax.scatter(df[f'HYDRO_{x}'], df[f'HYDRO_{y}'],
-               c=df['HYDRO_DIFF'],
+    print(df['DIFF'].max())
+    ax.scatter(df[f'SCORE_{x}'], df[f'SCORE_{y}'],
+               c=df['DIFF'],
                cmap='Spectral',
                alpha=0.75,
                )
     # TODO: Add annotations! Maybe only add them to the ones above some threshold
     # line = np.linspace(-5, 5, 11)
     # plt.plot(line, line, 'k-', alpha=0.25)
-    ax.set_xlabel(f'Hydrophobicity of residues in {x} on kd scale')
-    ax.set_ylabel(f'Hydrophobicity of residues in {y} on kd scale')
+    ax.set_xlabel(f'Consurf score of residues in {x}')
+    ax.set_ylabel(f'Consurf score of residues in {y}')
     plt.show()
-    return dataframe
+    return df
 
 
 if __name__ == '__main__':
     # example()
     asc = r"Chimera_Files/200522_Match2HWXand2HWY.asc"
-    grades_file_dict = {"2HWX": r"./SMG6_Consurf_Outputs/consurf.grades",
-                        "2HWY": r"./SMG5_Consurf_Outputs/consurf.grades"}
-    df = my_denovo_hydro(asc, 118, 'kd')
+    grades_file_dict = {"2HWY": r"./SMG5_Consurf_Outputs/consurf.grades",
+                        "2HWX": r"./SMG6_Consurf_Outputs/consurf.grades",
+                        }
+    # df = my_denovo_hydro(asc, 118, 'kd')
+    my_denovo_consurf(grades_file_dict, asc, 118)

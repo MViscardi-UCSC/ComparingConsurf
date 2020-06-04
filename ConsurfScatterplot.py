@@ -15,9 +15,9 @@ import sys
 import pandas as pd
 from typing import Dict, List
 import matplotlib.pyplot as plt
+from matplotlib.widgets import Button
+from matplotlib.text import Annotation
 import numpy as np
-
-from mapHydrophobicityToAscAlignment import add_hydrophobicity
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
@@ -347,11 +347,16 @@ def my_denovo_consurf(grades_dict: STR_DICT, asc_file: str, asc_split_line: int,
     def parse_grades(grades_name_dict: STR_DICT, header: int = 13, footer: int = 4) -> DF_DICT:
         df_dict = {}
         for name, file in grades_name_dict.items():
-            dataframe = pd.read_fwf(open(file, 'r'), skiprows=header, skipfooter=footer)
+            with open(file, 'r') as f:
+                dataframe = pd.read_fwf(f, skiprows=header, skipfooter=footer)
+            # with open(file, 'r') as f:
+            #     dataframe = pd.read_csv(f, sep='\t', skiprows=header, skipfooter=footer)
+            # print(dataframe)
             dataframe['ID'] = dataframe['3LATOM'].str.extract(pat=r"([A-Z]{3}\d+:[A-Z])")
             dataframe['RES'] = dataframe['ID'].str.extract(pat=r"([A-Z]{3})")
             dataframe['ID'] = dataframe['ID'].str.extract(pat=r"(\d+:[A-Z])")
             dataframe['ID'] = ':' + dataframe['ID'].str.replace(":", ".")
+            # dataframe['SCORE'] = dataframe['COLOR']
             df = dataframe[['RES', 'ID', 'SCORE']]
             all_graded = df.shape[0]
             df = df.dropna()
@@ -362,7 +367,7 @@ def my_denovo_consurf(grades_dict: STR_DICT, asc_file: str, asc_split_line: int,
             # print(df)
         return df_dict
 
-    def merge_df_dict(asc_df_dict: DF_DICT, grades_df_dict: DF_DICT) -> pd.DataFrame:  # TODO: change for consurf
+    def merge_df_dict(asc_df_dict: DF_DICT, grades_df_dict: DF_DICT) -> pd.DataFrame:
         hwy, hwx = [k for k in asc_df_dict.keys()]
         hwy_two, hwx_two = [k for k in grades_df_dict.keys()]
         if hwy != hwy_two or hwx != hwx_two:
@@ -379,7 +384,7 @@ def my_denovo_consurf(grades_dict: STR_DICT, asc_file: str, asc_split_line: int,
         merge_df['DIFF'] = pd.Series(merge_df[f'SCORE_{hwx}'] - merge_df[f'SCORE_{hwy}']).abs()
         return merge_df
 
-    def main_df_generation(asc_file: str, split_line: int, grade_names_dict: STR_DICT) -> pd.DataFrame:  # TODO: change for consurf
+    def main_df_generation(asc_file: str, split_line: int, grade_names_dict: STR_DICT) -> pd.DataFrame:
         asc_dataframe_dict = parse_three_letter_asc(asc_file, split_line)
         grades_dataframe_dict = parse_grades(grade_names_dict)
         merge_df = merge_df_dict(asc_dataframe_dict, grades_dataframe_dict)

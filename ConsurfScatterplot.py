@@ -394,8 +394,8 @@ def my_denovo_consurf(grades_dict: STR_DICT, asc_file: str, asc_split_line: int,
     print(df.columns)
     fig, ax = plt.subplots(facecolor='w')
     x, y = '2HWX', '2HWY'
-    print('\n\n\n\n', df)
-    print(df['DIFF'].max())
+    print('\n\n\n\n', df.sort_values("DIFF", ascending=False))
+    # print(df['DIFF'].max())
     ax.scatter(df[f'SCORE_{x}'], df[f'SCORE_{y}'],
                c=df['DIFF'],
                cmap='Spectral',
@@ -404,8 +404,8 @@ def my_denovo_consurf(grades_dict: STR_DICT, asc_file: str, asc_split_line: int,
     # TODO: Add annotations! Maybe only add them to the ones above some threshold
     # line = np.linspace(-5, 5, 11)
     # plt.plot(line, line, 'k-', alpha=0.25)
-    ax.set_xlabel(f'Consurf score of residues in {x}')
-    ax.set_ylabel(f'Consurf score of residues in {y}')
+    ax.set_xlabel(f'Residue variance score: {x} (SMG5)')
+    ax.set_ylabel(f'Residue variance score: {y} (SMG6)')
     plt.show()
     return df
 
@@ -417,4 +417,5 @@ if __name__ == '__main__':
                         "2HWX": r"./SMG6_Consurf_Outputs/consurf.grades",
                         }
     # df = my_denovo_hydro(asc, 118, 'kd')
-    my_denovo_consurf(grades_file_dict, asc, 118)
+    df = my_denovo_consurf(grades_file_dict, asc, 118)
+    df.to_excel('dataframe.xlsx')
